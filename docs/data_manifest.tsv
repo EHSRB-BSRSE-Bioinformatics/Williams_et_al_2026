@@ -1,0 +1,13 @@
+path	role	distribution	sha256	source_or_derivation
+data/input/count_table.tsv	QC-filtered count matrix	Git	527d1c1f8d10def1594c15bd891ba87b0e060cce0c74c324708b834fbf40f7d3	Study input used by the Monte Carlo analyses
+data/input/metadata.QC_applied.txt	QC-filtered sample metadata	Git	4427a169fd9670af7104b470c8790d2739e72f47c134be27876de301a7aea73b	Study metadata; simulations select DMSO samples
+data/external/wikipathways-20231010-gmt-Homo_sapiens.gmt	WikiPathways gene sets	Git	2bd4bb1dd05a795c65ef65e20c57830a6ff5688e1512080ec4beb5a25661e3db	WikiPathways 2023-10-10 Homo sapiens GMT release
+data/derived/monte_carlo_trial_metadata.rds	Frozen Monte Carlo sample assignments	Git	049b0f1eb3fb679eceac2a8d89f0d5a62f973657e97516b303e7e15b90601837	32,000 trial definitions used in the study
+data/derived/deg_monte_carlo_summary.rds	Compact DEG trial summary	Git	6346c41270732da54e60443f1d21f833ebf5ea3fda5f3bce6a48dddde54eded3	Derived from archived DEG trial-level objects
+data/derived/gsea_monte_carlo_summary.rds	Compact GSEA trial summary	Git	5f5a3d1fab6e5b92ad44b1dfd38a5547f058a5cf18a390436cc359cafad79696	Derived from archived GSEA trial-level objects with gene-set sizes 15--500
+data/derived/ora_monte_carlo_summary.rds	Compact ORA trial summary	Git	702c7f012f28713f17a14ac829cb6d06c30e4c3325506b9c20c191f8a7d31491	Derived from archived ORA trial-level objects
+data/derived/tgx_ddi_monte_carlo_summary.rds	Compact TGx-DDI trial summary	Git	bf53616e811edc09c71208b77ec093f4a35099069ce86e36c497334c02fe2269	Derived from archived TGx-DDI trial-level objects
+data/large/DEGs_simulations/*.RDS	Large DEG trial-level provenance	Zenodo pending		Expected archive size is approximately 3.8--5.1 GB per cell line
+data/large/GSEA_simulations/*_gsea.RDS	Large GSEA trial-level provenance	Zenodo pending		Expected archive size is approximately 0.9--1.0 GB per cell line
+data/large/ORA_simulations/2023-11-09/*_ora.RDS	Large ORA trial-level provenance	Zenodo pending		Expected archive size is approximately 0.15--0.86 GB per cell line
+data/large/TGx-DDI_simulations/*.RDS	Large TGx-DDI biomarker provenance	Zenodo pending		Expected biomarker input size is approximately 23--27 MB per cell line

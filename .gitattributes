@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.R text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.tsv text eol=lf
+*.txt text eol=lf
+*.gmt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.rds binary
+*.RDS binary
+*.pdf binary
+*.png binary
+pixi.lock merge=binary linguist-language=YAML linguist-generated=true -diff

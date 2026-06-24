@@ -1,0 +1,16 @@
+Package: FDRcode
+Title: Publication Code for Transcriptomics False-Positive Monte Carlo Analyses
+Version: 0.0.1
+Authors@R: c(person("Matt", "Meier", role = c("aut", "cre")))
+Description: Reusable scripts and compact derived data for the transcriptomics
+    false-positive rate publication analyses. Includes frozen Monte Carlo trial
+    assignments and functions for rebuilding the publication figures.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    dplyr,
+    tidyr,
+    ggplot2,
+    patchwork,
+    viridis,
+    ggridges

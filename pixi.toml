@@ -1,0 +1,23 @@
+[workspace]
+authors = ["mattjmeier <matthew.james.meier@gmail.com>"]
+channels = ["conda-forge", "bioconda"]
+name = "FDR_code"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+check = "Rscript scripts/check_setup.R"
+figures = { cmd = "Rscript scripts/render_figures.R", depends-on = ["check"] }
+trial-metadata = "Rscript scripts/01_make_trial_metadata.R"
+rebuild-gsea = "Rscript scripts/rebuild_gsea_summary.R"
+rebuild-summaries = "Rscript scripts/rebuild_summaries_from_large_outputs.R"
+
+[dependencies]
+r-base = ">=4.5.3,<4.6"
+r-tidyr = ">=1.3.2,<2"
+r-dplyr = ">=1.2.1,<2"
+r-patchwork = ">=1.3.2,<2"
+r-ggplot2 = ">=4.0.3,<5"
+r-ggridges = ">=0.5.7,<0.6"
+r-viridis = ">=0.6.5,<0.7"
+r-cairo = ">=1.7_0,<2"

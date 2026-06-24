@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the associated Williams et al. publication and the archived
+  repository release. Publication and Zenodo identifiers will be added when
+  available.
+type: software
+title: Code for empirical false-positive rates in transcriptomics
+authors:
+  - family-names: Meier
+    given-names: Matt
+version: 0.1.0
+license: MIT
