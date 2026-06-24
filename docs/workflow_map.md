@@ -1,9 +1,9 @@
 # Publication workflow map
 
 This repository packages the false-positive analysis in Williams et al. (2026)
-as two reproducibility levels: a compact figure workflow that runs entirely
-from Git, and an expensive re-summarization workflow that also requires the
-separate large-file archive.
+as two reproducibility levels: a compact figure workflow that runs entirely from
+Git, and an expensive trial-level workflow that regenerates the large simulation
+objects before rebuilding compact summaries.
 
 ## Compact figure workflow
 
@@ -19,7 +19,7 @@ data/derived/*_monte_carlo_summary.rds
 ```
 
 Run `pixi run check` and then `pixi run figures`. This is the supported route
-for reproducing the publication plots.
+for reproducing the publication plots from the files stored directly in Git.
 
 ## Source inputs and frozen trial design
 
@@ -37,26 +37,62 @@ for reproducing the publication plots.
 default and writes a separate seed-labelled file. The frozen object remains the
 source of record for the publication analysis.
 
+## Trial-level simulation workflow
+
+```text
+data/input/count_table.tsv
+                 +
+data/derived/monte_carlo_trial_metadata.rds
+                 |
+                 v
+        scripts/run_deg_trials.R
+                 |
+                 v
+data/large/DEGs_simulations/*.RDS
+       |                         \
+       |                          \
+       v                           v
+scripts/run_pathway_trials.R   scripts/run_tgx_ddi_trials.R
+       |                           |
+       v                           v
+data/large/ORA_simulations/     data/large/TGx_DDI_simulations/
+data/large/GSEA_simulations/              |
+       \___________________________       |
+                                   \      |
+                                    v     v
+                scripts/rebuild_summaries_from_large_outputs.R
+                                      |
+                                      v
+                    data/derived/*_monte_carlo_summary.rds
+                                      |
+                                      v
+                            scripts/render_figures.R
+```
+
+The full workflow is documented in `docs/simulation_workflow.md`. It is
+computationally expensive and creates multi-gigabyte intermediate objects, so the
+large outputs are intentionally kept out of Git and distributed separately.
+
 ## Expensive re-summarization workflow
 
 ```text
-data/large/DEGs_simulations/*.RDS ------------------+
-data/large/GSEA_simulations/*_gsea.RDS -------------+--> compact summaries
-data/large/ORA_simulations/2023-11-09/*_ora.RDS ----+          |
-                                                               v
+data/large/DEGs_simulations/*.RDS -------------------+
+data/large/GSEA_simulations/*_gsea.RDS --------------+--> compact summaries
+data/large/ORA_simulations/*_ora.RDS ----------------+          |
+data/large/TGx_DDI_simulations/*_tgx_ddi_results.RDS-+          v
                                                         figure workflow
 ```
 
-The large trial-level objects will be distributed through Zenodo. Their exact
-directory layout and filenames are documented in `data/large/README.md`. Run
-`pixi run rebuild-summaries` after extracting them. The TGx-DDI compact summary
-is included in Git; its large provenance objects are archived for traceability
-but are not consumed by the current rebuild script.
+Run `pixi run rebuild-summaries` or
+`Rscript scripts/rebuild_summaries_from_large_outputs.R` after extracting the
+large archive. Set `FDR_ORA_DIR` when rebuilding from a newly dated ORA run.
+TGx-DDI large outputs are optional for re-summarization; when absent, the
+existing compact TGx-DDI summary is left unchanged.
 
-For GSEA, parallel `foreach` results may be unnamed. The rebuild code restores
-trial names from the frozen trial design, validates existing names when they
-are present, and refuses to continue when result counts do not match. The
-publication GSEA summary uses gene sets containing 15--500 genes.
+For GSEA, parallel results may be unnamed. The rebuild code restores trial names
+from the frozen trial design, validates existing names when they are present,
+and refuses to continue when result counts do not match. The publication GSEA
+summary uses gene sets containing 15--500 genes.
 
 ## False-positive rate definition
 
@@ -72,6 +108,5 @@ analysis group does not contain 1,000 trials.
 ## Integrity metadata
 
 `docs/data_manifest.tsv` records the role and SHA-256 checksum of each included
-data object. Recalculate the affected checksum whenever an included data file
-is deliberately replaced; unexplained checksum changes should block release.
-
+data object. Recalculate the affected checksum whenever an included data file is
+deliberately replaced; unexplained checksum changes should block release.
