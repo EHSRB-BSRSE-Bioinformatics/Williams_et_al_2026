@@ -59,7 +59,7 @@ for (name in names(figures)) {
     width = 10.5,
     height = if (name == "tgx_ddi") 7 else 6,
     units = "in",
-    dpi = 300,
+    dpi = 600,
     device = png
   )
 }
