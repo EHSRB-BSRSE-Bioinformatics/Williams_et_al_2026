@@ -14,6 +14,7 @@ required_files <- c(
   derived_files$deg,
   derived_files$gsea,
   derived_files$ora,
+  derived_files$tpod_fdr,
   derived_files$tgx_ddi,
   derived_files$trial_metadata,
   fdr_path("data", "input", "count_table.tsv"),
@@ -76,6 +77,7 @@ if (!is.null(trial_metadata)) {
 deg <- read_rds_checked(derived_files$deg, "DEG summary")
 gsea <- read_rds_checked(derived_files$gsea, "GSEA summary")
 ora <- read_rds_checked(derived_files$ora, "ORA summary")
+tpod_fdr <- read_rds_checked(derived_files$tpod_fdr, "tPoD FDR summary")
 tgx_ddi <- read_rds_checked(derived_files$tgx_ddi, "TGx-DDI summary")
 
 check_columns(
@@ -97,10 +99,22 @@ check_columns(
   "ORA summary"
 )
 check_columns(
+  tpod_fdr,
+  c(
+    "R_Squared_Filter", "Fold_Change_Cutoff", "P_Value_Cutoff",
+    "tPoD", "n_false_positives", "n_total", "FPR", "Design", "CellLine"
+  ),
+  "tPoD FDR summary"
+)
+check_columns(
   tgx_ddi,
   c("cell_line", "n_per_group", "tgx_ddi_test", "tgx_ddi_value"),
   "TGx-DDI summary"
 )
+
+if (!is.null(tpod_fdr) && is.data.frame(tpod_fdr) && nrow(tpod_fdr) != 1920L) {
+  add_issue("tPoD FDR summary has ", nrow(tpod_fdr), " rows; expected 1920.")
+}
 
 if (!is.null(gsea) && is.data.frame(gsea)) {
   valid_gsea_range <- all(c("min_size", "max_size") %in% names(gsea)) &&

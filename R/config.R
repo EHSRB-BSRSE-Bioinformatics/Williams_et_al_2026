@@ -40,6 +40,7 @@ derived_files <- list(
   deg = fdr_path("data", "derived", "deg_monte_carlo_summary.rds"),
   gsea = fdr_path("data", "derived", "gsea_monte_carlo_summary.rds"),
   ora = fdr_path("data", "derived", "ora_monte_carlo_summary.rds"),
+  tpod_fdr = fdr_path("data", "derived", "tpod_fdr_grid_summary.rds"),
   tgx_ddi = fdr_path("data", "derived", "tgx_ddi_monte_carlo_summary.rds"),
   trial_metadata = fdr_path("data", "derived", "monte_carlo_trial_metadata.rds")
 )

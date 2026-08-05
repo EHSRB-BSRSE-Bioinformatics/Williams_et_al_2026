@@ -247,6 +247,7 @@ read_summary_inputs <- function() {
     deg = readRDS(derived_files$deg) %>% factor_cell_lines(),
     gsea = readRDS(derived_files$gsea) %>% factor_cell_lines(),
     ora = readRDS(derived_files$ora) %>% factor_cell_lines(),
+    tpod_fdr = readRDS(derived_files$tpod_fdr),
     tgx_ddi = readRDS(derived_files$tgx_ddi) %>% factor_cell_lines()
   )
 }
