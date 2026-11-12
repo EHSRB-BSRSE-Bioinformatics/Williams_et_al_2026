@@ -14,3 +14,7 @@ Imports:
     patchwork,
     viridis,
     ggridges
+Suggests:
+    DESeq2,
+    edgeR,
+    ashr

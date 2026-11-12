@@ -21,3 +21,23 @@ r-ggplot2 = ">=4.0.3,<5"
 r-ggridges = ">=0.5.7,<0.6"
 r-viridis = ">=0.6.5,<0.7"
 r-cairo = ">=1.7_0,<2"
+
+[feature.deg.dependencies]
+bioconductor-deseq2 = "*"
+bioconductor-edger = "*"
+r-ashr = "*"
+
+[feature.deg-study.tasks]
+deg-validate = "Rscript scripts/validate_deg_reference.R --strict-numerics false"
+deg-example = "Rscript scripts/run_deg_trials.R --trial-ids data/reference/deg_reference_trials.tsv --output-dir data/large/deg_example --cores 1"
+
+[feature.deg-study.dependencies]
+r-base = ">=4.2,<4.3"
+bioconductor-deseq2 = "1.38.0.*"
+bioconductor-edger = "3.40.0.*"
+r-ashr = "2.2_54.*"
+
+[environments]
+default = { solve-group = "default" }
+deg = { features = ["deg"], solve-group = "default" }
+deg-study = { features = ["deg-study"], no-default-feature = true }

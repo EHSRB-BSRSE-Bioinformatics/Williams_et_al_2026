@@ -12,3 +12,7 @@ data/large/DEGs_simulations/*.RDS	Large DEG trial-level provenance	Zenodo pendin
 data/large/GSEA_simulations/*_gsea.RDS	Large GSEA trial-level provenance	Zenodo pending		Expected archive size is approximately 0.9--1.0 GB per cell line
 data/large/ORA_simulations/2023-11-09/*_ora.RDS	Large ORA trial-level provenance	Zenodo pending		Expected archive size is approximately 0.15--0.86 GB per cell line
 data/large/TGx-DDI_simulations/*.RDS	Large TGx-DDI biomarker provenance	Zenodo pending		Expected biomarker input size is approximately 23--27 MB per cell line
+data/reference/deg_reference.rds	Selected archived DEG output tables	Git	ed7542a53e671a181a723b0a8c0be27b13608d1ae17a00d4f78c40f34eb580cd	Extracted from original 2023 DEG archives; see docs/deseq2_methods.md
+data/reference/deg_reference_metadata.rds	Selected archived DEG result and shrinkage metadata	Git	d94d349450ca94297fd2035d5dcadcac3ab72c2ae4f814244a8481e56491b4ff	Extracted from original 2023 DEG archives; see docs/deseq2_methods.md
+data/reference/deg_reference_trials.tsv	Selected frozen trial IDs and extraction reasons	Git	7e92eb79bea451e59029f58a8feb1008a6e7275f1e089226909c584e52559fa5	Extracted from original 2023 DEG archives; see docs/deseq2_methods.md
+data/reference/deg_source_archives.tsv	SHA-256 checksums of source DEG archives	Git	4039b606c7f1601ec90b320a90644e91f0e87917c495027d70e2f3f3e8a9a60f	Extracted from original 2023 DEG archives; see docs/deseq2_methods.md

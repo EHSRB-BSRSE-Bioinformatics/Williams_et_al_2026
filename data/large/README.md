@@ -41,3 +41,9 @@ directory are intentionally ignored by Git.
 When the Zenodo upload is complete, add the DOI, direct archive URL, archive
 checksums, and version/date here.
 
+
+The local `provenance/` subdirectory retains the original study DEG script for
+internal provenance. It is ignored by Git. Public readers use the cleaned
+implementation and source checksum described in `docs/deseq2_methods.md`.
+Selected archived DEG outputs are bundled separately in `data/reference/`;
+`deg_example/` and `deg_validation/` hold disposable example and check outputs.

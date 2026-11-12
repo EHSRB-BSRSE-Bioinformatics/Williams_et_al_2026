@@ -37,7 +37,7 @@ Rscript scripts/check_simulation_setup.R
 ## 1. Regenerate DESeq2 trial-level objects
 
 ```bash
-Rscript scripts/run_deg_trials.R --cores 40 --overwrite true
+pixi run --locked -e deg-study Rscript scripts/run_deg_trials.R --cores 40 --overwrite true
 ```
 
 By default this writes:
@@ -52,7 +52,7 @@ data/large/DEGs_simulations/spheroids.RDS
 Useful options:
 
 ```bash
-Rscript scripts/run_deg_trials.R --cell-lines "TK6,HepaRG" --cores 20
+pixi run --locked -e deg-study Rscript scripts/run_deg_trials.R --cell-lines "TK6,HepaRG" --cores 20
 ```
 
 Environment variables are also supported:
@@ -64,11 +64,20 @@ Environment variables are also supported:
 - `FDR_DEG_LINEAR_FC` default `1.5`
 - `FDR_NMR_THRESHOLD` default `100000`
 
-Note: the old exploratory script referred to an `R-ODAF`-filtered table, but the
-private implementation of that filter was not present in the material used to
-build this public workflow. The reproducible DESeq2 rerun therefore records
-`DESeqResFiltered` as rows with finite adjusted p-values and records
-`DESeqResDEGs` as the p-value + fold-change calls used by the publication figure.
+The runner now uses the study-specific DESeq2/R-ODAF implementation, including
+relevance filtering and ashr shrinkage. See [deseq2_methods.md](deseq2_methods.md)
+for exact settings, historical intermediate-table indexing, and a selected-trial
+example. `FDR_DEG_MIN_CPM` defaults to `0.5`; `FDR_DEG_COOKS` defaults to `false`.
+Use the optional locked `deg-study` environment for DEG runs:
+
+```bash
+pixi run --locked -e deg-study Rscript scripts/run_deg_trials.R \
+  --trial-ids data/reference/deg_reference_trials.tsv \
+  --output-dir data/large/deg_example --cores 1
+```
+
+The `deg-study` environment contains the DEG dependencies only. It does not supply all pathway and classifier packages
+needed by the complete downstream simulation workflow.
 
 ## 2. Regenerate ORA and GSEA trial-level objects
 

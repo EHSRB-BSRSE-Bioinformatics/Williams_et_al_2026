@@ -25,3 +25,6 @@ jobs:
 
       - name: Validate repository inputs
         run: pixi run check
+
+      - name: Validate DEG filter boundaries
+        run: pixi run Rscript scripts/check_deg_rules.R

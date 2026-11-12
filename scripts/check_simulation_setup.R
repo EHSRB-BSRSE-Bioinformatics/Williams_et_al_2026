@@ -21,6 +21,7 @@ required_packages <- c(
   "data.table",
   "DESeq2",
   "edgeR",
+  "ashr",
   "AnnotationDbi",
   "org.Hs.eg.db",
   "reactome.db",

@@ -1,0 +1,5 @@
+archive_file	sha256	source_directory
+tk6.RDS	2d5b2af1d4185a337bb3570e9c46e485e2d5ae552e45d9af4622763d7772c39e	bootstrap_DEGs/output/1000_iterations/nobatch_2023-05-10/
+mcf7.RDS	17f3a32d0a6c22cb55a3d48b808a762ffc7f9c7d097736deca205b578904bba6	bootstrap_DEGs/output/1000_iterations/nobatch_2023-05-10/
+heparg.RDS	8263ae1a4ae7c207b28287dff8ffa11087ba05c41eb462a55c87fc324a6e2d3f	bootstrap_DEGs/output/1000_iterations/nobatch_2023-05-10/
+spheroids.RDS	00a7846bf36dbc9045c380243ba1762840ec8afaa50e0f05daf6c4f62ae7ab68	bootstrap_DEGs/output/1000_iterations/nobatch_2023-05-10/

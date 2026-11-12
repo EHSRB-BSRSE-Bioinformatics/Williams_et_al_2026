@@ -1,0 +1,59 @@
+Validation time (UTC): 2026-11-12 18:28:23 UTC
+Scaled numerical tolerance: 1e-06
+Parameters:
+list(alpha = 0.05, linear_fc_filter = 1.5, nmr_threshold = 1e+05, 
+    cooks = FALSE, design_formula = ~group, min_cpm = 0.5)
+R version 4.2.3 (2023-03-15)
+Platform: x86_64-conda-linux-gnu (64-bit)
+Running under: Ubuntu 20.04.6 LTS
+
+Matrix products: default
+BLAS/LAPACK: /home/mmeier/shared2/projects/Williams_et_al_2026/.pixi/envs/deg-study/lib/libopenblasp-r0.3.34.so
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.12                 locfit_1.5-9.9             
+ [3] invgamma_1.1                lattice_0.22-6             
+ [5] png_0.1-8                   Biostrings_2.66.0          
+ [7] utf8_1.2.4                  truncnorm_1.0-9            
+ [9] R6_2.5.1                    GenomeInfoDb_1.34.9        
+[11] stats4_4.2.3                RSQLite_2.3.4              
+[13] httr_1.4.7                  ggplot2_3.5.1              
+[15] pillar_1.9.0                zlibbioc_1.44.0            
+[17] rlang_1.1.4                 irlba_2.3.5.1              
+[19] annotate_1.76.0             blob_1.2.4                 
+[21] S4Vectors_0.36.0            Matrix_1.6-5               
+[23] splines_4.2.3               BiocParallel_1.32.5        
+[25] geneplotter_1.76.0          mixsqp_0.3-54              
+[27] RCurl_1.98-1.14             bit_4.0.5                  
+[29] munsell_0.5.1               DelayedArray_0.24.0        
+[31] compiler_4.2.3              pkgconfig_2.0.3            
+[33] BiocGenerics_0.44.0         SQUAREM_2021.1             
+[35] KEGGREST_1.38.0             SummarizedExperiment_1.28.0
+[37] tibble_3.2.1                GenomeInfoDbData_1.2.9     
+[39] edgeR_3.40.0                IRanges_2.32.0             
+[41] codetools_0.2-20            matrixStats_1.3.0          
+[43] XML_3.99-0.17               fansi_1.0.6                
+[45] crayon_1.5.3                bitops_1.0-7               
+[47] grid_4.2.3                  xtable_1.8-4               
+[49] gtable_0.3.5                lifecycle_1.0.4            
+[51] DBI_1.2.3                   magrittr_2.0.3             
+[53] scales_1.3.0                cli_3.6.3                  
+[55] cachem_1.1.0                XVector_0.38.0             
+[57] genefilter_1.80.0           limma_3.54.0               
+[59] vctrs_0.6.5                 RColorBrewer_1.1-3         
+[61] tools_4.2.3                 bit64_4.0.5                
+[63] Biobase_2.58.0              glue_1.7.0                 
+[65] DESeq2_1.38.0               MatrixGenerics_1.10.0      
+[67] parallel_4.2.3              fastmap_1.2.0              
+[69] survival_3.7-0              AnnotationDbi_1.60.0       
+[71] colorspace_2.1-0            ashr_2.2-54                
+[73] GenomicRanges_1.50.0        memoise_2.0.1              

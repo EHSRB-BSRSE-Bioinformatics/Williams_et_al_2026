@@ -64,9 +64,29 @@ Full reruns are computationally expensive and are only needed when the frozen
 trial design, filtering thresholds, or annotation versions change. The
 publication GSEA analysis uses gene sets containing 15–500 genes.
 
-The upstream workflow that originally generated the trial-level DESeq2,
-enrichment, and biomarker objects is not included here. Its additional software
-dependencies are therefore intentionally excluded from the locked environment.
+The study-specific DESeq2/R-ODAF implementation, parameters, filtering order,
+and provenance are documented in [docs/deseq2_methods.md](docs/deseq2_methods.md).
+A small set of archived trial outputs is bundled in `data/reference/` for bounded
+validation with the full gene matrix:
+
+```bash
+pixi install --locked -e deg-study --run-post-link-scripts
+pixi run --locked -e deg-study Rscript scripts/validate_deg_reference.R --strict-numerics false
+```
+
+To run just these selected frozen trials and save their outputs:
+
+```bash
+pixi run --locked -e deg-study Rscript scripts/run_deg_trials.R \
+  --trial-ids data/reference/deg_reference_trials.tsv \
+  --output-dir data/large/deg_example --cores 1
+```
+
+The optional `deg-study` environment fixes the study's declared DESeq2, edgeR,
+and ashr versions. It is separate from the default figure environment.
+See [docs/deg_validation.md](docs/deg_validation.md) for the measured validation
+outcome and historical-version limitations. The full original pipeline and its
+report-generation dependencies are not bundled.
 
 The approximately 23 MB count table is deliberately stored directly in Git so
 the compact figure workflow remains self-contained. The multi-gigabyte

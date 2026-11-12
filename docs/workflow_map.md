@@ -69,7 +69,9 @@ data/large/GSEA_simulations/              |
                             scripts/render_figures.R
 ```
 
-The full workflow is documented in `docs/simulation_workflow.md`. It is
+The full workflow is documented in `docs/simulation_workflow.md`. The exact
+study-specific DESeq2/R-ODAF sequence and a bounded validation path are documented
+in `docs/deseq2_methods.md`. It is
 computationally expensive and creates multi-gigabyte intermediate objects, so the
 large outputs are intentionally kept out of Git and distributed separately.
 

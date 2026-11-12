@@ -1,0 +1,54 @@
+Validation time (UTC): 2026-11-12 18:31:30 UTC
+Scaled numerical tolerance: 1e-06
+Strict archive numerics: FALSE
+Cached result directory: /tmp/williams-deg-example
+Parameters:
+list(alpha = 0.05, linear_fc_filter = 1.5, nmr_threshold = 1e+05, 
+    cooks = FALSE, design_formula = ~group, min_cpm = 0.5)
+R version 4.5.3 (2026-03-11)
+Platform: x86_64-conda-linux-gnu
+Running under: Ubuntu 20.04.6 LTS
+
+Matrix products: default
+BLAS/LAPACK: /home/mmeier/shared2/projects/Williams_et_al_2026/.pixi/envs/deg/lib/libopenblasp-r0.3.33.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: America/Toronto
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] Matrix_1.7-6                limma_3.68.5               
+ [3] gtable_0.3.6                dplyr_1.2.1                
+ [5] compiler_4.5.3              tidyselect_1.2.1           
+ [7] Rcpp_1.1.1-1.1              SummarizedExperiment_1.40.0
+ [9] Biobase_2.70.0              GenomicRanges_1.62.1       
+[11] parallel_4.5.3              IRanges_2.44.0             
+[13] Seqinfo_1.0.0               scales_1.4.0               
+[15] statmod_1.5.2               BiocParallel_1.44.0        
+[17] lattice_0.23-1              ggplot2_4.0.3              
+[19] R6_2.6.1                    XVector_0.50.0             
+[21] S4Arrays_1.10.1             generics_0.1.4             
+[23] mixsqp_0.3-54               BiocGenerics_0.56.0        
+[25] tibble_3.3.1                DelayedArray_0.36.1        
+[27] MatrixGenerics_1.22.0       pillar_1.11.1              
+[29] RColorBrewer_1.1-3          rlang_1.2.0                
+[31] SQUAREM_2026.1              S7_0.2.2                   
+[33] invgamma_1.2                truncnorm_1.0-9            
+[35] SparseArray_1.10.10         cli_3.6.6                  
+[37] magrittr_2.0.5              locfit_1.5-9.12            
+[39] grid_4.5.3                  irlba_2.4.1                
+[41] edgeR_4.10.7                lifecycle_1.0.5            
+[43] DESeq2_1.50.2               S4Vectors_0.48.1           
+[45] vctrs_0.7.3                 glue_1.8.1                 
+[47] farver_2.1.2                codetools_0.2-20           
+[49] abind_1.4-8                 stats4_4.5.3               
+[51] ashr_2.2-63                 pkgconfig_2.0.3            
+[53] matrixStats_1.5.0           tools_4.5.3                
