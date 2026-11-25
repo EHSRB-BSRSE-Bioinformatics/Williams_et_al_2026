@@ -1,0 +1,4 @@
+stage	trials	total_degs	mean_degs_per_trial	positive_trials
+BH p < 0.05	32000	925785	28.93078125	5316
++ FC > 1.5	32000	187166	5.8489375	2231
++ quantile/spike	32000	185673	5.80228125	2202

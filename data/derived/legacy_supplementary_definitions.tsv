@@ -1,0 +1,8 @@
+endpoint	definition
+probe	archived DESeqRes: non-missing padj < 0.05; probe IDs, not FINAL genes
+expression	mean and sample variance of log2(raw / archived ddsList$all size factor + 1), DMSO only
+scatter	left join recurrence by probe/model after dropping n; positive counts remain separate by n; never-recurrent probes have one zero row
+sample	sample/model/n: trials with historical Final DEGs > 0 divided by all trials containing sample, either randomized group
+histogram	30 bins; each sample/n is an observation (not one pooled observation per sample)
+plate	historical tile overplot: descending n_high_DEG, stable sample/n/model tie order; final drawn value per model/row/column
+gsea	archived GSEA padj < 0.05; no post-hoc size, NES or unique-gene-ID filter; top 20 rows per model/n with ties, union of pathway names

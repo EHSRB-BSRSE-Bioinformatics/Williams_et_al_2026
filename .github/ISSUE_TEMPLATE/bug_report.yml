@@ -1,0 +1,29 @@
+name: Reproducibility problem
+description: Report a problem reproducing the analysis or figures
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include credentials, private URLs, personal information, or unpublished data. Sanitize logs before pasting them.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What failed, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the command and the smallest reproducible sequence of steps.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include operating system, Pixi version, and relevant sanitized output from `pixi run check`.
+    validations:
+      required: true

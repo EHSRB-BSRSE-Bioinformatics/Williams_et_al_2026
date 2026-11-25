@@ -1,0 +1,1825 @@
+pathway	cell_line	n	count	path_name
+R-HSA-110328	HepaRG	4	542	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	5	533	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	10	542	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	3	575	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	9	665	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	4	613	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	9	583	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	6	602	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	6	541	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	5	536	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	6	520	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	5	634	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	8	600	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	10	445	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	8	449	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	7	522	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	9	481	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	10	654	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	9	473	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	3	602	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	3	714	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	4	551	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	8	639	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	TK6	7	486	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	10	485	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	5	606	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	3	546	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	MCF-7	7	572	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	HepaRG	8	528	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	4	587	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	7	642	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110328	Liver spheroids	6	602	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+R-HSA-110329	TK6	5	536	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	10	445	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	6	602	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	9	665	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	3	546	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	5	533	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	10	542	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	4	551	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	9	473	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	8	449	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	6	541	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	8	600	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	10	654	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	7	572	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	9	583	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	7	642	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	9	481	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	4	587	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	4	613	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	3	714	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	6	602	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	6	520	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	3	602	Cleavage of the damaged pyrimidine 
+R-HSA-110329	TK6	7	486	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	7	522	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	8	639	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	4	542	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	3	575	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	10	485	Cleavage of the damaged pyrimidine 
+R-HSA-110329	HepaRG	8	528	Cleavage of the damaged pyrimidine 
+R-HSA-110329	Liver spheroids	5	606	Cleavage of the damaged pyrimidine 
+R-HSA-110329	MCF-7	5	634	Cleavage of the damaged pyrimidine 
+R-HSA-110330	MCF-7	6	628	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	10	576	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	3	574	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	4	570	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	9	692	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	10	447	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	5	547	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	8	469	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	5	538	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	7	501	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	4	619	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	9	491	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	3	609	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	6	636	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	9	475	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	8	664	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	7	655	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	7	610	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	8	636	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	7	545	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	3	726	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	10	505	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	6	552	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	4	652	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	8	535	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	9	617	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	TK6	6	535	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	3	587	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	10	664	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	MCF-7	5	665	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	Liver spheroids	5	633	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110330	HepaRG	4	564	Recognition and association of DNA glycosylase with site containing an affected purine
+R-HSA-110331	TK6	5	538	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	6	628	Cleavage of the damaged purine
+R-HSA-110331	TK6	3	609	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	10	576	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	9	692	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	3	574	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	9	491	Cleavage of the damaged purine
+R-HSA-110331	TK6	4	570	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	4	619	Cleavage of the damaged purine
+R-HSA-110331	TK6	6	535	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	8	636	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	6	636	Cleavage of the damaged purine
+R-HSA-110331	TK6	8	469	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	4	564	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	9	617	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	7	655	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	4	652	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	3	726	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	7	610	Cleavage of the damaged purine
+R-HSA-110331	TK6	10	447	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	10	505	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	8	664	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	10	664	Cleavage of the damaged purine
+R-HSA-110331	TK6	9	475	Cleavage of the damaged purine
+R-HSA-110331	TK6	7	501	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	7	545	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	5	547	Cleavage of the damaged purine
+R-HSA-110331	MCF-7	5	665	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	8	535	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	3	587	Cleavage of the damaged purine
+R-HSA-110331	HepaRG	6	552	Cleavage of the damaged purine
+R-HSA-110331	Liver spheroids	5	633	Cleavage of the damaged purine
+R-HSA-156827	Liver spheroids	8	289	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	5	356	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	5	311	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	3	707	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	8	511	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	8	355	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	3	644	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	9	264	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	8	538	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	6	573	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	7	274	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	3	259	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	10	524	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	6	293	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	4	629	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	4	266	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	5	617	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	Liver spheroids	10	264	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	6	600	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	4	668	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	3	386	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	9	557	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	10	498	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	7	513	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	10	339	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	6	372	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	TK6	7	583	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	5	594	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	4	383	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	MCF-7	9	509	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	7	374	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156827	HepaRG	9	338	L13a-mediated translational silencing of Ceruloplasmin expression
+R-HSA-156842	TK6	6	563	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	5	419	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	10	488	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	5	587	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	9	249	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	6	546	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	4	589	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	4	245	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	7	535	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	9	472	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	3	618	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	3	642	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	7	239	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	8	409	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	9	363	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	8	511	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	5	287	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	4	634	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	3	440	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	6	399	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	5	561	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	3	244	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	9	516	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	8	262	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	6	268	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	4	439	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	10	370	Eukaryotic Translation Elongation
+R-HSA-156842	Liver spheroids	10	247	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	7	481	Eukaryotic Translation Elongation
+R-HSA-156842	HepaRG	7	404	Eukaryotic Translation Elongation
+R-HSA-156842	TK6	10	456	Eukaryotic Translation Elongation
+R-HSA-156842	MCF-7	8	483	Eukaryotic Translation Elongation
+R-HSA-156902	MCF-7	6	543	Peptide chain elongation
+R-HSA-156902	TK6	6	573	Peptide chain elongation
+R-HSA-156902	MCF-7	3	611	Peptide chain elongation
+R-HSA-156902	MCF-7	8	482	Peptide chain elongation
+R-HSA-156902	MCF-7	5	562	Peptide chain elongation
+R-HSA-156902	TK6	3	649	Peptide chain elongation
+R-HSA-156902	Liver spheroids	8	251	Peptide chain elongation
+R-HSA-156902	TK6	5	591	Peptide chain elongation
+R-HSA-156902	TK6	4	640	Peptide chain elongation
+R-HSA-156902	Liver spheroids	3	241	Peptide chain elongation
+R-HSA-156902	MCF-7	4	582	Peptide chain elongation
+R-HSA-156902	HepaRG	3	431	Peptide chain elongation
+R-HSA-156902	TK6	7	536	Peptide chain elongation
+R-HSA-156902	TK6	8	513	Peptide chain elongation
+R-HSA-156902	Liver spheroids	9	231	Peptide chain elongation
+R-HSA-156902	Liver spheroids	5	279	Peptide chain elongation
+R-HSA-156902	HepaRG	4	435	Peptide chain elongation
+R-HSA-156902	HepaRG	9	365	Peptide chain elongation
+R-HSA-156902	MCF-7	10	482	Peptide chain elongation
+R-HSA-156902	Liver spheroids	10	224	Peptide chain elongation
+R-HSA-156902	HepaRG	6	401	Peptide chain elongation
+R-HSA-156902	HepaRG	8	408	Peptide chain elongation
+R-HSA-156902	Liver spheroids	7	240	Peptide chain elongation
+R-HSA-156902	HepaRG	5	408	Peptide chain elongation
+R-HSA-156902	Liver spheroids	4	233	Peptide chain elongation
+R-HSA-156902	Liver spheroids	6	255	Peptide chain elongation
+R-HSA-156902	HepaRG	10	358	Peptide chain elongation
+R-HSA-156902	TK6	10	467	Peptide chain elongation
+R-HSA-156902	TK6	9	525	Peptide chain elongation
+R-HSA-156902	HepaRG	7	396	Peptide chain elongation
+R-HSA-156902	MCF-7	9	474	Peptide chain elongation
+R-HSA-156902	MCF-7	7	483	Peptide chain elongation
+R-HSA-171306	TK6	10	470	Packaging Of Telomere Ends
+R-HSA-171306	TK6	4	581	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	8	649	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	10	680	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	5	561	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	9	633	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	6	569	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	8	689	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	10	590	Packaging Of Telomere Ends
+R-HSA-171306	TK6	8	486	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	3	732	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	5	656	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	6	654	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	7	681	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	5	678	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	3	601	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	9	508	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	4	638	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	6	634	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	4	658	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	8	562	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	10	528	Packaging Of Telomere Ends
+R-HSA-171306	TK6	9	494	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	3	603	Packaging Of Telomere Ends
+R-HSA-171306	Liver spheroids	9	712	Packaging Of Telomere Ends
+R-HSA-171306	MCF-7	7	623	Packaging Of Telomere Ends
+R-HSA-171306	TK6	3	628	Packaging Of Telomere Ends
+R-HSA-171306	TK6	5	550	Packaging Of Telomere Ends
+R-HSA-171306	TK6	7	503	Packaging Of Telomere Ends
+R-HSA-171306	TK6	6	555	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	4	584	Packaging Of Telomere Ends
+R-HSA-171306	HepaRG	7	552	Packaging Of Telomere Ends
+R-HSA-1799339	MCF-7	4	618	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	10	500	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	10	461	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	3	352	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	7	337	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	5	309	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	9	522	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	4	360	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	8	502	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	5	577	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	8	501	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	6	566	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	7	529	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	10	258	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	9	258	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	9	513	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	7	273	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	8	338	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	6	287	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	3	266	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	3	639	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	8	296	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	6	566	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	4	637	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	Liver spheroids	4	263	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	10	310	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	3	652	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	9	311	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	MCF-7	7	521	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	6	334	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	HepaRG	5	348	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1799339	TK6	5	576	SRP-dependent cotranslational protein targeting to membrane
+R-HSA-1912408	MCF-7	4	601	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	10	525	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	4	554	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	9	511	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	9	535	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	6	573	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	9	459	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	10	600	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	6	572	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	4	568	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	3	495	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	6	525	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	5	558	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	5	526	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	3	669	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	8	460	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	7	549	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	3	585	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	9	638	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	5	547	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	8	562	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	3	612	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	7	550	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	10	440	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	8	592	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	10	515	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	4	569	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	MCF-7	5	599	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	Liver spheroids	7	617	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	8	556	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	HepaRG	6	554	Pre-NOTCH Transcription and Translation
+R-HSA-1912408	TK6	7	479	Pre-NOTCH Transcription and Translation
+R-HSA-192823	HepaRG	8	381	Viral mRNA Translation
+R-HSA-192823	MCF-7	5	575	Viral mRNA Translation
+R-HSA-192823	HepaRG	10	333	Viral mRNA Translation
+R-HSA-192823	MCF-7	6	552	Viral mRNA Translation
+R-HSA-192823	TK6	7	516	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	8	249	Viral mRNA Translation
+R-HSA-192823	HepaRG	5	375	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	4	232	Viral mRNA Translation
+R-HSA-192823	HepaRG	7	370	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	10	231	Viral mRNA Translation
+R-HSA-192823	MCF-7	7	495	Viral mRNA Translation
+R-HSA-192823	TK6	5	580	Viral mRNA Translation
+R-HSA-192823	HepaRG	3	392	Viral mRNA Translation
+R-HSA-192823	TK6	10	453	Viral mRNA Translation
+R-HSA-192823	HepaRG	6	372	Viral mRNA Translation
+R-HSA-192823	TK6	3	644	Viral mRNA Translation
+R-HSA-192823	HepaRG	4	397	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	9	229	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	3	243	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	6	270	Viral mRNA Translation
+R-HSA-192823	TK6	9	514	Viral mRNA Translation
+R-HSA-192823	MCF-7	10	495	Viral mRNA Translation
+R-HSA-192823	TK6	6	560	Viral mRNA Translation
+R-HSA-192823	TK6	4	633	Viral mRNA Translation
+R-HSA-192823	HepaRG	9	346	Viral mRNA Translation
+R-HSA-192823	MCF-7	4	596	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	7	239	Viral mRNA Translation
+R-HSA-192823	MCF-7	3	625	Viral mRNA Translation
+R-HSA-192823	Liver spheroids	5	282	Viral mRNA Translation
+R-HSA-192823	MCF-7	8	491	Viral mRNA Translation
+R-HSA-192823	TK6	8	498	Viral mRNA Translation
+R-HSA-192823	MCF-7	9	487	Viral mRNA Translation
+R-HSA-201722	TK6	3	612	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	10	538	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	8	594	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	7	634	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	7	576	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	3	538	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	9	473	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	8	573	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	10	631	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	10	448	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	9	531	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	8	626	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	6	566	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	6	584	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	7	490	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	9	649	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	5	523	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	9	553	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	4	571	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	4	582	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	5	629	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	4	568	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	7	555	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	3	687	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	10	532	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	MCF-7	4	608	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	6	540	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	5	562	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	HepaRG	3	604	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	6	599	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	Liver spheroids	5	584	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-201722	TK6	8	459	Formation of the beta-catenin:TCF transactivating complex
+R-HSA-212300	Liver spheroids	10	707	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	9	654	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	10	582	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	5	694	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	7	651	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	7	540	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	6	665	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	3	655	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	4	624	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	5	650	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	4	602	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	9	719	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	10	613	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	10	498	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	9	574	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	4	650	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	6	658	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	8	616	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	4	681	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	7	598	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	8	666	PRC2 methylates histones and DNA
+R-HSA-212300	MCF-7	3	742	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	5	554	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	8	506	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	5	594	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	6	562	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	3	599	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	7	710	PRC2 methylates histones and DNA
+R-HSA-212300	Liver spheroids	8	705	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	3	626	PRC2 methylates histones and DNA
+R-HSA-212300	HepaRG	6	605	PRC2 methylates histones and DNA
+R-HSA-212300	TK6	9	512	PRC2 methylates histones and DNA
+R-HSA-2299718	MCF-7	9	643	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	3	594	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	3	650	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	10	588	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	4	628	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	9	714	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	4	649	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	10	702	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	7	599	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	9	515	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	5	596	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	6	664	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	7	702	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	4	692	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	8	612	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	8	664	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	6	569	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	9	583	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	10	490	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	3	635	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	8	507	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	7	533	Condensation of Prophase Chromosomes
+R-HSA-2299718	HepaRG	6	611	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	5	684	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	3	737	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	7	646	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	5	656	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	4	600	Condensation of Prophase Chromosomes
+R-HSA-2299718	Liver spheroids	8	690	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	10	620	Condensation of Prophase Chromosomes
+R-HSA-2299718	MCF-7	6	664	Condensation of Prophase Chromosomes
+R-HSA-2299718	TK6	5	557	Condensation of Prophase Chromosomes
+R-HSA-2408557	TK6	8	496	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	9	226	Selenocysteine synthesis
+R-HSA-2408557	TK6	3	644	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	9	478	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	9	342	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	4	401	Selenocysteine synthesis
+R-HSA-2408557	TK6	5	575	Selenocysteine synthesis
+R-HSA-2408557	TK6	4	627	Selenocysteine synthesis
+R-HSA-2408557	TK6	9	514	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	7	482	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	5	382	Selenocysteine synthesis
+R-HSA-2408557	TK6	10	458	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	6	370	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	6	265	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	3	256	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	7	372	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	5	562	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	4	596	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	10	337	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	5	285	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	4	244	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	3	391	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	3	629	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	10	488	Selenocysteine synthesis
+R-HSA-2408557	HepaRG	8	381	Selenocysteine synthesis
+R-HSA-2408557	TK6	6	553	Selenocysteine synthesis
+R-HSA-2408557	TK6	7	524	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	8	494	Selenocysteine synthesis
+R-HSA-2408557	MCF-7	6	546	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	8	252	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	7	237	Selenocysteine synthesis
+R-HSA-2408557	Liver spheroids	10	235	Selenocysteine synthesis
+R-HSA-3214815	MCF-7	8	626	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	7	605	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	8	571	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	5	583	HDACs deacetylate histones
+R-HSA-3214815	TK6	10	472	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	8	620	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	10	578	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	9	652	HDACs deacetylate histones
+R-HSA-3214815	TK6	3	618	HDACs deacetylate histones
+R-HSA-3214815	TK6	9	489	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	4	589	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	10	528	HDACs deacetylate histones
+R-HSA-3214815	TK6	6	561	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	5	657	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	4	578	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	7	631	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	6	624	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	7	559	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	6	556	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	6	589	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	10	623	HDACs deacetylate histones
+R-HSA-3214815	TK6	7	508	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	3	606	HDACs deacetylate histones
+R-HSA-3214815	TK6	4	578	HDACs deacetylate histones
+R-HSA-3214815	Liver spheroids	3	534	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	5	562	HDACs deacetylate histones
+R-HSA-3214815	TK6	8	489	HDACs deacetylate histones
+R-HSA-3214815	TK6	5	521	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	4	648	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	3	718	HDACs deacetylate histones
+R-HSA-3214815	MCF-7	9	598	HDACs deacetylate histones
+R-HSA-3214815	HepaRG	9	532	HDACs deacetylate histones
+R-HSA-3214841	Liver spheroids	5	557	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	4	567	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	8	528	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	7	525	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	6	550	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	5	564	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	9	472	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	8	559	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	7	547	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	4	589	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	3	516	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	5	570	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	3	667	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	9	518	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	6	537	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	5	542	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	7	499	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	8	622	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	10	493	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	8	488	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	10	441	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	9	515	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	6	575	PKMTs methylate histone lysines
+R-HSA-3214841	MCF-7	4	581	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	3	690	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	3	619	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	10	541	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	7	615	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	9	625	PKMTs methylate histone lysines
+R-HSA-3214841	Liver spheroids	10	623	PKMTs methylate histone lysines
+R-HSA-3214841	HepaRG	6	554	PKMTs methylate histone lysines
+R-HSA-3214841	TK6	4	626	PKMTs methylate histone lysines
+R-HSA-3214842	Liver spheroids	3	623	HDMs demethylate histones
+R-HSA-3214842	HepaRG	5	702	HDMs demethylate histones
+R-HSA-3214842	TK6	6	684	HDMs demethylate histones
+R-HSA-3214842	HepaRG	7	670	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	5	667	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	4	666	HDMs demethylate histones
+R-HSA-3214842	MCF-7	6	651	HDMs demethylate histones
+R-HSA-3214842	MCF-7	7	629	HDMs demethylate histones
+R-HSA-3214842	MCF-7	8	629	HDMs demethylate histones
+R-HSA-3214842	TK6	9	612	HDMs demethylate histones
+R-HSA-3214842	HepaRG	10	664	HDMs demethylate histones
+R-HSA-3214842	HepaRG	8	674	HDMs demethylate histones
+R-HSA-3214842	TK6	10	597	HDMs demethylate histones
+R-HSA-3214842	TK6	3	795	HDMs demethylate histones
+R-HSA-3214842	TK6	5	674	HDMs demethylate histones
+R-HSA-3214842	HepaRG	9	637	HDMs demethylate histones
+R-HSA-3214842	TK6	7	659	HDMs demethylate histones
+R-HSA-3214842	MCF-7	10	596	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	9	709	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	7	700	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	6	673	HDMs demethylate histones
+R-HSA-3214842	MCF-7	9	616	HDMs demethylate histones
+R-HSA-3214842	TK6	8	624	HDMs demethylate histones
+R-HSA-3214842	HepaRG	4	706	HDMs demethylate histones
+R-HSA-3214842	HepaRG	3	730	HDMs demethylate histones
+R-HSA-3214842	MCF-7	5	674	HDMs demethylate histones
+R-HSA-3214842	TK6	4	759	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	10	709	HDMs demethylate histones
+R-HSA-3214842	HepaRG	6	687	HDMs demethylate histones
+R-HSA-3214842	MCF-7	3	731	HDMs demethylate histones
+R-HSA-3214842	Liver spheroids	8	707	HDMs demethylate histones
+R-HSA-3214842	MCF-7	4	669	HDMs demethylate histones
+R-HSA-3214858	Liver spheroids	7	651	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	4	582	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	10	550	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	9	654	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	8	561	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	8	638	RMTs methylate histone arginines
+R-HSA-3214858	TK6	6	544	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	4	641	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	3	602	RMTs methylate histone arginines
+R-HSA-3214858	TK6	7	496	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	3	534	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	5	557	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	4	584	RMTs methylate histone arginines
+R-HSA-3214858	TK6	3	638	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	6	567	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	10	658	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	6	594	RMTs methylate histone arginines
+R-HSA-3214858	TK6	10	463	RMTs methylate histone arginines
+R-HSA-3214858	TK6	5	538	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	7	554	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	6	601	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	3	709	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	9	531	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	9	567	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	8	598	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	5	630	RMTs methylate histone arginines
+R-HSA-3214858	TK6	4	584	RMTs methylate histone arginines
+R-HSA-3214858	HepaRG	10	538	RMTs methylate histone arginines
+R-HSA-3214858	Liver spheroids	5	595	RMTs methylate histone arginines
+R-HSA-3214858	TK6	9	498	RMTs methylate histone arginines
+R-HSA-3214858	MCF-7	7	580	RMTs methylate histone arginines
+R-HSA-3214858	TK6	8	488	RMTs methylate histone arginines
+R-HSA-376176	Liver spheroids	10	294	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	10	305	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	10	536	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	5	310	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	4	649	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	4	273	Signaling by ROBO receptors
+R-HSA-376176	TK6	10	487	Signaling by ROBO receptors
+R-HSA-376176	TK6	9	539	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	6	287	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	5	588	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	8	342	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	3	661	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	7	541	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	9	291	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	3	260	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	7	278	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	6	354	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	7	356	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	9	313	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	6	596	Signaling by ROBO receptors
+R-HSA-376176	TK6	3	707	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	3	376	Signaling by ROBO receptors
+R-HSA-376176	TK6	5	600	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	8	552	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	5	339	Signaling by ROBO receptors
+R-HSA-376176	TK6	6	592	Signaling by ROBO receptors
+R-HSA-376176	TK6	8	533	Signaling by ROBO receptors
+R-HSA-376176	TK6	4	680	Signaling by ROBO receptors
+R-HSA-376176	MCF-7	9	541	Signaling by ROBO receptors
+R-HSA-376176	HepaRG	4	380	Signaling by ROBO receptors
+R-HSA-376176	Liver spheroids	8	315	Signaling by ROBO receptors
+R-HSA-376176	TK6	7	567	Signaling by ROBO receptors
+R-HSA-427359	TK6	3	649	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	8	715	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	9	565	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	5	667	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	8	622	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	7	713	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	10	717	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	4	659	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	3	734	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	7	595	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	9	637	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	6	674	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	8	513	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	3	614	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	7	531	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	6	644	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	5	685	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	6	570	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	10	498	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	7	629	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	9	525	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	8	659	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	Liver spheroids	9	739	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	10	590	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	4	604	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	4	659	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	MCF-7	10	614	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	6	617	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	5	598	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	TK6	5	571	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	3	626	SIRT1 negatively regulates rRNA expression
+R-HSA-427359	HepaRG	4	615	SIRT1 negatively regulates rRNA expression
+R-HSA-427389	MCF-7	9	595	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	7	503	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	10	556	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	9	491	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	3	628	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	8	666	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	3	714	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	6	583	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	6	558	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	9	695	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	10	468	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	4	638	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	7	606	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	9	554	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	8	586	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	4	581	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	5	657	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	6	636	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	5	637	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	10	569	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	10	670	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	3	619	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	5	530	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	6	617	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	MCF-7	8	614	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	7	682	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	5	578	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	TK6	8	481	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	7	571	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	3	580	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	Liver spheroids	4	622	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-427389	HepaRG	4	608	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
+R-HSA-5250924	TK6	9	484	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	4	581	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	9	572	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	3	697	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	8	480	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	5	584	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	3	615	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	10	550	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	10	549	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	10	639	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	7	565	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	9	533	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	6	573	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	8	582	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	7	624	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	4	587	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	5	566	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	4	614	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	3	536	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	4	583	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	7	498	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	6	598	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	7	571	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	9	655	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	Liver spheroids	8	631	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	10	481	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	5	518	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	HepaRG	3	598	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	6	596	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	8	599	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	MCF-7	5	635	B-WICH complex positively regulates rRNA expression
+R-HSA-5250924	TK6	6	541	B-WICH complex positively regulates rRNA expression
+R-HSA-5334118	Liver spheroids	3	648	DNA methylation
+R-HSA-5334118	HepaRG	4	641	DNA methylation
+R-HSA-5334118	TK6	10	541	DNA methylation
+R-HSA-5334118	MCF-7	4	722	DNA methylation
+R-HSA-5334118	HepaRG	9	608	DNA methylation
+R-HSA-5334118	Liver spheroids	4	692	DNA methylation
+R-HSA-5334118	TK6	5	592	DNA methylation
+R-HSA-5334118	MCF-7	8	707	DNA methylation
+R-HSA-5334118	Liver spheroids	5	710	DNA methylation
+R-HSA-5334118	TK6	9	552	DNA methylation
+R-HSA-5334118	Liver spheroids	8	749	DNA methylation
+R-HSA-5334118	HepaRG	6	639	DNA methylation
+R-HSA-5334118	HepaRG	5	617	DNA methylation
+R-HSA-5334118	MCF-7	3	764	DNA methylation
+R-HSA-5334118	HepaRG	10	616	DNA methylation
+R-HSA-5334118	TK6	8	541	DNA methylation
+R-HSA-5334118	Liver spheroids	6	717	DNA methylation
+R-HSA-5334118	MCF-7	7	680	DNA methylation
+R-HSA-5334118	Liver spheroids	10	746	DNA methylation
+R-HSA-5334118	TK6	7	559	DNA methylation
+R-HSA-5334118	MCF-7	5	724	DNA methylation
+R-HSA-5334118	HepaRG	8	659	DNA methylation
+R-HSA-5334118	MCF-7	9	688	DNA methylation
+R-HSA-5334118	MCF-7	10	652	DNA methylation
+R-HSA-5334118	TK6	4	627	DNA methylation
+R-HSA-5334118	HepaRG	7	631	DNA methylation
+R-HSA-5334118	Liver spheroids	7	740	DNA methylation
+R-HSA-5334118	TK6	3	675	DNA methylation
+R-HSA-5334118	HepaRG	3	650	DNA methylation
+R-HSA-5334118	Liver spheroids	9	758	DNA methylation
+R-HSA-5334118	MCF-7	6	691	DNA methylation
+R-HSA-5334118	TK6	6	603	DNA methylation
+R-HSA-5625740	TK6	9	499	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	10	588	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	6	655	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	7	515	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	9	517	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	4	671	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	3	620	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	5	540	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	8	627	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	10	626	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	8	494	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	6	562	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	3	734	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	10	484	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	5	586	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	4	586	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	7	614	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	4	571	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	9	650	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	7	582	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	5	581	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	3	531	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	4	593	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	8	646	RHO GTPases activate PKNs
+R-HSA-5625740	Liver spheroids	6	614	RHO GTPases activate PKNs
+R-HSA-5625740	TK6	3	629	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	6	563	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	8	577	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	7	619	RHO GTPases activate PKNs
+R-HSA-5625740	HepaRG	10	548	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	9	623	RHO GTPases activate PKNs
+R-HSA-5625740	MCF-7	5	672	RHO GTPases activate PKNs
+R-HSA-5625886	HepaRG	5	624	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	10	634	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	9	544	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	9	757	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	6	642	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	8	538	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	7	628	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	7	740	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	4	631	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	6	669	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	8	653	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	7	556	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	10	742	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	6	711	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	5	589	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	4	646	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	3	648	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	5	699	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	10	534	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	9	610	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	9	669	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	3	638	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	6	592	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	4	688	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	4	689	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	TK6	3	663	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	8	686	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	7	662	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	HepaRG	10	621	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	Liver spheroids	8	745	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	3	747	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-5625886	MCF-7	5	703	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+R-HSA-6791226	TK6	6	543	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	4	574	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	3	653	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	10	294	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	7	493	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	10	181	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	9	177	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	4	359	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	8	351	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	9	494	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	8	493	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	10	482	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	4	611	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	5	562	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	3	353	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	8	187	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	3	159	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	5	211	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	6	331	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	8	508	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	7	331	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	7	522	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	5	344	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	HepaRG	9	307	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	4	179	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	6	210	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	9	497	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	Liver spheroids	7	176	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	3	602	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	6	531	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	MCF-7	5	538	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-6791226	TK6	10	442	Major pathway of rRNA processing in the nucleolus and cytosol
+R-HSA-68616	MCF-7	9	654	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	8	508	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	6	619	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	4	610	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	10	601	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	9	743	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	5	562	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	5	692	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	10	508	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	3	626	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	8	721	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	6	689	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	9	583	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	7	725	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	6	571	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	7	653	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	9	521	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	5	603	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	7	526	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	7	614	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	10	722	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	4	683	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	3	626	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	TK6	3	641	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	4	622	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	5	677	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	Liver spheroids	4	674	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	8	675	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	HepaRG	8	625	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	6	660	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	10	618	Assembly of the ORC complex at the origin of replication
+R-HSA-68616	MCF-7	3	737	Assembly of the ORC complex at the origin of replication
+R-HSA-68867	Liver spheroids	3	400	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	5	554	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	9	511	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	8	495	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	4	697	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	6	491	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	4	605	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	5	666	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	7	513	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	8	504	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	6	535	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	10	523	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	8	494	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	10	464	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	9	474	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	7	514	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	5	539	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	8	630	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	9	625	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	10	600	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	4	559	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	3	637	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	7	513	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	10	494	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	6	637	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	5	486	Assembly of the pre-replicative complex
+R-HSA-68867	Liver spheroids	4	462	Assembly of the pre-replicative complex
+R-HSA-68867	HepaRG	3	574	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	9	506	Assembly of the pre-replicative complex
+R-HSA-68867	TK6	6	557	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	3	740	Assembly of the pre-replicative complex
+R-HSA-68867	MCF-7	7	620	Assembly of the pre-replicative complex
+R-HSA-68886	Liver spheroids	5	279	M Phase
+R-HSA-68886	HepaRG	3	503	M Phase
+R-HSA-68886	MCF-7	3	713	M Phase
+R-HSA-68886	HepaRG	10	467	M Phase
+R-HSA-68886	Liver spheroids	7	291	M Phase
+R-HSA-68886	HepaRG	4	508	M Phase
+R-HSA-68886	TK6	5	401	M Phase
+R-HSA-68886	MCF-7	4	648	M Phase
+R-HSA-68886	Liver spheroids	9	294	M Phase
+R-HSA-68886	HepaRG	8	475	M Phase
+R-HSA-68886	MCF-7	8	578	M Phase
+R-HSA-68886	TK6	10	342	M Phase
+R-HSA-68886	HepaRG	9	421	M Phase
+R-HSA-68886	HepaRG	6	484	M Phase
+R-HSA-68886	MCF-7	7	614	M Phase
+R-HSA-68886	Liver spheroids	10	315	M Phase
+R-HSA-68886	TK6	3	495	M Phase
+R-HSA-68886	TK6	7	368	M Phase
+R-HSA-68886	Liver spheroids	4	266	M Phase
+R-HSA-68886	MCF-7	9	587	M Phase
+R-HSA-68886	HepaRG	7	443	M Phase
+R-HSA-68886	MCF-7	10	582	M Phase
+R-HSA-68886	Liver spheroids	6	276	M Phase
+R-HSA-68886	Liver spheroids	8	314	M Phase
+R-HSA-68886	MCF-7	5	625	M Phase
+R-HSA-68886	TK6	4	472	M Phase
+R-HSA-68886	HepaRG	5	484	M Phase
+R-HSA-68886	TK6	9	370	M Phase
+R-HSA-68886	Liver spheroids	3	230	M Phase
+R-HSA-68886	TK6	8	361	M Phase
+R-HSA-68886	MCF-7	6	612	M Phase
+R-HSA-68886	TK6	6	422	M Phase
+R-HSA-69002	Liver spheroids	7	483	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	5	463	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	9	468	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	6	520	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	7	510	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	4	575	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	10	488	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	4	545	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	6	637	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	3	561	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	7	485	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	5	522	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	10	601	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	10	435	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	9	474	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	8	621	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	9	626	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	9	498	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	7	615	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	4	697	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	8	497	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	4	452	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	8	493	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	8	453	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	3	603	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	3	740	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	3	387	DNA Replication Pre-Initiation
+R-HSA-69002	MCF-7	5	648	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	6	468	DNA Replication Pre-Initiation
+R-HSA-69002	Liver spheroids	10	506	DNA Replication Pre-Initiation
+R-HSA-69002	HepaRG	5	535	DNA Replication Pre-Initiation
+R-HSA-69002	TK6	6	523	DNA Replication Pre-Initiation
+R-HSA-69306	Liver spheroids	6	423	DNA Replication
+R-HSA-69306	MCF-7	7	620	DNA Replication
+R-HSA-69306	MCF-7	4	698	DNA Replication
+R-HSA-69306	Liver spheroids	7	463	DNA Replication
+R-HSA-69306	TK6	9	450	DNA Replication
+R-HSA-69306	Liver spheroids	8	460	DNA Replication
+R-HSA-69306	Liver spheroids	4	412	DNA Replication
+R-HSA-69306	MCF-7	6	649	DNA Replication
+R-HSA-69306	TK6	3	596	DNA Replication
+R-HSA-69306	Liver spheroids	5	421	DNA Replication
+R-HSA-69306	TK6	6	512	DNA Replication
+R-HSA-69306	HepaRG	3	549	DNA Replication
+R-HSA-69306	HepaRG	10	470	DNA Replication
+R-HSA-69306	MCF-7	8	629	DNA Replication
+R-HSA-69306	MCF-7	9	621	DNA Replication
+R-HSA-69306	MCF-7	5	647	DNA Replication
+R-HSA-69306	HepaRG	5	517	DNA Replication
+R-HSA-69306	HepaRG	8	471	DNA Replication
+R-HSA-69306	HepaRG	9	448	DNA Replication
+R-HSA-69306	HepaRG	7	488	DNA Replication
+R-HSA-69306	HepaRG	6	503	DNA Replication
+R-HSA-69306	TK6	10	417	DNA Replication
+R-HSA-69306	TK6	5	504	DNA Replication
+R-HSA-69306	Liver spheroids	3	362	DNA Replication
+R-HSA-69306	MCF-7	10	610	DNA Replication
+R-HSA-69306	TK6	7	469	DNA Replication
+R-HSA-69306	TK6	4	565	DNA Replication
+R-HSA-69306	Liver spheroids	9	464	DNA Replication
+R-HSA-69306	MCF-7	3	740	DNA Replication
+R-HSA-69306	Liver spheroids	10	467	DNA Replication
+R-HSA-69306	TK6	8	436	DNA Replication
+R-HSA-69306	HepaRG	4	538	DNA Replication
+R-HSA-69620	Liver spheroids	7	282	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	9	401	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	4	614	Cell Cycle Checkpoints
+R-HSA-69620	TK6	8	295	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	7	604	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	3	673	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	5	602	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	8	435	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	5	449	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	7	420	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	5	225	Cell Cycle Checkpoints
+R-HSA-69620	TK6	7	291	Cell Cycle Checkpoints
+R-HSA-69620	TK6	5	341	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	10	253	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	3	207	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	6	234	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	8	271	Cell Cycle Checkpoints
+R-HSA-69620	TK6	10	281	Cell Cycle Checkpoints
+R-HSA-69620	TK6	4	410	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	9	576	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	3	480	Cell Cycle Checkpoints
+R-HSA-69620	TK6	9	299	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	10	418	Cell Cycle Checkpoints
+R-HSA-69620	TK6	3	443	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	6	602	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	4	217	Cell Cycle Checkpoints
+R-HSA-69620	Liver spheroids	9	241	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	10	576	Cell Cycle Checkpoints
+R-HSA-69620	MCF-7	8	554	Cell Cycle Checkpoints
+R-HSA-69620	TK6	6	335	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	6	454	Cell Cycle Checkpoints
+R-HSA-69620	HepaRG	4	480	Cell Cycle Checkpoints
+R-HSA-72613	MCF-7	8	528	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	3	381	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	7	589	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	5	362	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	5	594	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	9	330	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	8	289	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	10	333	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	10	524	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	6	368	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	7	278	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	9	523	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	4	380	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	4	637	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	7	369	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	4	666	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	8	551	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	9	263	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	10	511	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	6	587	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	5	625	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	3	715	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	6	608	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	4	251	Eukaryotic Translation Initiation
+R-HSA-72613	HepaRG	8	371	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	5	300	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	6	278	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	7	527	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	3	247	Eukaryotic Translation Initiation
+R-HSA-72613	Liver spheroids	10	252	Eukaryotic Translation Initiation
+R-HSA-72613	MCF-7	3	648	Eukaryotic Translation Initiation
+R-HSA-72613	TK6	9	569	Eukaryotic Translation Initiation
+R-HSA-72689	HepaRG	10	316	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	8	495	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	3	373	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	7	358	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	10	488	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	10	516	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	5	291	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	4	658	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	4	369	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	9	321	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	6	562	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	4	609	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	8	531	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	7	569	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	5	358	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	8	366	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	9	495	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	10	241	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	3	689	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	5	614	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	6	264	Formation of a pool of free 40S subunits
+R-HSA-72689	HepaRG	6	349	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	7	259	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	9	244	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	3	650	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	7	508	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	3	246	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	4	247	Formation of a pool of free 40S subunits
+R-HSA-72689	Liver spheroids	8	269	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	9	556	Formation of a pool of free 40S subunits
+R-HSA-72689	TK6	6	600	Formation of a pool of free 40S subunits
+R-HSA-72689	MCF-7	5	580	Formation of a pool of free 40S subunits
+R-HSA-72706	MCF-7	6	581	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	6	593	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	4	363	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	7	524	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	10	324	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	6	292	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	8	286	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	4	259	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	8	512	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	3	704	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	10	495	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	5	611	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	9	259	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	6	347	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	10	261	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	3	651	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	10	531	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	9	318	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	4	661	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	7	275	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	9	514	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	3	378	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	7	358	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	7	576	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	5	593	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	9	550	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	8	353	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	HepaRG	5	351	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	5	313	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	Liver spheroids	3	256	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	TK6	8	527	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72706	MCF-7	4	628	GTP hydrolysis and joining of the 60S ribosomal subunit
+R-HSA-72737	TK6	6	608	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	3	247	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	8	289	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	6	587	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	8	528	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	5	625	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	10	511	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	9	523	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	10	333	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	6	278	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	4	251	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	9	569	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	3	648	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	7	278	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	7	589	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	5	362	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	3	381	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	9	263	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	3	715	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	4	666	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	10	524	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	8	371	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	7	527	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	9	330	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	5	594	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	10	252	Cap-dependent Translation Initiation
+R-HSA-72737	MCF-7	4	637	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	7	369	Cap-dependent Translation Initiation
+R-HSA-72737	TK6	8	551	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	6	368	Cap-dependent Translation Initiation
+R-HSA-72737	HepaRG	4	380	Cap-dependent Translation Initiation
+R-HSA-72737	Liver spheroids	5	300	Cap-dependent Translation Initiation
+R-HSA-72764	TK6	6	570	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	7	514	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	7	370	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	9	250	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	6	288	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	6	567	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	3	640	Eukaryotic Translation Termination
+R-HSA-72764	TK6	4	635	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	9	502	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	4	247	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	3	394	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	5	307	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	8	274	Eukaryotic Translation Termination
+R-HSA-72764	TK6	5	580	Eukaryotic Translation Termination
+R-HSA-72764	TK6	9	517	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	5	377	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	9	352	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	6	364	Eukaryotic Translation Termination
+R-HSA-72764	TK6	7	528	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	10	333	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	10	257	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	8	391	Eukaryotic Translation Termination
+R-HSA-72764	TK6	10	473	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	7	255	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	8	511	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	10	519	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	4	617	Eukaryotic Translation Termination
+R-HSA-72764	Liver spheroids	3	268	Eukaryotic Translation Termination
+R-HSA-72764	TK6	8	511	Eukaryotic Translation Termination
+R-HSA-72764	HepaRG	4	403	Eukaryotic Translation Termination
+R-HSA-72764	MCF-7	5	586	Eukaryotic Translation Termination
+R-HSA-72764	TK6	3	648	Eukaryotic Translation Termination
+R-HSA-72766	Liver spheroids	4	355	Translation
+R-HSA-72766	Liver spheroids	9	375	Translation
+R-HSA-72766	Liver spheroids	8	425	Translation
+R-HSA-72766	MCF-7	3	697	Translation
+R-HSA-72766	MCF-7	7	625	Translation
+R-HSA-72766	TK6	6	657	Translation
+R-HSA-72766	TK6	4	722	Translation
+R-HSA-72766	TK6	5	669	Translation
+R-HSA-72766	Liver spheroids	6	388	Translation
+R-HSA-72766	Liver spheroids	10	399	Translation
+R-HSA-72766	HepaRG	4	420	Translation
+R-HSA-72766	MCF-7	6	680	Translation
+R-HSA-72766	MCF-7	8	643	Translation
+R-HSA-72766	MCF-7	9	628	Translation
+R-HSA-72766	TK6	8	625	Translation
+R-HSA-72766	HepaRG	9	364	Translation
+R-HSA-72766	MCF-7	5	662	Translation
+R-HSA-72766	HepaRG	3	375	Translation
+R-HSA-72766	TK6	9	622	Translation
+R-HSA-72766	TK6	10	569	Translation
+R-HSA-72766	MCF-7	10	634	Translation
+R-HSA-72766	HepaRG	6	387	Translation
+R-HSA-72766	Liver spheroids	3	331	Translation
+R-HSA-72766	HepaRG	7	397	Translation
+R-HSA-72766	HepaRG	10	383	Translation
+R-HSA-72766	HepaRG	8	405	Translation
+R-HSA-72766	TK6	3	741	Translation
+R-HSA-72766	HepaRG	5	393	Translation
+R-HSA-72766	TK6	7	624	Translation
+R-HSA-72766	Liver spheroids	7	392	Translation
+R-HSA-72766	MCF-7	4	706	Translation
+R-HSA-72766	Liver spheroids	5	410	Translation
+R-HSA-73728	MCF-7	10	640	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	9	757	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	3	663	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	4	617	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	4	703	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	8	744	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	10	613	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	4	638	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	10	738	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	7	625	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	3	637	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	9	595	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	7	551	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	7	679	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	3	646	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	9	675	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	7	732	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	5	583	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	3	759	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	8	532	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	9	544	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	10	528	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	8	688	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	4	685	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	8	644	RNA Polymerase I Promoter Opening
+R-HSA-73728	TK6	6	587	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	5	616	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	6	684	RNA Polymerase I Promoter Opening
+R-HSA-73728	MCF-7	5	709	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	6	706	RNA Polymerase I Promoter Opening
+R-HSA-73728	Liver spheroids	5	695	RNA Polymerase I Promoter Opening
+R-HSA-73728	HepaRG	6	633	RNA Polymerase I Promoter Opening
+R-HSA-73772	HepaRG	4	587	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	7	490	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	4	577	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	3	625	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	10	539	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	7	546	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	9	570	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	9	522	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	6	569	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	9	488	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	10	657	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	6	596	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	4	612	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	8	635	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	8	472	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	3	529	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	10	545	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	6	608	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	8	583	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	7	638	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	5	632	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	5	525	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	10	464	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	7	568	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	3	592	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	5	587	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	5	558	RNA Polymerase I Promoter Escape
+R-HSA-73772	MCF-7	3	702	RNA Polymerase I Promoter Escape
+R-HSA-73772	TK6	6	532	RNA Polymerase I Promoter Escape
+R-HSA-73772	HepaRG	8	565	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	4	578	RNA Polymerase I Promoter Escape
+R-HSA-73772	Liver spheroids	9	656	RNA Polymerase I Promoter Escape
+R-HSA-73927	TK6	4	570	Depurination
+R-HSA-73927	Liver spheroids	5	633	Depurination
+R-HSA-73927	TK6	8	469	Depurination
+R-HSA-73927	HepaRG	4	564	Depurination
+R-HSA-73927	Liver spheroids	9	692	Depurination
+R-HSA-73927	Liver spheroids	4	619	Depurination
+R-HSA-73927	MCF-7	4	652	Depurination
+R-HSA-73927	Liver spheroids	10	664	Depurination
+R-HSA-73927	HepaRG	7	545	Depurination
+R-HSA-73927	MCF-7	6	628	Depurination
+R-HSA-73927	HepaRG	6	552	Depurination
+R-HSA-73927	TK6	7	501	Depurination
+R-HSA-73927	MCF-7	5	665	Depurination
+R-HSA-73927	Liver spheroids	6	636	Depurination
+R-HSA-73927	TK6	5	538	Depurination
+R-HSA-73927	Liver spheroids	7	655	Depurination
+R-HSA-73927	TK6	10	447	Depurination
+R-HSA-73927	HepaRG	5	547	Depurination
+R-HSA-73927	MCF-7	10	576	Depurination
+R-HSA-73927	HepaRG	10	505	Depurination
+R-HSA-73927	HepaRG	8	535	Depurination
+R-HSA-73927	TK6	6	535	Depurination
+R-HSA-73927	MCF-7	7	610	Depurination
+R-HSA-73927	MCF-7	3	726	Depurination
+R-HSA-73927	MCF-7	9	617	Depurination
+R-HSA-73927	HepaRG	3	587	Depurination
+R-HSA-73927	MCF-7	8	636	Depurination
+R-HSA-73927	TK6	3	609	Depurination
+R-HSA-73927	HepaRG	9	491	Depurination
+R-HSA-73927	Liver spheroids	8	664	Depurination
+R-HSA-73927	TK6	9	475	Depurination
+R-HSA-73927	Liver spheroids	3	574	Depurination
+R-HSA-73928	MCF-7	10	542	Depyrimidination
+R-HSA-73928	HepaRG	5	533	Depyrimidination
+R-HSA-73928	HepaRG	3	575	Depyrimidination
+R-HSA-73928	TK6	8	449	Depyrimidination
+R-HSA-73928	Liver spheroids	10	654	Depyrimidination
+R-HSA-73928	Liver spheroids	8	639	Depyrimidination
+R-HSA-73928	Liver spheroids	5	606	Depyrimidination
+R-HSA-73928	Liver spheroids	9	665	Depyrimidination
+R-HSA-73928	TK6	7	486	Depyrimidination
+R-HSA-73928	HepaRG	7	522	Depyrimidination
+R-HSA-73928	HepaRG	4	542	Depyrimidination
+R-HSA-73928	MCF-7	7	572	Depyrimidination
+R-HSA-73928	HepaRG	9	481	Depyrimidination
+R-HSA-73928	TK6	9	473	Depyrimidination
+R-HSA-73928	MCF-7	5	634	Depyrimidination
+R-HSA-73928	TK6	3	602	Depyrimidination
+R-HSA-73928	TK6	6	520	Depyrimidination
+R-HSA-73928	HepaRG	6	541	Depyrimidination
+R-HSA-73928	Liver spheroids	3	546	Depyrimidination
+R-HSA-73928	MCF-7	6	602	Depyrimidination
+R-HSA-73928	TK6	4	551	Depyrimidination
+R-HSA-73928	TK6	5	536	Depyrimidination
+R-HSA-73928	Liver spheroids	6	602	Depyrimidination
+R-HSA-73928	TK6	10	445	Depyrimidination
+R-HSA-73928	MCF-7	8	600	Depyrimidination
+R-HSA-73928	Liver spheroids	7	642	Depyrimidination
+R-HSA-73928	HepaRG	8	528	Depyrimidination
+R-HSA-73928	MCF-7	9	583	Depyrimidination
+R-HSA-73928	Liver spheroids	4	587	Depyrimidination
+R-HSA-73928	MCF-7	3	714	Depyrimidination
+R-HSA-73928	MCF-7	4	613	Depyrimidination
+R-HSA-73928	HepaRG	10	485	Depyrimidination
+R-HSA-73929	TK6	7	477	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	6	520	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	10	486	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	7	511	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	4	550	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	7	579	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	9	590	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	10	435	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	5	591	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	6	528	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	5	524	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	10	536	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	7	614	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	9	651	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	4	540	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	8	510	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	10	639	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	3	709	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	5	630	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	8	446	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	8	602	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	5	529	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	6	602	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	8	628	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	6	595	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	9	470	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	4	575	Base-Excision Repair, AP Site Formation
+R-HSA-73929	MCF-7	4	621	Base-Excision Repair, AP Site Formation
+R-HSA-73929	HepaRG	3	565	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	9	462	Base-Excision Repair, AP Site Formation
+R-HSA-73929	TK6	3	595	Base-Excision Repair, AP Site Formation
+R-HSA-73929	Liver spheroids	3	536	Base-Excision Repair, AP Site Formation
+R-HSA-8868773	HepaRG	7	334	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	6	207	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	9	311	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	3	661	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	4	186	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	5	214	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	5	551	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	9	494	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	8	515	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	7	540	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	8	356	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	10	291	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	6	330	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	4	585	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	3	611	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	3	350	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	8	199	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	4	618	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	10	448	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	4	364	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	5	571	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	HepaRG	5	333	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	10	502	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	9	516	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	10	193	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	6	548	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	3	165	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	9	174	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	Liver spheroids	7	177	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	8	508	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	TK6	6	554	rRNA processing in the nucleus and cytosol
+R-HSA-8868773	MCF-7	7	513	rRNA processing in the nucleus and cytosol
+R-HSA-8936459	TK6	6	526	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	3	523	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	5	607	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	3	579	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	4	572	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	5	568	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	7	480	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	4	606	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	10	536	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	10	447	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	7	570	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	6	579	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	8	598	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	9	459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	7	616	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	8	551	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	10	538	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	9	644	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	7	542	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	4	579	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	6	575	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	3	613	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	6	556	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	Liver spheroids	10	610	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	8	578	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	9	520	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	4	578	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	HepaRG	5	553	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	8	470	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	TK6	5	528	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	3	678	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8936459	MCF-7	9	539	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+R-HSA-8939236	Liver spheroids	4	494	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	9	548	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	7	510	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	3	461	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	10	500	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	4	583	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	6	518	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	8	470	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	4	666	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	8	525	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	6	613	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	7	544	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	5	663	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	6	533	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	5	541	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	6	504	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	7	588	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	3	567	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	3	626	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	9	482	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	4	558	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	10	458	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	5	540	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	8	604	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	10	566	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	9	477	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	HepaRG	8	508	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	3	723	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	10	564	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	MCF-7	9	584	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	TK6	7	487	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-8939236	Liver spheroids	5	501	RUNX1 regulates transcription of genes involved in differentiation of HSCs
+R-HSA-9010553	Liver spheroids	4	265	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	10	313	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	3	731	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	3	692	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	9	322	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	5	307	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	6	281	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	9	557	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	8	547	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	8	553	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	10	291	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	10	550	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	8	365	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	7	386	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	9	558	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	5	627	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	3	384	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	7	591	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	4	691	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	4	666	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	10	509	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	7	564	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	6	369	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	6	621	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	8	301	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	7	272	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	9	262	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	5	373	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	HepaRG	4	393	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	MCF-7	5	610	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	TK6	6	615	Regulation of expression of SLITs and ROBOs
+R-HSA-9010553	Liver spheroids	3	251	Regulation of expression of SLITs and ROBOs
+R-HSA-912446	TK6	10	439	Meiotic recombination
+R-HSA-912446	MCF-7	3	714	Meiotic recombination
+R-HSA-912446	MCF-7	7	594	Meiotic recombination
+R-HSA-912446	MCF-7	8	610	Meiotic recombination
+R-HSA-912446	MCF-7	5	644	Meiotic recombination
+R-HSA-912446	TK6	7	485	Meiotic recombination
+R-HSA-912446	TK6	4	573	Meiotic recombination
+R-HSA-912446	Liver spheroids	7	659	Meiotic recombination
+R-HSA-912446	HepaRG	6	585	Meiotic recombination
+R-HSA-912446	Liver spheroids	4	616	Meiotic recombination
+R-HSA-912446	TK6	6	530	Meiotic recombination
+R-HSA-912446	HepaRG	7	564	Meiotic recombination
+R-HSA-912446	MCF-7	9	598	Meiotic recombination
+R-HSA-912446	Liver spheroids	5	618	Meiotic recombination
+R-HSA-912446	Liver spheroids	9	693	Meiotic recombination
+R-HSA-912446	TK6	9	467	Meiotic recombination
+R-HSA-912446	MCF-7	6	618	Meiotic recombination
+R-HSA-912446	TK6	8	459	Meiotic recombination
+R-HSA-912446	HepaRG	8	584	Meiotic recombination
+R-HSA-912446	HepaRG	9	534	Meiotic recombination
+R-HSA-912446	Liver spheroids	10	669	Meiotic recombination
+R-HSA-912446	TK6	3	620	Meiotic recombination
+R-HSA-912446	HepaRG	3	606	Meiotic recombination
+R-HSA-912446	MCF-7	10	566	Meiotic recombination
+R-HSA-912446	HepaRG	5	573	Meiotic recombination
+R-HSA-912446	Liver spheroids	8	667	Meiotic recombination
+R-HSA-912446	TK6	5	518	Meiotic recombination
+R-HSA-912446	HepaRG	4	597	Meiotic recombination
+R-HSA-912446	Liver spheroids	3	568	Meiotic recombination
+R-HSA-912446	HepaRG	10	556	Meiotic recombination
+R-HSA-912446	Liver spheroids	6	627	Meiotic recombination
+R-HSA-912446	MCF-7	4	637	Meiotic recombination
+R-HSA-927802	MCF-7	8	492	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	4	200	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	10	178	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	3	651	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	4	630	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	3	398	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	10	442	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	8	370	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	3	207	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	3	628	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	7	363	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	9	340	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	6	213	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	6	541	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	5	582	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	4	390	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	6	537	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	4	604	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	9	488	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	5	364	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	7	494	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	10	501	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	5	240	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	5	560	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	9	197	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	7	511	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	8	214	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	Liver spheroids	7	195	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	TK6	8	478	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	MCF-7	9	488	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	10	326	Nonsense-Mediated Decay (NMD)
+R-HSA-927802	HepaRG	6	359	Nonsense-Mediated Decay (NMD)
+R-HSA-9610379	MCF-7	6	595	HCMV Late Events
+R-HSA-9610379	Liver spheroids	3	503	HCMV Late Events
+R-HSA-9610379	TK6	7	485	HCMV Late Events
+R-HSA-9610379	HepaRG	9	508	HCMV Late Events
+R-HSA-9610379	Liver spheroids	7	601	HCMV Late Events
+R-HSA-9610379	MCF-7	9	564	HCMV Late Events
+R-HSA-9610379	HepaRG	10	517	HCMV Late Events
+R-HSA-9610379	TK6	8	458	HCMV Late Events
+R-HSA-9610379	HepaRG	5	558	HCMV Late Events
+R-HSA-9610379	HepaRG	4	557	HCMV Late Events
+R-HSA-9610379	TK6	3	623	HCMV Late Events
+R-HSA-9610379	Liver spheroids	9	616	HCMV Late Events
+R-HSA-9610379	Liver spheroids	5	562	HCMV Late Events
+R-HSA-9610379	TK6	9	481	HCMV Late Events
+R-HSA-9610379	MCF-7	5	632	HCMV Late Events
+R-HSA-9610379	MCF-7	4	617	HCMV Late Events
+R-HSA-9610379	Liver spheroids	4	533	HCMV Late Events
+R-HSA-9610379	HepaRG	7	544	HCMV Late Events
+R-HSA-9610379	TK6	5	517	HCMV Late Events
+R-HSA-9610379	HepaRG	8	533	HCMV Late Events
+R-HSA-9610379	Liver spheroids	6	569	HCMV Late Events
+R-HSA-9610379	MCF-7	10	556	HCMV Late Events
+R-HSA-9610379	Liver spheroids	10	591	HCMV Late Events
+R-HSA-9610379	HepaRG	6	547	HCMV Late Events
+R-HSA-9610379	MCF-7	8	592	HCMV Late Events
+R-HSA-9610379	Liver spheroids	8	606	HCMV Late Events
+R-HSA-9610379	TK6	4	568	HCMV Late Events
+R-HSA-9610379	TK6	10	446	HCMV Late Events
+R-HSA-9610379	TK6	6	526	HCMV Late Events
+R-HSA-9610379	MCF-7	3	699	HCMV Late Events
+R-HSA-9610379	HepaRG	3	589	HCMV Late Events
+R-HSA-9610379	MCF-7	7	581	HCMV Late Events
+R-HSA-9616222	TK6	5	541	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	7	643	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	9	653	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	3	622	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	5	560	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	7	568	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	8	642	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	3	532	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	9	487	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	7	580	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	6	569	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	9	532	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	6	546	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	6	612	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	8	573	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	9	570	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	10	636	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	10	537	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	5	596	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	5	635	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	8	608	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	3	701	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	3	598	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	4	622	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	MCF-7	6	599	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	4	577	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	8	470	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	10	540	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	Liver spheroids	4	591	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	10	459	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	TK6	7	495	Transcriptional regulation of granulopoiesis
+R-HSA-9616222	HepaRG	4	587	Transcriptional regulation of granulopoiesis
+R-HSA-9633012	HepaRG	5	375	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	6	376	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	4	213	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	3	216	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	7	539	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	10	187	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	8	521	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	6	227	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	9	191	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	4	393	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	10	488	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	6	553	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	4	629	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	10	465	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	5	579	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	5	245	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	8	366	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	9	521	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	8	496	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	3	396	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	5	558	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	9	327	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	9	490	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	7	487	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	3	619	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	MCF-7	4	591	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	3	645	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	7	369	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	8	224	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	HepaRG	10	322	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	TK6	6	577	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9633012	Liver spheroids	7	211	Response of EIF2AK4 (GCN2) to amino acid deficiency
+R-HSA-9710421	HepaRG	9	569	Defective pyroptosis
+R-HSA-9710421	TK6	9	522	Defective pyroptosis
+R-HSA-9710421	HepaRG	7	604	Defective pyroptosis
+R-HSA-9710421	TK6	3	650	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	8	704	Defective pyroptosis
+R-HSA-9710421	MCF-7	3	737	Defective pyroptosis
+R-HSA-9710421	HepaRG	3	632	Defective pyroptosis
+R-HSA-9710421	HepaRG	4	629	Defective pyroptosis
+R-HSA-9710421	MCF-7	8	676	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	6	660	Defective pyroptosis
+R-HSA-9710421	TK6	4	603	Defective pyroptosis
+R-HSA-9710421	HepaRG	8	624	Defective pyroptosis
+R-HSA-9710421	TK6	7	545	Defective pyroptosis
+R-HSA-9710421	MCF-7	9	655	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	5	660	Defective pyroptosis
+R-HSA-9710421	TK6	5	562	Defective pyroptosis
+R-HSA-9710421	TK6	8	511	Defective pyroptosis
+R-HSA-9710421	HepaRG	5	596	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	10	701	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	4	656	Defective pyroptosis
+R-HSA-9710421	MCF-7	10	616	Defective pyroptosis
+R-HSA-9710421	MCF-7	6	676	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	7	707	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	3	605	Defective pyroptosis
+R-HSA-9710421	Liver spheroids	9	724	Defective pyroptosis
+R-HSA-9710421	HepaRG	10	581	Defective pyroptosis
+R-HSA-9710421	TK6	10	506	Defective pyroptosis
+R-HSA-9710421	MCF-7	5	692	Defective pyroptosis
+R-HSA-9710421	MCF-7	7	656	Defective pyroptosis
+R-HSA-9710421	HepaRG	6	613	Defective pyroptosis
+R-HSA-9710421	TK6	6	569	Defective pyroptosis
+R-HSA-9710421	MCF-7	4	689	Defective pyroptosis
+R-HSA-975956	HepaRG	10	351	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	3	660	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	4	648	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	8	252	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	8	526	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	4	594	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	7	386	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	9	492	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	7	546	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	5	581	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	4	240	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	8	500	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	9	369	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	7	493	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	8	393	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	6	580	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	6	262	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	5	586	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	4	421	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	5	276	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	9	529	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	10	227	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	5	399	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	7	239	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	3	622	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	9	226	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	Liver spheroids	3	246	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	6	389	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	HepaRG	3	410	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	6	552	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	MCF-7	10	502	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975956	TK6	10	474	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	10	326	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	8	478	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	7	363	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	4	630	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	7	511	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	8	214	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	3	398	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	6	537	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	3	651	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	9	488	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	3	628	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	10	442	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	6	541	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	5	582	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	4	390	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	8	492	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	3	207	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	7	494	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	9	488	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	4	200	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	5	240	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	10	178	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	5	364	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	4	604	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	6	213	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	9	340	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	8	370	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	MCF-7	10	501	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	TK6	5	560	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	9	197	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	HepaRG	6	359	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-975957	Liver spheroids	7	195	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+R-HSA-977225	MCF-7	7	576	Amyloid fiber formation
+R-HSA-977225	HepaRG	4	580	Amyloid fiber formation
+R-HSA-977225	TK6	9	487	Amyloid fiber formation
+R-HSA-977225	HepaRG	6	540	Amyloid fiber formation
+R-HSA-977225	TK6	7	517	Amyloid fiber formation
+R-HSA-977225	MCF-7	8	610	Amyloid fiber formation
+R-HSA-977225	TK6	6	555	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	4	517	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	10	575	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	8	574	Amyloid fiber formation
+R-HSA-977225	TK6	8	490	Amyloid fiber formation
+R-HSA-977225	HepaRG	7	539	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	3	468	Amyloid fiber formation
+R-HSA-977225	TK6	10	463	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	7	591	Amyloid fiber formation
+R-HSA-977225	MCF-7	10	534	Amyloid fiber formation
+R-HSA-977225	MCF-7	5	652	Amyloid fiber formation
+R-HSA-977225	HepaRG	5	558	Amyloid fiber formation
+R-HSA-977225	HepaRG	3	600	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	6	549	Amyloid fiber formation
+R-HSA-977225	HepaRG	9	499	Amyloid fiber formation
+R-HSA-977225	TK6	5	560	Amyloid fiber formation
+R-HSA-977225	HepaRG	8	555	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	5	543	Amyloid fiber formation
+R-HSA-977225	TK6	4	591	Amyloid fiber formation
+R-HSA-977225	MCF-7	6	598	Amyloid fiber formation
+R-HSA-977225	TK6	3	635	Amyloid fiber formation
+R-HSA-977225	MCF-7	9	573	Amyloid fiber formation
+R-HSA-977225	MCF-7	4	624	Amyloid fiber formation
+R-HSA-977225	Liver spheroids	9	593	Amyloid fiber formation
+R-HSA-977225	HepaRG	10	522	Amyloid fiber formation
+R-HSA-977225	MCF-7	3	714	Amyloid fiber formation

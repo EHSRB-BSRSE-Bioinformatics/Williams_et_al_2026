@@ -1,0 +1,704 @@
+trial_name	comparison	field	passed	detail
+TK6_3_3_1	archive	DESeqRes:feature_ids	TRUE	11345 observed; 11345 expected
+TK6_3_3_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_1	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=8.4847518e-11; max_scaled_difference=8.4847518e-11
+TK6_3_3_1	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=3.0638877e-12; max_scaled_difference=3.0638877e-12
+TK6_3_3_1	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=3.8410601e-08; max_scaled_difference=3.8410601e-08
+TK6_3_3_1	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.3719026e-12; max_scaled_difference=1.3719026e-12
+TK6_3_3_1	archive	DESeqResFiltered:feature_ids	TRUE	0 observed; 0 expected
+TK6_3_3_1	archive	DESeqResFiltered:columns	TRUE	
+TK6_3_3_1	archive	DESeqResDEGs:feature_ids	TRUE	0 observed; 0 expected
+TK6_3_3_1	archive	DESeqResDEGs:columns	TRUE	
+TK6_3_3_1	archive	DESeqfiltered_table:feature_ids	TRUE	0 observed; 0 expected
+TK6_3_3_1	archive	DESeqfiltered_table:columns	TRUE	
+TK6_3_3_1	archive	sample_ids	TRUE	ordered sample IDs
+TK6_3_3_1	archive	group_labels	TRUE	ordered group labels
+TK6_3_3_1	archive	num_rows_metadata	TRUE	retained sample count
+TK6_3_3_1	archive	filtered_out:length	TRUE	0 observed; 0 expected
+TK6_10_10_1	archive	DESeqRes:feature_ids	TRUE	11291 observed; 11291 expected
+TK6_10_10_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_10_10_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_10_10_1	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=5.5821811e-11; max_scaled_difference=5.5821811e-11
+TK6_10_10_1	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.3907148e-12; max_scaled_difference=1.3907148e-12
+TK6_10_10_1	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=1.0943342e-07; max_scaled_difference=1.0943342e-07
+TK6_10_10_1	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.7652546e-12; max_scaled_difference=1.7652546e-12
+TK6_10_10_1	archive	DESeqResFiltered:feature_ids	TRUE	0 observed; 0 expected
+TK6_10_10_1	archive	DESeqResFiltered:columns	TRUE	
+TK6_10_10_1	archive	DESeqResDEGs:feature_ids	TRUE	0 observed; 0 expected
+TK6_10_10_1	archive	DESeqResDEGs:columns	TRUE	
+TK6_10_10_1	archive	DESeqfiltered_table:feature_ids	TRUE	0 observed; 0 expected
+TK6_10_10_1	archive	DESeqfiltered_table:columns	TRUE	
+TK6_10_10_1	archive	sample_ids	TRUE	ordered sample IDs
+TK6_10_10_1	archive	group_labels	TRUE	ordered group labels
+TK6_10_10_1	archive	num_rows_metadata	TRUE	retained sample count
+TK6_10_10_1	archive	filtered_out:length	TRUE	0 observed; 0 expected
+TK6_3_3_6	archive	DESeqRes:feature_ids	TRUE	11382 observed; 11382 expected
+TK6_3_3_6	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_6	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=1.4341417e-11; max_scaled_difference=1.086925e-11
+TK6_3_3_6	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=2.0285329e-11; max_scaled_difference=1.0264578e-11
+TK6_3_3_6	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=4.6410861e-12; max_scaled_difference=4.6410861e-12
+TK6_3_3_6	archive	DESeqRes:padj	TRUE	max_absolute_difference=3.2904846e-11; max_scaled_difference=3.2904846e-11
+TK6_3_3_6	archive	DESeqResFiltered:feature_ids	TRUE	11382 observed; 11382 expected
+TK6_3_3_6	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_6	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=1.4341417e-11; max_scaled_difference=1.086925e-11
+TK6_3_3_6	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=2.0285329e-11; max_scaled_difference=1.0264578e-11
+TK6_3_3_6	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=4.6410861e-12; max_scaled_difference=4.6410861e-12
+TK6_3_3_6	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=3.2904846e-11; max_scaled_difference=3.2904846e-11
+TK6_3_3_6	archive	DESeqResDEGs:feature_ids	TRUE	1 observed; 1 expected
+TK6_3_3_6	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_6	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=1.4341417e-11; max_scaled_difference=2.2247619e-12
+TK6_3_3_6	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=2.0285329e-11; max_scaled_difference=1.0264578e-11
+TK6_3_3_6	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=3.882574e-18; max_scaled_difference=3.882574e-18
+TK6_3_3_6	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=4.419143e-14; max_scaled_difference=4.419143e-14
+TK6_3_3_6	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+TK6_3_3_6	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+TK6_3_3_6	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+TK6_3_3_6	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+TK6_3_3_6	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	sample_ids	TRUE	ordered sample IDs
+TK6_3_3_6	archive	group_labels	TRUE	ordered group labels
+TK6_3_3_6	archive	num_rows_metadata	TRUE	retained sample count
+TK6_3_3_6	archive	filtered_out:length	TRUE	3 observed; 3 expected
+TK6_3_3_6	archive	filtered_out_1:feature_ids	TRUE	2710 observed; 2710 expected
+TK6_3_3_6	archive	filtered_out_1:columns	TRUE	G5PlateH_DMSO_S327_R1_001,A6PlateH_DMSO_S329_R1_001,G9PlateH_DMSO_S359_R1_001,A11PlateH_DMSO_S369_R1_001,B9PlateH_DMSO_S354_R1_001,H3PlateH_DMSO_S312_R1_001
+TK6_3_3_6	archive	filtered_out_1:G5PlateH_DMSO_S327_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	filtered_out_1:A6PlateH_DMSO_S329_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	filtered_out_1:G9PlateH_DMSO_S359_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	filtered_out_1:A11PlateH_DMSO_S369_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	filtered_out_1:B9PlateH_DMSO_S354_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	filtered_out_1:H3PlateH_DMSO_S312_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_6	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+TK6_3_3_6	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_6	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+TK6_3_3_6	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_4_4_863	archive	DESeqRes:feature_ids	TRUE	12012 observed; 12012 expected
+TK6_4_4_863	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_4_4_863	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=7.2100178e-08; max_scaled_difference=7.2100178e-08
+TK6_4_4_863	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=9.3593465e-08; max_scaled_difference=9.3593465e-08
+TK6_4_4_863	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=5.2942983e-08; max_scaled_difference=5.2942983e-08
+TK6_4_4_863	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.3429273e-07; max_scaled_difference=1.3429273e-07
+TK6_4_4_863	archive	DESeqResFiltered:feature_ids	TRUE	11932 observed; 11932 expected
+TK6_4_4_863	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_4_4_863	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=7.2100178e-08; max_scaled_difference=7.2100178e-08
+TK6_4_4_863	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=9.3593465e-08; max_scaled_difference=9.3593465e-08
+TK6_4_4_863	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=5.2942983e-08; max_scaled_difference=5.2942983e-08
+TK6_4_4_863	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.3429273e-07; max_scaled_difference=1.3429273e-07
+TK6_4_4_863	archive	DESeqResDEGs:feature_ids	TRUE	1050 observed; 1050 expected
+TK6_4_4_863	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_4_4_863	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=2.6815306e-10; max_scaled_difference=9.589203e-11
+TK6_4_4_863	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=1.1391221e-10; max_scaled_difference=9.2329403e-11
+TK6_4_4_863	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=1.2561653e-13; max_scaled_difference=1.2561653e-13
+TK6_4_4_863	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=6.5371666e-13; max_scaled_difference=6.5371666e-13
+TK6_4_4_863	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+TK6_4_4_863	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+TK6_4_4_863	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+TK6_4_4_863	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+TK6_4_4_863	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	sample_ids	TRUE	ordered sample IDs
+TK6_4_4_863	archive	group_labels	TRUE	ordered group labels
+TK6_4_4_863	archive	num_rows_metadata	TRUE	retained sample count
+TK6_4_4_863	archive	filtered_out:length	TRUE	3 observed; 3 expected
+TK6_4_4_863	archive	filtered_out_1:feature_ids	TRUE	3679 observed; 3679 expected
+TK6_4_4_863	archive	filtered_out_1:columns	TRUE	C6PlateH_DMSO_S331_R1_001,E11PlateH_DMSO_S373_R1_001,E8PlateH_DMSO_S349_R1_001,H6PlateH_DMSO_S336_R1_001,F5PlateH_DMSO_S326_R1_001,F8PlateH_DMSO_S350_R1_001,B3PlateH_DMSO_S306_R1_001,E9PlateH_DMSO_S357_R1_001
+TK6_4_4_863	archive	filtered_out_1:C6PlateH_DMSO_S331_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:E11PlateH_DMSO_S373_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:E8PlateH_DMSO_S349_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:H6PlateH_DMSO_S336_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:F5PlateH_DMSO_S326_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:F8PlateH_DMSO_S350_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:B3PlateH_DMSO_S306_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_1:E9PlateH_DMSO_S357_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_2:feature_ids	TRUE	1 observed; 1 expected
+TK6_4_4_863	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_4_4_863	archive	filtered_out_2:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_2:log2FoldChange	TRUE	max_absolute_difference=2.1696478e-11; max_scaled_difference=2.1696478e-11
+TK6_4_4_863	archive	filtered_out_2:lfcSE	TRUE	max_absolute_difference=4.4431014e-11; max_scaled_difference=4.4431014e-11
+TK6_4_4_863	archive	filtered_out_2:pvalue	TRUE	max_absolute_difference=2.1684043e-17; max_scaled_difference=2.1684043e-17
+TK6_4_4_863	archive	filtered_out_2:padj	TRUE	max_absolute_difference=1.110223e-16; max_scaled_difference=1.110223e-16
+TK6_4_4_863	archive	filtered_out_3:feature_ids	TRUE	15 observed; 15 expected
+TK6_4_4_863	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_4_4_863	archive	filtered_out_3:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_4_4_863	archive	filtered_out_3:log2FoldChange	TRUE	max_absolute_difference=3.0902036e-10; max_scaled_difference=1.2241907e-10
+TK6_4_4_863	archive	filtered_out_3:lfcSE	TRUE	max_absolute_difference=1.4428125e-10; max_scaled_difference=1.1590154e-10
+TK6_4_4_863	archive	filtered_out_3:pvalue	TRUE	max_absolute_difference=1.5433314e-13; max_scaled_difference=1.5433314e-13
+TK6_4_4_863	archive	filtered_out_3:padj	TRUE	max_absolute_difference=6.9498574e-13; max_scaled_difference=6.9498574e-13
+TK6_3_3_15	archive	DESeqRes:feature_ids	TRUE	11446 observed; 11446 expected
+TK6_3_3_15	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_15	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=2.0916602e-13; max_scaled_difference=9.9188476e-14
+TK6_3_3_15	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.0391688e-13; max_scaled_difference=6.5170092e-14
+TK6_3_3_15	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=7.0277117e-14; max_scaled_difference=7.0277117e-14
+TK6_3_3_15	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.2156942e-13; max_scaled_difference=1.2156942e-13
+TK6_3_3_15	archive	DESeqResFiltered:feature_ids	TRUE	11434 observed; 11434 expected
+TK6_3_3_15	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_15	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=2.0916602e-13; max_scaled_difference=9.9188476e-14
+TK6_3_3_15	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=1.0391688e-13; max_scaled_difference=6.5170092e-14
+TK6_3_3_15	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=7.0277117e-14; max_scaled_difference=7.0277117e-14
+TK6_3_3_15	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.2156942e-13; max_scaled_difference=1.2156942e-13
+TK6_3_3_15	archive	DESeqResDEGs:feature_ids	TRUE	2122 observed; 2122 expected
+TK6_3_3_15	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_15	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=2.0694557e-13; max_scaled_difference=9.8072615e-14
+TK6_3_3_15	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=6.8611783e-14; max_scaled_difference=6.5170092e-14
+TK6_3_3_15	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=4.3003795e-15; max_scaled_difference=4.3003795e-15
+TK6_3_3_15	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=1.856848e-14; max_scaled_difference=1.856848e-14
+TK6_3_3_15	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+TK6_3_3_15	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+TK6_3_3_15	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+TK6_3_3_15	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+TK6_3_3_15	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	sample_ids	TRUE	ordered sample IDs
+TK6_3_3_15	archive	group_labels	TRUE	ordered group labels
+TK6_3_3_15	archive	num_rows_metadata	TRUE	retained sample count
+TK6_3_3_15	archive	filtered_out:length	TRUE	3 observed; 3 expected
+TK6_3_3_15	archive	filtered_out_1:feature_ids	TRUE	2708 observed; 2708 expected
+TK6_3_3_15	archive	filtered_out_1:columns	TRUE	B9PlateH_DMSO_S354_R1_001,H7PlateH_DMSO_S344_R1_001,A10PlateH_DMSO_S361_R1_001,D4PlateH_DMSO_S316_R1_001,E4PlateH_DMSO_S317_R1_001,D5PlateH_DMSO_S324_R1_001
+TK6_3_3_15	archive	filtered_out_1:B9PlateH_DMSO_S354_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_1:H7PlateH_DMSO_S344_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_1:A10PlateH_DMSO_S361_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_1:D4PlateH_DMSO_S316_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_1:E4PlateH_DMSO_S317_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_1:D5PlateH_DMSO_S324_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+TK6_3_3_15	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_15	archive	filtered_out_3:feature_ids	TRUE	3 observed; 3 expected
+TK6_3_3_15	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+TK6_3_3_15	archive	filtered_out_3:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+TK6_3_3_15	archive	filtered_out_3:log2FoldChange	TRUE	max_absolute_difference=5.3290705e-14; max_scaled_difference=4.317869e-14
+TK6_3_3_15	archive	filtered_out_3:lfcSE	TRUE	max_absolute_difference=6.5281114e-14; max_scaled_difference=3.9778594e-14
+TK6_3_3_15	archive	filtered_out_3:pvalue	TRUE	max_absolute_difference=2.4806546e-16; max_scaled_difference=2.4806546e-16
+TK6_3_3_15	archive	filtered_out_3:padj	TRUE	max_absolute_difference=1.6046192e-15; max_scaled_difference=1.6046192e-15
+MCF-7_3_3_1	archive	DESeqRes:feature_ids	TRUE	13788 observed; 13788 expected
+MCF-7_3_3_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_3_3_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqRes:log2FoldChange	FALSE	max_absolute_difference=7.5087051e-05; max_scaled_difference=7.5087051e-05
+MCF-7_3_3_1	archive	DESeqRes:lfcSE	FALSE	max_absolute_difference=4.6921515e-05; max_scaled_difference=4.6921515e-05
+MCF-7_3_3_1	archive	DESeqRes:pvalue	FALSE	max_absolute_difference=0.00032539388; max_scaled_difference=0.00032539388
+MCF-7_3_3_1	archive	DESeqRes:padj	FALSE	max_absolute_difference=8.4141282e-05; max_scaled_difference=8.4141282e-05
+MCF-7_3_3_1	archive	DESeqResFiltered:feature_ids	TRUE	13788 observed; 13788 expected
+MCF-7_3_3_1	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_3_3_1	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqResFiltered:log2FoldChange	FALSE	max_absolute_difference=7.5087051e-05; max_scaled_difference=7.5087051e-05
+MCF-7_3_3_1	archive	DESeqResFiltered:lfcSE	FALSE	max_absolute_difference=4.6921515e-05; max_scaled_difference=4.6921515e-05
+MCF-7_3_3_1	archive	DESeqResFiltered:pvalue	FALSE	max_absolute_difference=0.00032539388; max_scaled_difference=0.00032539388
+MCF-7_3_3_1	archive	DESeqResFiltered:padj	FALSE	max_absolute_difference=8.4141282e-05; max_scaled_difference=8.4141282e-05
+MCF-7_3_3_1	archive	DESeqResDEGs:feature_ids	TRUE	6 observed; 6 expected
+MCF-7_3_3_1	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_3_3_1	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqResDEGs:log2FoldChange	FALSE	max_absolute_difference=7.5087051e-05; max_scaled_difference=7.5087051e-05
+MCF-7_3_3_1	archive	DESeqResDEGs:lfcSE	FALSE	max_absolute_difference=2.1401059e-05; max_scaled_difference=2.1401059e-05
+MCF-7_3_3_1	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=3.4570883e-09; max_scaled_difference=3.4570883e-09
+MCF-7_3_3_1	archive	DESeqResDEGs:padj	FALSE	max_absolute_difference=4.3118276e-06; max_scaled_difference=4.3118276e-06
+MCF-7_3_3_1	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+MCF-7_3_3_1	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+MCF-7_3_3_1	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+MCF-7_3_3_1	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+MCF-7_3_3_1	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	sample_ids	TRUE	ordered sample IDs
+MCF-7_3_3_1	archive	group_labels	TRUE	ordered group labels
+MCF-7_3_3_1	archive	num_rows_metadata	TRUE	retained sample count
+MCF-7_3_3_1	archive	filtered_out:length	TRUE	3 observed; 3 expected
+MCF-7_3_3_1	archive	filtered_out_1:feature_ids	TRUE	3204 observed; 3204 expected
+MCF-7_3_3_1	archive	filtered_out_1:columns	TRUE	A6PlateF_DMSO_S137_R1_001,H10PlateF_DMSO_S176_R1_001,H4PlateF_DMSO_S128_R1_001,D9PlateF_DMSO_S164_R1_001,B11PlateF_DMSO_S178_R1_001,A8PlateF_DMSO_S153_R1_001
+MCF-7_3_3_1	archive	filtered_out_1:A6PlateF_DMSO_S137_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	filtered_out_1:H10PlateF_DMSO_S176_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	filtered_out_1:H4PlateF_DMSO_S128_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	filtered_out_1:D9PlateF_DMSO_S164_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	filtered_out_1:B11PlateF_DMSO_S178_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	filtered_out_1:A8PlateF_DMSO_S153_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_3_3_1	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_3_3_1	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_3_3_1	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_3_3_1	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_10_10_1	archive	DESeqRes:feature_ids	TRUE	13606 observed; 13606 expected
+MCF-7_10_10_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_10_10_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_10_10_1	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=9.651944e-09; max_scaled_difference=9.651944e-09
+MCF-7_10_10_1	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=8.7651534e-10; max_scaled_difference=8.7651534e-10
+MCF-7_10_10_1	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=3.4763429e-07; max_scaled_difference=3.4763429e-07
+MCF-7_10_10_1	archive	DESeqRes:padj	FALSE	max_absolute_difference=1.4517839e-06; max_scaled_difference=1.4517839e-06
+MCF-7_10_10_1	archive	DESeqResFiltered:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_10_10_1	archive	DESeqResFiltered:columns	TRUE	
+MCF-7_10_10_1	archive	DESeqResDEGs:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_10_10_1	archive	DESeqResDEGs:columns	TRUE	
+MCF-7_10_10_1	archive	DESeqfiltered_table:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_10_10_1	archive	DESeqfiltered_table:columns	TRUE	
+MCF-7_10_10_1	archive	sample_ids	TRUE	ordered sample IDs
+MCF-7_10_10_1	archive	group_labels	TRUE	ordered group labels
+MCF-7_10_10_1	archive	num_rows_metadata	TRUE	retained sample count
+MCF-7_10_10_1	archive	filtered_out:length	TRUE	0 observed; 0 expected
+MCF-7_5_5_159	archive	DESeqRes:feature_ids	TRUE	13934 observed; 13934 expected
+MCF-7_5_5_159	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_159	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=7.9822096e-09; max_scaled_difference=7.9822096e-09
+MCF-7_5_5_159	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.097759e-08; max_scaled_difference=1.097759e-08
+MCF-7_5_5_159	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=5.174323e-08; max_scaled_difference=5.174323e-08
+MCF-7_5_5_159	archive	DESeqRes:padj	TRUE	max_absolute_difference=7.3449283e-08; max_scaled_difference=7.3449283e-08
+MCF-7_5_5_159	archive	DESeqResFiltered:feature_ids	TRUE	13926 observed; 13926 expected
+MCF-7_5_5_159	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_159	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=7.9822096e-09; max_scaled_difference=7.9822096e-09
+MCF-7_5_5_159	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=1.097759e-08; max_scaled_difference=1.097759e-08
+MCF-7_5_5_159	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=5.174323e-08; max_scaled_difference=5.174323e-08
+MCF-7_5_5_159	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=7.3449283e-08; max_scaled_difference=7.3449283e-08
+MCF-7_5_5_159	archive	DESeqResDEGs:feature_ids	TRUE	385 observed; 385 expected
+MCF-7_5_5_159	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_159	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=1.4040435e-11; max_scaled_difference=1.4040435e-11
+MCF-7_5_5_159	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=1.6122659e-12; max_scaled_difference=1.6122659e-12
+MCF-7_5_5_159	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=3.8154538e-14; max_scaled_difference=3.8154538e-14
+MCF-7_5_5_159	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=3.4186499e-13; max_scaled_difference=3.4186499e-13
+MCF-7_5_5_159	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+MCF-7_5_5_159	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+MCF-7_5_5_159	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+MCF-7_5_5_159	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+MCF-7_5_5_159	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	sample_ids	TRUE	ordered sample IDs
+MCF-7_5_5_159	archive	group_labels	TRUE	ordered group labels
+MCF-7_5_5_159	archive	num_rows_metadata	TRUE	retained sample count
+MCF-7_5_5_159	archive	filtered_out:length	TRUE	3 observed; 3 expected
+MCF-7_5_5_159	archive	filtered_out_1:feature_ids	TRUE	3546 observed; 3546 expected
+MCF-7_5_5_159	archive	filtered_out_1:columns	TRUE	F12PlateF_DMSO_S190_R1_001,D4PlateF_DMSO_S124_R1_001,A7PlateF_DMSO_S145_R1_001,H8PlateF_DMSO_S160_R1_001,D10PlateF_DMSO_S172_R1_001,G12PlateF_DMSO_S191_R1_001,C9PlateF_DMSO_S163_R1_001,B11PlateF_DMSO_S178_R1_001,F11PlateF_DMSO_S182_R1_001,C10PlateF_DMSO_S171_R1_001
+MCF-7_5_5_159	archive	filtered_out_1:F12PlateF_DMSO_S190_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:D4PlateF_DMSO_S124_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:A7PlateF_DMSO_S145_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:H8PlateF_DMSO_S160_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:D10PlateF_DMSO_S172_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:G12PlateF_DMSO_S191_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:C9PlateF_DMSO_S163_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:B11PlateF_DMSO_S178_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:F11PlateF_DMSO_S182_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_1:C10PlateF_DMSO_S171_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_2:feature_ids	TRUE	2 observed; 2 expected
+MCF-7_5_5_159	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_159	archive	filtered_out_2:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_159	archive	filtered_out_2:log2FoldChange	TRUE	max_absolute_difference=3.6473602e-12; max_scaled_difference=3.6473602e-12
+MCF-7_5_5_159	archive	filtered_out_2:lfcSE	TRUE	max_absolute_difference=1.5364099e-12; max_scaled_difference=1.5364099e-12
+MCF-7_5_5_159	archive	filtered_out_2:pvalue	TRUE	max_absolute_difference=1.0695819e-12; max_scaled_difference=1.0695819e-12
+MCF-7_5_5_159	archive	filtered_out_2:padj	TRUE	max_absolute_difference=3.9743833e-12; max_scaled_difference=3.9743833e-12
+MCF-7_5_5_159	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_5_5_159	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_421	archive	DESeqRes:feature_ids	TRUE	13911 observed; 13911 expected
+MCF-7_5_5_421	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_421	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=6.0084523e-11; max_scaled_difference=6.0084523e-11
+MCF-7_5_5_421	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.7243004e-09; max_scaled_difference=1.7243004e-09
+MCF-7_5_5_421	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=1.3990097e-07; max_scaled_difference=1.3990097e-07
+MCF-7_5_5_421	archive	DESeqRes:padj	TRUE	max_absolute_difference=7.6692097e-11; max_scaled_difference=7.6692097e-11
+MCF-7_5_5_421	archive	DESeqResFiltered:feature_ids	TRUE	13306 observed; 13306 expected
+MCF-7_5_5_421	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_421	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=4.7415959e-11; max_scaled_difference=4.7415959e-11
+MCF-7_5_5_421	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=1.1644401e-09; max_scaled_difference=1.1644401e-09
+MCF-7_5_5_421	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=8.882529e-08; max_scaled_difference=8.882529e-08
+MCF-7_5_5_421	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=7.6692097e-11; max_scaled_difference=7.6692097e-11
+MCF-7_5_5_421	archive	DESeqResDEGs:feature_ids	TRUE	7 observed; 7 expected
+MCF-7_5_5_421	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_421	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=1.4828472e-11; max_scaled_difference=1.4828472e-11
+MCF-7_5_5_421	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=1.3762214e-11; max_scaled_difference=1.3762214e-11
+MCF-7_5_5_421	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=2.6234423e-15; max_scaled_difference=2.6234423e-15
+MCF-7_5_5_421	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=4.6067664e-12; max_scaled_difference=4.6067664e-12
+MCF-7_5_5_421	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+MCF-7_5_5_421	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+MCF-7_5_5_421	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+MCF-7_5_5_421	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+MCF-7_5_5_421	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	sample_ids	TRUE	ordered sample IDs
+MCF-7_5_5_421	archive	group_labels	TRUE	ordered group labels
+MCF-7_5_5_421	archive	num_rows_metadata	TRUE	retained sample count
+MCF-7_5_5_421	archive	filtered_out:length	TRUE	3 observed; 3 expected
+MCF-7_5_5_421	archive	filtered_out_1:feature_ids	TRUE	3106 observed; 3106 expected
+MCF-7_5_5_421	archive	filtered_out_1:columns	TRUE	A7PlateF_DMSO_S145_R1_001,D4PlateF_DMSO_S124_R1_001,C9PlateF_DMSO_S163_R1_001,H6PlateF_DMSO_S144_R1_001,A5PlateF_DMSO_S129_R1_001,F10PlateF_DMSO_S174_R1_001,D12PlateF_DMSO_S188_R1_001,G3PlateF_DMSO_S119_R1_001,B10PlateF_DMSO_S170_R1_001,G5PlateF_DMSO_S135_R1_001
+MCF-7_5_5_421	archive	filtered_out_1:A7PlateF_DMSO_S145_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:D4PlateF_DMSO_S124_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:C9PlateF_DMSO_S163_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:H6PlateF_DMSO_S144_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:A5PlateF_DMSO_S129_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:F10PlateF_DMSO_S174_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:D12PlateF_DMSO_S188_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:G3PlateF_DMSO_S119_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:B10PlateF_DMSO_S170_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_1:G5PlateF_DMSO_S135_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+MCF-7_5_5_421	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_421	archive	filtered_out_3:feature_ids	TRUE	1 observed; 1 expected
+MCF-7_5_5_421	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+MCF-7_5_5_421	archive	filtered_out_3:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+MCF-7_5_5_421	archive	filtered_out_3:log2FoldChange	TRUE	max_absolute_difference=3.2023828e-12; max_scaled_difference=3.2023828e-12
+MCF-7_5_5_421	archive	filtered_out_3:lfcSE	TRUE	max_absolute_difference=4.5708437e-12; max_scaled_difference=4.5708437e-12
+MCF-7_5_5_421	archive	filtered_out_3:pvalue	TRUE	max_absolute_difference=1.6277263e-15; max_scaled_difference=1.6277263e-15
+MCF-7_5_5_421	archive	filtered_out_3:padj	TRUE	max_absolute_difference=1.3338636e-12; max_scaled_difference=1.3338636e-12
+HepaRG_3_3_1	archive	DESeqRes:feature_ids	TRUE	14425 observed; 14425 expected
+HepaRG_3_3_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_3_3_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqRes:log2FoldChange	FALSE	max_absolute_difference=8.3014896e-06; max_scaled_difference=8.3014896e-06
+HepaRG_3_3_1	archive	DESeqRes:lfcSE	FALSE	max_absolute_difference=7.6565107e-06; max_scaled_difference=7.6565107e-06
+HepaRG_3_3_1	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=6.1030033e-07; max_scaled_difference=6.1030033e-07
+HepaRG_3_3_1	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.8829382e-13; max_scaled_difference=1.8829382e-13
+HepaRG_3_3_1	archive	DESeqResFiltered:feature_ids	TRUE	14425 observed; 14425 expected
+HepaRG_3_3_1	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_3_3_1	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqResFiltered:log2FoldChange	FALSE	max_absolute_difference=8.3014896e-06; max_scaled_difference=8.3014896e-06
+HepaRG_3_3_1	archive	DESeqResFiltered:lfcSE	FALSE	max_absolute_difference=7.6565107e-06; max_scaled_difference=7.6565107e-06
+HepaRG_3_3_1	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=6.1030033e-07; max_scaled_difference=6.1030033e-07
+HepaRG_3_3_1	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.8829382e-13; max_scaled_difference=1.8829382e-13
+HepaRG_3_3_1	archive	DESeqResDEGs:feature_ids	TRUE	1 observed; 1 expected
+HepaRG_3_3_1	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_3_3_1	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqResDEGs:log2FoldChange	FALSE	max_absolute_difference=7.9563282e-06; max_scaled_difference=7.9563282e-06
+HepaRG_3_3_1	archive	DESeqResDEGs:lfcSE	FALSE	max_absolute_difference=1.3204351e-06; max_scaled_difference=1.3204351e-06
+HepaRG_3_3_1	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=8.6820877e-20; max_scaled_difference=8.6820877e-20
+HepaRG_3_3_1	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=1.2524703e-15; max_scaled_difference=1.2524703e-15
+HepaRG_3_3_1	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+HepaRG_3_3_1	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+HepaRG_3_3_1	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+HepaRG_3_3_1	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+HepaRG_3_3_1	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	sample_ids	TRUE	ordered sample IDs
+HepaRG_3_3_1	archive	group_labels	TRUE	ordered group labels
+HepaRG_3_3_1	archive	num_rows_metadata	TRUE	retained sample count
+HepaRG_3_3_1	archive	filtered_out:length	TRUE	3 observed; 3 expected
+HepaRG_3_3_1	archive	filtered_out_1:feature_ids	TRUE	2818 observed; 2818 expected
+HepaRG_3_3_1	archive	filtered_out_1:columns	TRUE	B7PlateG_DMSO_S242_R1_001,B6PlateG_DMSO_S234_R1_001,F7PlateG_DMSO_S246_R1_001,G9PlateG_DMSO_S263_R1_001,F10PlateG_DMSO_S270_R1_001,A7PlateG_DMSO_S241_R1_001
+HepaRG_3_3_1	archive	filtered_out_1:B7PlateG_DMSO_S242_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	filtered_out_1:B6PlateG_DMSO_S234_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	filtered_out_1:F7PlateG_DMSO_S246_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	filtered_out_1:G9PlateG_DMSO_S263_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	filtered_out_1:F10PlateG_DMSO_S270_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	filtered_out_1:A7PlateG_DMSO_S241_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_3_3_1	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+HepaRG_3_3_1	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_3_3_1	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+HepaRG_3_3_1	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_10_10_1	archive	DESeqRes:feature_ids	TRUE	14327 observed; 14327 expected
+HepaRG_10_10_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_10_10_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_1	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=4.5903009e-10; max_scaled_difference=4.5903009e-10
+HepaRG_10_10_1	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=8.5784808e-12; max_scaled_difference=8.5784808e-12
+HepaRG_10_10_1	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=2.6259406e-07; max_scaled_difference=2.6259406e-07
+HepaRG_10_10_1	archive	DESeqRes:padj	TRUE	max_absolute_difference=4.4343418e-12; max_scaled_difference=4.4343418e-12
+HepaRG_10_10_1	archive	DESeqResFiltered:feature_ids	TRUE	0 observed; 0 expected
+HepaRG_10_10_1	archive	DESeqResFiltered:columns	TRUE	
+HepaRG_10_10_1	archive	DESeqResDEGs:feature_ids	TRUE	0 observed; 0 expected
+HepaRG_10_10_1	archive	DESeqResDEGs:columns	TRUE	
+HepaRG_10_10_1	archive	DESeqfiltered_table:feature_ids	TRUE	0 observed; 0 expected
+HepaRG_10_10_1	archive	DESeqfiltered_table:columns	TRUE	
+HepaRG_10_10_1	archive	sample_ids	TRUE	ordered sample IDs
+HepaRG_10_10_1	archive	group_labels	TRUE	ordered group labels
+HepaRG_10_10_1	archive	num_rows_metadata	TRUE	retained sample count
+HepaRG_10_10_1	archive	filtered_out:length	TRUE	0 observed; 0 expected
+HepaRG_10_10_78	archive	DESeqRes:feature_ids	TRUE	14283 observed; 14283 expected
+HepaRG_10_10_78	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_10_10_78	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=2.1282466e-08; max_scaled_difference=2.1282466e-08
+HepaRG_10_10_78	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.5694036e-08; max_scaled_difference=1.5694036e-08
+HepaRG_10_10_78	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=8.9709025e-08; max_scaled_difference=8.9709025e-08
+HepaRG_10_10_78	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.8310514e-07; max_scaled_difference=1.8310514e-07
+HepaRG_10_10_78	archive	DESeqResFiltered:feature_ids	TRUE	14205 observed; 14205 expected
+HepaRG_10_10_78	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_10_10_78	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=2.1282466e-08; max_scaled_difference=2.1282466e-08
+HepaRG_10_10_78	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=1.5694036e-08; max_scaled_difference=1.5694036e-08
+HepaRG_10_10_78	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=8.9709025e-08; max_scaled_difference=8.9709025e-08
+HepaRG_10_10_78	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.8310514e-07; max_scaled_difference=1.8310514e-07
+HepaRG_10_10_78	archive	DESeqResDEGs:feature_ids	TRUE	3 observed; 3 expected
+HepaRG_10_10_78	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_10_10_78	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=1.5473334e-10; max_scaled_difference=1.5473334e-10
+HepaRG_10_10_78	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=1.3631624e-11; max_scaled_difference=1.3631624e-11
+HepaRG_10_10_78	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=1.4825896e-17; max_scaled_difference=1.4825896e-17
+HepaRG_10_10_78	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=1.9106339e-14; max_scaled_difference=1.9106339e-14
+HepaRG_10_10_78	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+HepaRG_10_10_78	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+HepaRG_10_10_78	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+HepaRG_10_10_78	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+HepaRG_10_10_78	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	sample_ids	TRUE	ordered sample IDs
+HepaRG_10_10_78	archive	group_labels	TRUE	ordered group labels
+HepaRG_10_10_78	archive	num_rows_metadata	TRUE	retained sample count
+HepaRG_10_10_78	archive	filtered_out:length	TRUE	3 observed; 3 expected
+HepaRG_10_10_78	archive	filtered_out_1:feature_ids	TRUE	4405 observed; 4405 expected
+HepaRG_10_10_78	archive	filtered_out_1:columns	TRUE	H11PlateG_DMSO_S280_R1_001,E12PlateG_DMSO_S285_R1_001,F9PlateG_DMSO_S262_R1_001,B11PlateG_DMSO_S274_R1_001,D11PlateG_DMSO_S276_R1_001,G8PlateG_DMSO_S255_R1_001,A9PlateG_DMSO_S257_R1_001,G10PlateG_DMSO_S271_R1_001,D12PlateG_DMSO_S284_R1_001,E7PlateG_DMSO_S245_R1_001,F3PlateG_DMSO_S214_R1_001,E9PlateG_DMSO_S261_R1_001,B5PlateG_DMSO_S226_R1_001,H4PlateG_DMSO_S224_R1_001,C11PlateG_DMSO_S275_R1_001,B7PlateG_DMSO_S242_R1_001,H3PlateG_DMSO_S216_R1_001,B8PlateG_DMSO_S250_R1_001,D8PlateG_DMSO_S252_R1_001,G3PlateG_DMSO_S215_R1_001
+HepaRG_10_10_78	archive	filtered_out_1:H11PlateG_DMSO_S280_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:E12PlateG_DMSO_S285_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:F9PlateG_DMSO_S262_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:B11PlateG_DMSO_S274_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:D11PlateG_DMSO_S276_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:G8PlateG_DMSO_S255_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:A9PlateG_DMSO_S257_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:G10PlateG_DMSO_S271_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:D12PlateG_DMSO_S284_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:E7PlateG_DMSO_S245_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:F3PlateG_DMSO_S214_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:E9PlateG_DMSO_S261_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:B5PlateG_DMSO_S226_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:H4PlateG_DMSO_S224_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:C11PlateG_DMSO_S275_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:B7PlateG_DMSO_S242_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:H3PlateG_DMSO_S216_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:B8PlateG_DMSO_S250_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:D8PlateG_DMSO_S252_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_1:G3PlateG_DMSO_S215_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_2:feature_ids	TRUE	4 observed; 4 expected
+HepaRG_10_10_78	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+HepaRG_10_10_78	archive	filtered_out_2:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+HepaRG_10_10_78	archive	filtered_out_2:log2FoldChange	TRUE	max_absolute_difference=1.3213486e-11; max_scaled_difference=1.3213486e-11
+HepaRG_10_10_78	archive	filtered_out_2:lfcSE	TRUE	max_absolute_difference=1.9246743e-11; max_scaled_difference=1.9246743e-11
+HepaRG_10_10_78	archive	filtered_out_2:pvalue	TRUE	max_absolute_difference=9.2874493e-14; max_scaled_difference=9.2874493e-14
+HepaRG_10_10_78	archive	filtered_out_2:padj	TRUE	max_absolute_difference=2.2027449e-12; max_scaled_difference=2.2027449e-12
+HepaRG_10_10_78	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+HepaRG_10_10_78	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_1	archive	DESeqRes:feature_ids	TRUE	13703 observed; 13703 expected
+Liver spheroids_3_3_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=1.755566e-08; max_scaled_difference=1.755566e-08
+Liver spheroids_3_3_1	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=5.6345603e-10; max_scaled_difference=5.6345603e-10
+Liver spheroids_3_3_1	archive	DESeqRes:pvalue	FALSE	max_absolute_difference=3.1760223e-06; max_scaled_difference=3.1760223e-06
+Liver spheroids_3_3_1	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.2539303e-11; max_scaled_difference=1.2539303e-11
+Liver spheroids_3_3_1	archive	DESeqResFiltered:feature_ids	TRUE	13703 observed; 13703 expected
+Liver spheroids_3_3_1	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_1	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=1.755566e-08; max_scaled_difference=1.755566e-08
+Liver spheroids_3_3_1	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=5.6345603e-10; max_scaled_difference=5.6345603e-10
+Liver spheroids_3_3_1	archive	DESeqResFiltered:pvalue	FALSE	max_absolute_difference=3.1760223e-06; max_scaled_difference=3.1760223e-06
+Liver spheroids_3_3_1	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.2539303e-11; max_scaled_difference=1.2539303e-11
+Liver spheroids_3_3_1	archive	DESeqResDEGs:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_1	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	sample_ids	TRUE	ordered sample IDs
+Liver spheroids_3_3_1	archive	group_labels	TRUE	ordered group labels
+Liver spheroids_3_3_1	archive	num_rows_metadata	TRUE	retained sample count
+Liver spheroids_3_3_1	archive	filtered_out:length	TRUE	3 observed; 3 expected
+Liver spheroids_3_3_1	archive	filtered_out_1:feature_ids	TRUE	4154 observed; 4154 expected
+Liver spheroids_3_3_1	archive	filtered_out_1:columns	TRUE	G5PlateE_DMSO_S39_R1_001,C11PlateE_DMSO_S83_R1_001,C10PlateE_DMSO_S75_R1_001,E6PlateE_DMSO_S45_R1_001,D6PlateE_DMSO_S44_R1_001,E4PlateE_DMSO_S29_R1_001
+Liver spheroids_3_3_1	archive	filtered_out_1:G5PlateE_DMSO_S39_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	filtered_out_1:C11PlateE_DMSO_S83_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	filtered_out_1:C10PlateE_DMSO_S75_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	filtered_out_1:E6PlateE_DMSO_S45_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	filtered_out_1:D6PlateE_DMSO_S44_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	filtered_out_1:E4PlateE_DMSO_S29_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_1	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_1	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_1	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_1	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_10_10_1	archive	DESeqRes:feature_ids	TRUE	13459 observed; 13459 expected
+Liver spheroids_10_10_1	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_10_10_1	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_10_10_1	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=5.5659596e-11; max_scaled_difference=5.5659596e-11
+Liver spheroids_10_10_1	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.4294937e-12; max_scaled_difference=1.4294937e-12
+Liver spheroids_10_10_1	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=1.4413307e-07; max_scaled_difference=1.4413307e-07
+Liver spheroids_10_10_1	archive	DESeqRes:padj	TRUE	max_absolute_difference=2.1432204e-09; max_scaled_difference=2.1432204e-09
+Liver spheroids_10_10_1	archive	DESeqResFiltered:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_10_10_1	archive	DESeqResFiltered:columns	TRUE	
+Liver spheroids_10_10_1	archive	DESeqResDEGs:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_10_10_1	archive	DESeqResDEGs:columns	TRUE	
+Liver spheroids_10_10_1	archive	DESeqfiltered_table:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_10_10_1	archive	DESeqfiltered_table:columns	TRUE	
+Liver spheroids_10_10_1	archive	sample_ids	TRUE	ordered sample IDs
+Liver spheroids_10_10_1	archive	group_labels	TRUE	ordered group labels
+Liver spheroids_10_10_1	archive	num_rows_metadata	TRUE	retained sample count
+Liver spheroids_10_10_1	archive	filtered_out:length	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_12	archive	DESeqRes:feature_ids	TRUE	13570 observed; 13570 expected
+Liver spheroids_3_3_12	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_12	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=1.30152e-08; max_scaled_difference=1.30152e-08
+Liver spheroids_3_3_12	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=4.7212238e-09; max_scaled_difference=4.7212238e-09
+Liver spheroids_3_3_12	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=2.3597131e-08; max_scaled_difference=2.3597131e-08
+Liver spheroids_3_3_12	archive	DESeqRes:padj	TRUE	max_absolute_difference=4.0877968e-11; max_scaled_difference=4.0877968e-11
+Liver spheroids_3_3_12	archive	DESeqResFiltered:feature_ids	TRUE	13570 observed; 13570 expected
+Liver spheroids_3_3_12	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_12	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=1.30152e-08; max_scaled_difference=1.30152e-08
+Liver spheroids_3_3_12	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=4.7212238e-09; max_scaled_difference=4.7212238e-09
+Liver spheroids_3_3_12	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=2.3597131e-08; max_scaled_difference=2.3597131e-08
+Liver spheroids_3_3_12	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=4.0877968e-11; max_scaled_difference=4.0877968e-11
+Liver spheroids_3_3_12	archive	DESeqResDEGs:feature_ids	TRUE	21 observed; 21 expected
+Liver spheroids_3_3_12	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_12	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=2.3284041e-11; max_scaled_difference=2.3284041e-11
+Liver spheroids_3_3_12	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=2.9394542e-12; max_scaled_difference=2.9394542e-12
+Liver spheroids_3_3_12	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=2.3748466e-15; max_scaled_difference=2.3748466e-15
+Liver spheroids_3_3_12	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=6.9544587e-13; max_scaled_difference=6.9544587e-13
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	sample_ids	TRUE	ordered sample IDs
+Liver spheroids_3_3_12	archive	group_labels	TRUE	ordered group labels
+Liver spheroids_3_3_12	archive	num_rows_metadata	TRUE	retained sample count
+Liver spheroids_3_3_12	archive	filtered_out:length	TRUE	3 observed; 3 expected
+Liver spheroids_3_3_12	archive	filtered_out_1:feature_ids	TRUE	3609 observed; 3609 expected
+Liver spheroids_3_3_12	archive	filtered_out_1:columns	TRUE	F3PlateE_DMSO_S22_R1_001,F8PlateE_DMSO_S62_R1_001,H3PlateE_DMSO_S24_R1_001,F12PlateE_DMSO_S94_R1_001,C3PlateE_DMSO_S19_R1_001,A9PlateE_DMSO_S65_R1_001
+Liver spheroids_3_3_12	archive	filtered_out_1:F3PlateE_DMSO_S22_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	filtered_out_1:F8PlateE_DMSO_S62_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	filtered_out_1:H3PlateE_DMSO_S24_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	filtered_out_1:F12PlateE_DMSO_S94_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	filtered_out_1:C3PlateE_DMSO_S19_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	filtered_out_1:A9PlateE_DMSO_S65_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_12	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_12	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_12	archive	filtered_out_3:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_12	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_4_4_380	archive	DESeqRes:feature_ids	TRUE	14557 observed; 14557 expected
+Liver spheroids_4_4_380	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_4_4_380	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=8.7960489e-09; max_scaled_difference=8.7960489e-09
+Liver spheroids_4_4_380	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=2.3759383e-08; max_scaled_difference=2.3759383e-08
+Liver spheroids_4_4_380	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=7.8610138e-08; max_scaled_difference=7.8610138e-08
+Liver spheroids_4_4_380	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.7966739e-08; max_scaled_difference=1.7966739e-08
+Liver spheroids_4_4_380	archive	DESeqResFiltered:feature_ids	TRUE	14521 observed; 14521 expected
+Liver spheroids_4_4_380	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_4_4_380	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=8.7960489e-09; max_scaled_difference=8.7960489e-09
+Liver spheroids_4_4_380	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=2.3759383e-08; max_scaled_difference=2.3759383e-08
+Liver spheroids_4_4_380	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=7.8610138e-08; max_scaled_difference=7.8610138e-08
+Liver spheroids_4_4_380	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.7966739e-08; max_scaled_difference=1.7966739e-08
+Liver spheroids_4_4_380	archive	DESeqResDEGs:feature_ids	TRUE	25 observed; 25 expected
+Liver spheroids_4_4_380	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_4_4_380	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=2.4489855e-11; max_scaled_difference=2.4489855e-11
+Liver spheroids_4_4_380	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=4.8288595e-12; max_scaled_difference=4.8288595e-12
+Liver spheroids_4_4_380	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=3.8995347e-15; max_scaled_difference=3.8995347e-15
+Liver spheroids_4_4_380	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=5.6000679e-13; max_scaled_difference=5.6000679e-13
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	sample_ids	TRUE	ordered sample IDs
+Liver spheroids_4_4_380	archive	group_labels	TRUE	ordered group labels
+Liver spheroids_4_4_380	archive	num_rows_metadata	TRUE	retained sample count
+Liver spheroids_4_4_380	archive	filtered_out:length	TRUE	3 observed; 3 expected
+Liver spheroids_4_4_380	archive	filtered_out_1:feature_ids	TRUE	4783 observed; 4783 expected
+Liver spheroids_4_4_380	archive	filtered_out_1:columns	TRUE	E3PlateE_DMSO_S21_R1_001,D4PlateE_DMSO_S28_R1_001,D6PlateE_DMSO_S44_R1_001,E7PlateE_DMSO_S53_R1_001,B6PlateE_DMSO_S42_R1_001,A6PlateE_DMSO_S41_R1_001,C11PlateE_DMSO_S83_R1_001,H8PlateE_DMSO_S64_R1_001
+Liver spheroids_4_4_380	archive	filtered_out_1:E3PlateE_DMSO_S21_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:D4PlateE_DMSO_S28_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:D6PlateE_DMSO_S44_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:E7PlateE_DMSO_S53_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:B6PlateE_DMSO_S42_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:A6PlateE_DMSO_S41_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:C11PlateE_DMSO_S83_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_1:H8PlateE_DMSO_S64_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_2:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_4_4_380	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_4_4_380	archive	filtered_out_2:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_2:log2FoldChange	TRUE	max_absolute_difference=2.1500718e-12; max_scaled_difference=2.1500718e-12
+Liver spheroids_4_4_380	archive	filtered_out_2:lfcSE	TRUE	max_absolute_difference=2.7262637e-12; max_scaled_difference=2.7262637e-12
+Liver spheroids_4_4_380	archive	filtered_out_2:pvalue	TRUE	max_absolute_difference=1.3877788e-17; max_scaled_difference=1.3877788e-17
+Liver spheroids_4_4_380	archive	filtered_out_2:padj	TRUE	max_absolute_difference=9.2205271e-12; max_scaled_difference=9.2205271e-12
+Liver spheroids_4_4_380	archive	filtered_out_3:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_4_4_380	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_4_4_380	archive	filtered_out_3:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_4_4_380	archive	filtered_out_3:log2FoldChange	TRUE	max_absolute_difference=3.5433045e-12; max_scaled_difference=3.5433045e-12
+Liver spheroids_4_4_380	archive	filtered_out_3:lfcSE	TRUE	max_absolute_difference=3.1733227e-12; max_scaled_difference=3.1733227e-12
+Liver spheroids_4_4_380	archive	filtered_out_3:pvalue	TRUE	max_absolute_difference=5.9969933e-19; max_scaled_difference=5.9969933e-19
+Liver spheroids_4_4_380	archive	filtered_out_3:padj	TRUE	max_absolute_difference=5.2041704e-17; max_scaled_difference=5.2041704e-17
+Liver spheroids_3_3_334	archive	DESeqRes:feature_ids	TRUE	13336 observed; 13336 expected
+Liver spheroids_3_3_334	archive	DESeqRes:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_334	archive	DESeqRes:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqRes:log2FoldChange	TRUE	max_absolute_difference=2.9334228e-10; max_scaled_difference=2.9334228e-10
+Liver spheroids_3_3_334	archive	DESeqRes:lfcSE	TRUE	max_absolute_difference=1.7089972e-10; max_scaled_difference=1.7089972e-10
+Liver spheroids_3_3_334	archive	DESeqRes:pvalue	TRUE	max_absolute_difference=8.4014721e-08; max_scaled_difference=8.4014721e-08
+Liver spheroids_3_3_334	archive	DESeqRes:padj	TRUE	max_absolute_difference=1.397481e-10; max_scaled_difference=1.397481e-10
+Liver spheroids_3_3_334	archive	DESeqResFiltered:feature_ids	TRUE	8891 observed; 8891 expected
+Liver spheroids_3_3_334	archive	DESeqResFiltered:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_334	archive	DESeqResFiltered:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqResFiltered:log2FoldChange	TRUE	max_absolute_difference=1.5705215e-10; max_scaled_difference=8.1326356e-11
+Liver spheroids_3_3_334	archive	DESeqResFiltered:lfcSE	TRUE	max_absolute_difference=6.1715966e-11; max_scaled_difference=4.6474324e-11
+Liver spheroids_3_3_334	archive	DESeqResFiltered:pvalue	TRUE	max_absolute_difference=1.9533421e-08; max_scaled_difference=1.9533421e-08
+Liver spheroids_3_3_334	archive	DESeqResFiltered:padj	TRUE	max_absolute_difference=1.397481e-10; max_scaled_difference=1.397481e-10
+Liver spheroids_3_3_334	archive	DESeqResDEGs:feature_ids	TRUE	2 observed; 2 expected
+Liver spheroids_3_3_334	archive	DESeqResDEGs:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_334	archive	DESeqResDEGs:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqResDEGs:log2FoldChange	TRUE	max_absolute_difference=1.5705215e-10; max_scaled_difference=3.7986879e-11
+Liver spheroids_3_3_334	archive	DESeqResDEGs:lfcSE	TRUE	max_absolute_difference=9.8178798e-11; max_scaled_difference=3.9838222e-11
+Liver spheroids_3_3_334	archive	DESeqResDEGs:pvalue	TRUE	max_absolute_difference=2.5999253e-16; max_scaled_difference=2.5999253e-16
+Liver spheroids_3_3_334	archive	DESeqResDEGs:padj	TRUE	max_absolute_difference=1.1557526e-12; max_scaled_difference=1.1557526e-12
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:columns	TRUE	facet,contrast,initial,relevance_filtered,quantile_filtered,spike_filtered,passed_all_filters
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:facet	TRUE	exact nonnumeric comparison
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:contrast	TRUE	exact nonnumeric comparison
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:initial	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:relevance_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:quantile_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:spike_filtered	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	DESeqfiltered_table:passed_all_filters	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	sample_ids	TRUE	ordered sample IDs
+Liver spheroids_3_3_334	archive	group_labels	TRUE	ordered group labels
+Liver spheroids_3_3_334	archive	num_rows_metadata	TRUE	retained sample count
+Liver spheroids_3_3_334	archive	filtered_out:length	TRUE	3 observed; 3 expected
+Liver spheroids_3_3_334	archive	filtered_out_1:feature_ids	TRUE	4271 observed; 4271 expected
+Liver spheroids_3_3_334	archive	filtered_out_1:columns	TRUE	H8PlateE_DMSO_S64_R1_001,F8PlateE_DMSO_S62_R1_001,E10PlateE_DMSO_S77_R1_001,D6PlateE_DMSO_S44_R1_001,E5PlateE_DMSO_S37_R1_001,D9PlateE_DMSO_S68_R1_001
+Liver spheroids_3_3_334	archive	filtered_out_1:H8PlateE_DMSO_S64_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_1:F8PlateE_DMSO_S62_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_1:E10PlateE_DMSO_S77_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_1:D6PlateE_DMSO_S44_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_1:E5PlateE_DMSO_S37_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_1:D9PlateE_DMSO_S68_R1_001	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_2:feature_ids	TRUE	0 observed; 0 expected
+Liver spheroids_3_3_334	archive	filtered_out_2:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_334	archive	filtered_out_3:feature_ids	TRUE	1 observed; 1 expected
+Liver spheroids_3_3_334	archive	filtered_out_3:columns	TRUE	baseMean,log2FoldChange,lfcSE,pvalue,padj
+Liver spheroids_3_3_334	archive	filtered_out_3:baseMean	TRUE	max_absolute_difference=0; max_scaled_difference=0
+Liver spheroids_3_3_334	archive	filtered_out_3:log2FoldChange	TRUE	max_absolute_difference=2.2044588e-11; max_scaled_difference=3.1397994e-12
+Liver spheroids_3_3_334	archive	filtered_out_3:lfcSE	TRUE	max_absolute_difference=4.1319614e-11; max_scaled_difference=2.5969469e-11
+Liver spheroids_3_3_334	archive	filtered_out_3:pvalue	TRUE	max_absolute_difference=1.005796e-17; max_scaled_difference=1.005796e-17
+Liver spheroids_3_3_334	archive	filtered_out_3:padj	TRUE	max_absolute_difference=1.3413294e-13; max_scaled_difference=1.3413294e-13

@@ -1,0 +1,97 @@
+collection	cell_line	n	n_trials	n_positive	rate
+GO	TK6	3	1000	64	0.064
+GO	TK6	4	1000	45	0.045
+GO	TK6	5	1000	32	0.032
+GO	TK6	6	1000	25	0.025
+GO	TK6	7	1000	34	0.034
+GO	TK6	8	1000	21	0.021
+GO	TK6	9	1000	37	0.037
+GO	TK6	10	1000	26	0.026
+GO	MCF-7	3	1000	47	0.047
+GO	MCF-7	4	1000	21	0.021
+GO	MCF-7	5	1000	17	0.017
+GO	MCF-7	6	1000	6	0.006
+GO	MCF-7	7	1000	3	0.003
+GO	MCF-7	8	1000	3	0.003
+GO	MCF-7	9	1000	1	0.001
+GO	MCF-7	10	1000	2	0.002
+GO	HepaRG	3	1000	36	0.036
+GO	HepaRG	4	1000	13	0.013
+GO	HepaRG	5	1000	6	0.006
+GO	HepaRG	6	1000	0	0
+GO	HepaRG	7	1000	2	0.002
+GO	HepaRG	8	1000	1	0.001
+GO	HepaRG	9	1000	1	0.001
+GO	HepaRG	10	1000	0	0
+GO	Liver spheroids	3	1000	67	0.067
+GO	Liver spheroids	4	1000	45	0.045
+GO	Liver spheroids	5	1000	27	0.027
+GO	Liver spheroids	6	1000	26	0.026
+GO	Liver spheroids	7	1000	9	0.009
+GO	Liver spheroids	8	1000	8	0.008
+GO	Liver spheroids	9	1000	7	0.007
+GO	Liver spheroids	10	1000	4	0.004
+Reactome	TK6	3	1000	60	0.06
+Reactome	TK6	4	1000	40	0.04
+Reactome	TK6	5	1000	35	0.035
+Reactome	TK6	6	1000	26	0.026
+Reactome	TK6	7	1000	32	0.032
+Reactome	TK6	8	1000	23	0.023
+Reactome	TK6	9	1000	33	0.033
+Reactome	TK6	10	1000	27	0.027
+Reactome	MCF-7	3	1000	56	0.056
+Reactome	MCF-7	4	1000	22	0.022
+Reactome	MCF-7	5	1000	19	0.019
+Reactome	MCF-7	6	1000	8	0.008
+Reactome	MCF-7	7	1000	3	0.003
+Reactome	MCF-7	8	1000	3	0.003
+Reactome	MCF-7	9	1000	1	0.001
+Reactome	MCF-7	10	1000	2	0.002
+Reactome	HepaRG	3	1000	24	0.024
+Reactome	HepaRG	4	1000	6	0.006
+Reactome	HepaRG	5	1000	3	0.003
+Reactome	HepaRG	6	1000	1	0.001
+Reactome	HepaRG	7	1000	1	0.001
+Reactome	HepaRG	8	1000	0	0
+Reactome	HepaRG	9	1000	1	0.001
+Reactome	HepaRG	10	1000	0	0
+Reactome	Liver spheroids	3	1000	42	0.042
+Reactome	Liver spheroids	4	1000	27	0.027
+Reactome	Liver spheroids	5	1000	19	0.019
+Reactome	Liver spheroids	6	1000	22	0.022
+Reactome	Liver spheroids	7	1000	6	0.006
+Reactome	Liver spheroids	8	1000	6	0.006
+Reactome	Liver spheroids	9	1000	6	0.006
+Reactome	Liver spheroids	10	1000	3	0.003
+WikiPathways	TK6	3	1000	62	0.062
+WikiPathways	TK6	4	1000	39	0.039
+WikiPathways	TK6	5	1000	29	0.029
+WikiPathways	TK6	6	1000	25	0.025
+WikiPathways	TK6	7	1000	32	0.032
+WikiPathways	TK6	8	1000	19	0.019
+WikiPathways	TK6	9	1000	30	0.03
+WikiPathways	TK6	10	1000	33	0.033
+WikiPathways	MCF-7	3	1000	65	0.065
+WikiPathways	MCF-7	4	1000	27	0.027
+WikiPathways	MCF-7	5	1000	31	0.031
+WikiPathways	MCF-7	6	1000	10	0.01
+WikiPathways	MCF-7	7	1000	4	0.004
+WikiPathways	MCF-7	8	1000	6	0.006
+WikiPathways	MCF-7	9	1000	2	0.002
+WikiPathways	MCF-7	10	1000	3	0.003
+WikiPathways	HepaRG	3	1000	45	0.045
+WikiPathways	HepaRG	4	1000	22	0.022
+WikiPathways	HepaRG	5	1000	16	0.016
+WikiPathways	HepaRG	6	1000	6	0.006
+WikiPathways	HepaRG	7	1000	3	0.003
+WikiPathways	HepaRG	8	1000	1	0.001
+WikiPathways	HepaRG	9	1000	2	0.002
+WikiPathways	HepaRG	10	1000	1	0.001
+WikiPathways	Liver spheroids	3	1000	134	0.134
+WikiPathways	Liver spheroids	4	1000	82	0.082
+WikiPathways	Liver spheroids	5	1000	51	0.051
+WikiPathways	Liver spheroids	6	1000	38	0.038
+WikiPathways	Liver spheroids	7	1000	22	0.022
+WikiPathways	Liver spheroids	8	1000	19	0.019
+WikiPathways	Liver spheroids	9	1000	14	0.014
+WikiPathways	Liver spheroids	10	1000	11	0.011

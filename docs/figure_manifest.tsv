@@ -1,0 +1,61 @@
+number	category	filename	script	selection	status	script_status	note
+Fig_1	main				not_provided	not_provided	Figure and source were not supplied.
+Fig_2	main	figures/Fig_2.png	scripts/render_figures.R	deg	present	available	
+Fig_2	main	figures/Fig_2.pdf	scripts/render_figures.R	deg	present	available	
+Fig_3	main	figures/Fig_3.png	scripts/render_figures.R	ora	present	available	
+Fig_3	main	figures/Fig_3.pdf	scripts/render_figures.R	ora	present	available	
+Fig_4	main	figures/Fig_4.png	scripts/render_figures.R	gsea	present	available	
+Fig_4	main	figures/Fig_4.pdf	scripts/render_figures.R	gsea	present	available	
+Fig_5	main	figures/Fig_5.png	scripts/render_figures.R	tgx_ddi	present	available	
+Fig_5	main	figures/Fig_5.pdf	scripts/render_figures.R	tgx_ddi	present	available	
+Fig_6	main	figures/Fig_6.png	scripts/render_figures.R	tpod_fdr_main	present	available	
+Fig_6	main	figures/Fig_6.pdf	scripts/render_figures.R	tpod_fdr_main	present	available	
+Fig_S1	supplementary	figures/supplementary/Fig_S1.png	scripts/render_sample_supplementary_figures.R	s1	present	available	Frozen archived VST sample distances.
+Fig_S1	supplementary	figures/supplementary/Fig_S1.pdf	scripts/render_sample_supplementary_figures.R	s1	present	available	Frozen archived VST sample distances.
+Fig_S2	supplementary	figures/supplementary/Fig_S2.png	scripts/render_dmso_pca.R	s2_pca_dmso	present	available	
+Fig_S2	supplementary	figures/supplementary/Fig_S2.pdf	scripts/render_dmso_pca.R	s2_pca_dmso	present	available	
+Fig_S3	supplementary	figures/supplementary/Fig_S3.png	scripts/render_sample_supplementary_figures.R	s3	present	available	Four archived n=4 DMSO trials matched to the historical manuscript raster.
+Fig_S3	supplementary	figures/supplementary/Fig_S3.pdf	scripts/render_sample_supplementary_figures.R	s3	present	available	Four archived n=4 DMSO trials matched to the historical manuscript raster.
+Fig_S4	supplementary	figures/supplementary/Fig_S4.png	scripts/deg_thresholds/plot_threshold_sensitivity.R	s4_threshold_heatmap	present	available	
+Fig_S4	supplementary	figures/supplementary/Fig_S4.pdf	scripts/deg_thresholds/plot_threshold_sensitivity.R	s4_threshold_heatmap	present	available	
+Fig_S5	supplementary	figures/supplementary/Fig_S5.png	scripts/render_figures.R	s5_recurrence	present	available	
+Fig_S5	supplementary	figures/supplementary/Fig_S5.pdf	scripts/render_figures.R	s5_recurrence	present	available	
+Fig_S6	supplementary	figures/supplementary/Fig_S6.png	scripts/render_figures.R	s6_expression	present	available	
+Fig_S6	supplementary	figures/supplementary/Fig_S6.pdf	scripts/render_figures.R	s6_expression	present	available	
+Fig_S7	supplementary	figures/supplementary/Fig_S7.png	scripts/render_legacy_supplementary_figures.R	s7	present	available	Expression level versus archived adjusted-p-only probe recurrence.
+Fig_S7	supplementary	figures/supplementary/Fig_S7.pdf	scripts/render_legacy_supplementary_figures.R	s7	present	available	Expression level versus archived adjusted-p-only probe recurrence.
+Fig_S8	supplementary	figures/supplementary/Fig_S8.png	scripts/render_figures.R	s8_mean_variance	present	available	Baseline mean-variance figure. Archived variance versus false positives is S9.
+Fig_S8	supplementary	figures/supplementary/Fig_S8.pdf	scripts/render_figures.R	s8_mean_variance	present	available	Baseline mean-variance figure. Archived variance versus false positives is S9.
+Fig_S9	supplementary	figures/supplementary/Fig_S9.png	scripts/render_legacy_supplementary_figures.R	s9	present	available	Expression variance versus archived adjusted-p-only false positives.
+Fig_S9	supplementary	figures/supplementary/Fig_S9.pdf	scripts/render_legacy_supplementary_figures.R	s9	present	available	Expression variance versus archived adjusted-p-only false positives.
+Fig_S10	supplementary	figures/supplementary/Fig_S10.png	scripts/render_legacy_supplementary_figures.R	s10	present	available	Frequency of nonzero historical FINAL DEG trial events.
+Fig_S10	supplementary	figures/supplementary/Fig_S10.pdf	scripts/render_legacy_supplementary_figures.R	s10	present	available	Frequency of nonzero historical FINAL DEG trial events.
+Fig_S11	supplementary	figures/supplementary/Fig_S11.png	scripts/render_legacy_supplementary_figures.R	s11	present	available	Historical last-drawn plate tiles from nonzero FINAL DEG trial events.
+Fig_S11	supplementary	figures/supplementary/Fig_S11.pdf	scripts/render_legacy_supplementary_figures.R	s11	present	available	Historical last-drawn plate tiles from nonzero FINAL DEG trial events.
+Fig_S12	supplementary	figures/supplementary/Fig_S12.png	scripts/render_legacy_supplementary_figures.R	s12	present	available	Archived top-20 GSEA selection per stratum, including ties.
+Fig_S12	supplementary	figures/supplementary/Fig_S12.pdf	scripts/render_legacy_supplementary_figures.R	s12	present	available	Archived top-20 GSEA selection per stratum, including ties.
+Fig_S13	supplementary	figures/supplementary/Fig_S13.png	scripts/tgx_signature/render_figure.R	s13_tgx_signature	present	available	
+Fig_S13	supplementary	figures/supplementary/Fig_S13.pdf	scripts/tgx_signature/render_figure.R	s13_tgx_signature	present	available	
+	exploratory	figures/exploratory/deg_filter_burden_supplementary.png	scripts/deg_thresholds/plot_filter_burden.R	deg_filter_burden_supplementary	present	available	
+	exploratory	figures/exploratory/deg_filter_burden_supplementary.pdf	scripts/deg_thresholds/plot_filter_burden.R	deg_filter_burden_supplementary	present	available	
+	exploratory	figures/exploratory/deg_filter_medians_supplementary.png	scripts/deg_thresholds/plot_filter_medians.R	deg_filter_medians_supplementary	present	available	
+	exploratory	figures/exploratory/deg_filter_medians_supplementary.pdf	scripts/deg_thresholds/plot_filter_medians.R	deg_filter_medians_supplementary	present	available	
+	exploratory	figures/exploratory/gsea_archived_duplicate_ids_supplementary.png	scripts/render_figures.R	gsea_archived_supplementary	present	available	
+	exploratory	figures/exploratory/gsea_archived_duplicate_ids_supplementary.pdf	scripts/render_figures.R	gsea_archived_supplementary	present	available	
+	exploratory	figures/exploratory/ora_wikipathways_supplementary.png	scripts/render_figures.R	ora_wikipathways_supplementary	present	available	
+	exploratory	figures/exploratory/ora_wikipathways_supplementary.pdf	scripts/render_figures.R	ora_wikipathways_supplementary	present	available	
+	exploratory	figures/exploratory/tpod_fdr_by_parameter_setting.png	scripts/render_figures.R	tpod_parameter_settings	present	available	
+	exploratory	figures/exploratory/tpod_fdr_by_parameter_setting.pdf	scripts/render_figures.R	tpod_parameter_settings	present	available	
+	exploratory	figures/exploratory/tpod_fdr_grid.png	scripts/render_figures.R	tpod_fdr	present	available	
+	exploratory	figures/exploratory/tpod_fdr_grid.pdf	scripts/render_figures.R	tpod_fdr	present	available	
+	exploratory	figures/exploratory/tpod_fdr_grid_supplementary.png	scripts/render_figures.R	tpod_fdr_supplementary	present	available	
+	exploratory	figures/exploratory/tpod_fdr_grid_supplementary.pdf	scripts/render_figures.R	tpod_fdr_supplementary	present	available	
+	exploratory	figures/exploratory/tpod_fdr_robustness.png	scripts/render_figures.R	tpod_robustness	present	available	
+	exploratory	figures/exploratory/tpod_fdr_robustness.pdf	scripts/render_figures.R	tpod_robustness	present	available	
+	exploratory	figures/exploratory/supplementary_threshold_lines_draft.png	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_lines_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.
+	exploratory	figures/exploratory/supplementary_threshold_lines_draft.pdf	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_lines_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.
+	exploratory	figures/exploratory/supplementary_threshold_lines_swapped_draft.png	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_lines_swapped_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.
+	exploratory	figures/exploratory/supplementary_threshold_lines_swapped_draft.pdf	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_lines_swapped_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.
+	exploratory	figures/exploratory/supplementary_threshold_lines_padj_axis_draft.png	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_lines_padj_axis_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.
+	exploratory	figures/exploratory/supplementary_threshold_lines_padj_axis_draft.pdf	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_lines_padj_axis_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.
+	exploratory	figures/exploratory/supplementary_threshold_heatmap_first_draft.pdf	scripts/deg_thresholds/plot_threshold_sensitivity.R	supplementary_threshold_heatmap_first_draft	pending	available	Unselected threshold draft; render with the threshold-drafts task.

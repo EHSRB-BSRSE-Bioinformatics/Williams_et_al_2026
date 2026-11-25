@@ -1,0 +1,97 @@
+cell	n	stage	trials	total_degs	mean_degs_per_trial	positive_trials
+TK6	3	BH p < 0.05	1000	69850	69.85	198
+TK6	3	+ FC > 1.5	1000	49695	49.695	149
+TK6	3	+ quantile/spike	1000	49600	49.6	149
+MCF-7	3	BH p < 0.05	1000	65607	65.607	237
+MCF-7	3	+ FC > 1.5	1000	10568	10.568	154
+MCF-7	3	+ quantile/spike	1000	10568	10.568	154
+HepaRG	3	BH p < 0.05	1000	7794	7.794	232
+HepaRG	3	+ FC > 1.5	1000	637	0.637	87
+HepaRG	3	+ quantile/spike	1000	637	0.637	87
+Liver spheroids	3	BH p < 0.05	1000	27421	27.421	437
+Liver spheroids	3	+ FC > 1.5	1000	4537	4.537	244
+Liver spheroids	3	+ quantile/spike	1000	4535	4.535	244
+TK6	4	BH p < 0.05	1000	49587	49.587	137
+TK6	4	+ FC > 1.5	1000	26337	26.337	97
+TK6	4	+ quantile/spike	1000	26227	26.227	97
+MCF-7	4	BH p < 0.05	1000	61231	61.231	159
+MCF-7	4	+ FC > 1.5	1000	6536	6.536	75
+MCF-7	4	+ quantile/spike	1000	6536	6.536	75
+HepaRG	4	BH p < 0.05	1000	5598	5.598	183
+HepaRG	4	+ FC > 1.5	1000	299	0.299	48
+HepaRG	4	+ quantile/spike	1000	299	0.299	48
+Liver spheroids	4	BH p < 0.05	1000	23052	23.052	350
+Liver spheroids	4	+ FC > 1.5	1000	1659	1.659	174
+Liver spheroids	4	+ quantile/spike	1000	1657	1.657	173
+TK6	5	BH p < 0.05	1000	41271	41.271	127
+TK6	5	+ FC > 1.5	1000	17877	17.877	88
+TK6	5	+ quantile/spike	1000	17784	17.784	88
+MCF-7	5	BH p < 0.05	1000	64327	64.327	154
+MCF-7	5	+ FC > 1.5	1000	3063	3.063	61
+MCF-7	5	+ quantile/spike	1000	3063	3.063	61
+HepaRG	5	BH p < 0.05	1000	5294	5.294	153
+HepaRG	5	+ FC > 1.5	1000	98	0.098	30
+HepaRG	5	+ quantile/spike	1000	98	0.098	30
+Liver spheroids	5	BH p < 0.05	1000	9638	9.638	246
+Liver spheroids	5	+ FC > 1.5	1000	589	0.589	123
+Liver spheroids	5	+ quantile/spike	1000	573	0.573	122
+TK6	6	BH p < 0.05	1000	38607	38.607	120
+TK6	6	+ FC > 1.5	1000	11484	11.484	80
+TK6	6	+ quantile/spike	1000	11412	11.412	79
+MCF-7	6	BH p < 0.05	1000	44532	44.532	127
+MCF-7	6	+ FC > 1.5	1000	906	0.906	38
+MCF-7	6	+ quantile/spike	1000	906	0.906	38
+HepaRG	6	BH p < 0.05	1000	3718	3.718	142
+HepaRG	6	+ FC > 1.5	1000	56	0.056	27
+HepaRG	6	+ quantile/spike	1000	56	0.056	27
+Liver spheroids	6	BH p < 0.05	1000	11144	11.144	239
+Liver spheroids	6	+ FC > 1.5	1000	934	0.934	111
+Liver spheroids	6	+ quantile/spike	1000	927	0.927	109
+TK6	7	BH p < 0.05	1000	65846	65.846	146
+TK6	7	+ FC > 1.5	1000	17742	17.742	88
+TK6	7	+ quantile/spike	1000	17554	17.554	86
+MCF-7	7	BH p < 0.05	1000	36356	36.356	115
+MCF-7	7	+ FC > 1.5	1000	623	0.623	23
+MCF-7	7	+ quantile/spike	1000	623	0.623	23
+HepaRG	7	BH p < 0.05	1000	3864	3.864	146
+HepaRG	7	+ FC > 1.5	1000	31	0.031	17
+HepaRG	7	+ quantile/spike	1000	31	0.031	17
+Liver spheroids	7	BH p < 0.05	1000	11142	11.142	191
+Liver spheroids	7	+ FC > 1.5	1000	171	0.171	69
+Liver spheroids	7	+ quantile/spike	1000	169	0.169	68
+TK6	8	BH p < 0.05	1000	49924	49.924	114
+TK6	8	+ FC > 1.5	1000	11819	11.819	65
+TK6	8	+ quantile/spike	1000	11639	11.639	63
+MCF-7	8	BH p < 0.05	1000	34459	34.459	100
+MCF-7	8	+ FC > 1.5	1000	428	0.428	17
+MCF-7	8	+ quantile/spike	1000	428	0.428	17
+HepaRG	8	BH p < 0.05	1000	4090	4.09	126
+HepaRG	8	+ FC > 1.5	1000	27	0.027	18
+HepaRG	8	+ quantile/spike	1000	27	0.027	18
+Liver spheroids	8	BH p < 0.05	1000	13358	13.358	170
+Liver spheroids	8	+ FC > 1.5	1000	134	0.134	64
+Liver spheroids	8	+ quantile/spike	1000	128	0.128	62
+TK6	9	BH p < 0.05	1000	54868	54.868	123
+TK6	9	+ FC > 1.5	1000	11109	11.109	80
+TK6	9	+ quantile/spike	1000	10642	10.642	74
+MCF-7	9	BH p < 0.05	1000	23188	23.188	86
+MCF-7	9	+ FC > 1.5	1000	36	0.036	12
+MCF-7	9	+ quantile/spike	1000	35	0.035	11
+HepaRG	9	BH p < 0.05	1000	1868	1.868	127
+HepaRG	9	+ FC > 1.5	1000	13	0.013	12
+HepaRG	9	+ quantile/spike	1000	13	0.013	12
+Liver spheroids	9	BH p < 0.05	1000	8585	8.585	164
+Liver spheroids	9	+ FC > 1.5	1000	98	0.098	50
+Liver spheroids	9	+ quantile/spike	1000	97	0.097	49
+TK6	10	BH p < 0.05	1000	48759	48.759	109
+TK6	10	+ FC > 1.5	1000	9453	9.453	73
+TK6	10	+ quantile/spike	1000	9209	9.209	70
+MCF-7	10	BH p < 0.05	1000	29846	29.846	109
+MCF-7	10	+ FC > 1.5	1000	128	0.128	9
+MCF-7	10	+ quantile/spike	1000	128	0.128	9
+HepaRG	10	BH p < 0.05	1000	4113	4.113	100
+HepaRG	10	+ FC > 1.5	1000	13	0.013	9
+HepaRG	10	+ quantile/spike	1000	13	0.013	9
+Liver spheroids	10	BH p < 0.05	1000	6848	6.848	149
+Liver spheroids	10	+ FC > 1.5	1000	66	0.066	39
+Liver spheroids	10	+ quantile/spike	1000	59	0.059	33

@@ -1,0 +1,1409 @@
+cell	n	stage	classifier_component	trials	both	signature_only	classifier_only	neither
+HepaRG	3	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	3	bh_eligible	positive_probability	1000	11	989	0	0
+MCF-7	3	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	3	bh_eligible	positive_probability	1000	1	999	0	0
+HepaRG	4	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	4	bh_eligible	positive_probability	1000	3	997	0	0
+MCF-7	4	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	4	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	5	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	5	bh_eligible	positive_probability	1000	2	998	0	0
+MCF-7	5	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	5	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	6	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	6	bh_eligible	positive_probability	1000	0	1000	0	0
+MCF-7	6	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	6	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	7	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	7	bh_eligible	positive_probability	1000	0	1000	0	0
+MCF-7	7	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	7	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	8	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	8	bh_eligible	positive_probability	1000	0	1000	0	0
+MCF-7	8	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	8	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	9	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	9	bh_eligible	positive_probability	1000	0	1000	0	0
+MCF-7	9	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	9	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	10	bh_eligible	positive_probability	1000	0	1000	0	0
+Liver spheroids	10	bh_eligible	positive_probability	1000	0	1000	0	0
+MCF-7	10	bh_eligible	positive_probability	1000	0	1000	0	0
+TK6	10	bh_eligible	positive_probability	1000	0	1000	0	0
+HepaRG	3	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	3	detected	positive_probability	1000	11	989	0	0
+MCF-7	3	detected	positive_probability	1000	0	1000	0	0
+TK6	3	detected	positive_probability	1000	1	999	0	0
+HepaRG	4	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	4	detected	positive_probability	1000	3	997	0	0
+MCF-7	4	detected	positive_probability	1000	0	1000	0	0
+TK6	4	detected	positive_probability	1000	0	1000	0	0
+HepaRG	5	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	5	detected	positive_probability	1000	2	998	0	0
+MCF-7	5	detected	positive_probability	1000	0	1000	0	0
+TK6	5	detected	positive_probability	1000	0	1000	0	0
+HepaRG	6	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	6	detected	positive_probability	1000	0	1000	0	0
+MCF-7	6	detected	positive_probability	1000	0	1000	0	0
+TK6	6	detected	positive_probability	1000	0	1000	0	0
+HepaRG	7	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	7	detected	positive_probability	1000	0	1000	0	0
+MCF-7	7	detected	positive_probability	1000	0	1000	0	0
+TK6	7	detected	positive_probability	1000	0	1000	0	0
+HepaRG	8	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	8	detected	positive_probability	1000	0	1000	0	0
+MCF-7	8	detected	positive_probability	1000	0	1000	0	0
+TK6	8	detected	positive_probability	1000	0	1000	0	0
+HepaRG	9	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	9	detected	positive_probability	1000	0	1000	0	0
+MCF-7	9	detected	positive_probability	1000	0	1000	0	0
+TK6	9	detected	positive_probability	1000	0	1000	0	0
+HepaRG	10	detected	positive_probability	1000	0	1000	0	0
+Liver spheroids	10	detected	positive_probability	1000	0	1000	0	0
+MCF-7	10	detected	positive_probability	1000	0	1000	0	0
+TK6	10	detected	positive_probability	1000	0	1000	0	0
+HepaRG	3	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	3	final	positive_probability	1000	0	9	11	980
+MCF-7	3	final	positive_probability	1000	0	42	0	958
+TK6	3	final	positive_probability	1000	1	32	0	967
+HepaRG	4	final	positive_probability	1000	0	1	0	999
+Liver spheroids	4	final	positive_probability	1000	0	3	3	994
+MCF-7	4	final	positive_probability	1000	0	20	0	980
+TK6	4	final	positive_probability	1000	0	23	0	977
+HepaRG	5	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	5	final	positive_probability	1000	0	0	2	998
+MCF-7	5	final	positive_probability	1000	0	16	0	984
+TK6	5	final	positive_probability	1000	0	19	0	981
+HepaRG	6	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	6	final	positive_probability	1000	0	1	0	999
+MCF-7	6	final	positive_probability	1000	0	6	0	994
+TK6	6	final	positive_probability	1000	0	15	0	985
+HepaRG	7	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	7	final	positive_probability	1000	0	0	0	1000
+MCF-7	7	final	positive_probability	1000	0	4	0	996
+TK6	7	final	positive_probability	1000	0	19	0	981
+HepaRG	8	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	8	final	positive_probability	1000	0	0	0	1000
+MCF-7	8	final	positive_probability	1000	0	3	0	997
+TK6	8	final	positive_probability	1000	0	10	0	990
+HepaRG	9	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	9	final	positive_probability	1000	0	0	0	1000
+MCF-7	9	final	positive_probability	1000	0	0	0	1000
+TK6	9	final	positive_probability	1000	0	9	0	991
+HepaRG	10	final	positive_probability	1000	0	0	0	1000
+Liver spheroids	10	final	positive_probability	1000	0	0	0	1000
+MCF-7	10	final	positive_probability	1000	0	0	0	1000
+TK6	10	final	positive_probability	1000	0	12	0	988
+HepaRG	3	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	3	initial	positive_probability	1000	11	989	0	0
+MCF-7	3	initial	positive_probability	1000	0	1000	0	0
+TK6	3	initial	positive_probability	1000	1	999	0	0
+HepaRG	4	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	4	initial	positive_probability	1000	3	997	0	0
+MCF-7	4	initial	positive_probability	1000	0	1000	0	0
+TK6	4	initial	positive_probability	1000	0	1000	0	0
+HepaRG	5	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	5	initial	positive_probability	1000	2	998	0	0
+MCF-7	5	initial	positive_probability	1000	0	1000	0	0
+TK6	5	initial	positive_probability	1000	0	1000	0	0
+HepaRG	6	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	6	initial	positive_probability	1000	0	1000	0	0
+MCF-7	6	initial	positive_probability	1000	0	1000	0	0
+TK6	6	initial	positive_probability	1000	0	1000	0	0
+HepaRG	7	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	7	initial	positive_probability	1000	0	1000	0	0
+MCF-7	7	initial	positive_probability	1000	0	1000	0	0
+TK6	7	initial	positive_probability	1000	0	1000	0	0
+HepaRG	8	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	8	initial	positive_probability	1000	0	1000	0	0
+MCF-7	8	initial	positive_probability	1000	0	1000	0	0
+TK6	8	initial	positive_probability	1000	0	1000	0	0
+HepaRG	9	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	9	initial	positive_probability	1000	0	1000	0	0
+MCF-7	9	initial	positive_probability	1000	0	1000	0	0
+TK6	9	initial	positive_probability	1000	0	1000	0	0
+HepaRG	10	initial	positive_probability	1000	0	1000	0	0
+Liver spheroids	10	initial	positive_probability	1000	0	1000	0	0
+MCF-7	10	initial	positive_probability	1000	0	1000	0	0
+TK6	10	initial	positive_probability	1000	0	1000	0	0
+HepaRG	3	quantile	positive_probability	1000	0	25	0	975
+Liver spheroids	3	quantile	positive_probability	1000	0	48	11	941
+MCF-7	3	quantile	positive_probability	1000	0	96	0	904
+TK6	3	quantile	positive_probability	1000	1	48	0	951
+HepaRG	4	quantile	positive_probability	1000	0	26	0	974
+Liver spheroids	4	quantile	positive_probability	1000	0	48	3	949
+MCF-7	4	quantile	positive_probability	1000	0	68	0	932
+TK6	4	quantile	positive_probability	1000	0	43	0	957
+HepaRG	5	quantile	positive_probability	1000	0	22	0	978
+Liver spheroids	5	quantile	positive_probability	1000	0	14	2	984
+MCF-7	5	quantile	positive_probability	1000	0	71	0	929
+TK6	5	quantile	positive_probability	1000	0	35	0	965
+HepaRG	6	quantile	positive_probability	1000	0	19	0	981
+Liver spheroids	6	quantile	positive_probability	1000	0	28	0	972
+MCF-7	6	quantile	positive_probability	1000	0	47	0	953
+TK6	6	quantile	positive_probability	1000	0	29	0	971
+HepaRG	7	quantile	positive_probability	1000	0	12	0	988
+Liver spheroids	7	quantile	positive_probability	1000	0	15	0	985
+MCF-7	7	quantile	positive_probability	1000	0	41	0	959
+TK6	7	quantile	positive_probability	1000	0	46	0	954
+HepaRG	8	quantile	positive_probability	1000	0	24	0	976
+Liver spheroids	8	quantile	positive_probability	1000	0	20	0	980
+MCF-7	8	quantile	positive_probability	1000	0	38	0	962
+TK6	8	quantile	positive_probability	1000	0	32	0	968
+HepaRG	9	quantile	positive_probability	1000	0	7	0	993
+Liver spheroids	9	quantile	positive_probability	1000	0	14	0	986
+MCF-7	9	quantile	positive_probability	1000	0	30	0	970
+TK6	9	quantile	positive_probability	1000	0	43	0	957
+HepaRG	10	quantile	positive_probability	1000	0	11	0	989
+Liver spheroids	10	quantile	positive_probability	1000	0	18	0	982
+MCF-7	10	quantile	positive_probability	1000	0	33	0	967
+TK6	10	quantile	positive_probability	1000	0	29	0	971
+HepaRG	3	quantile_spike	positive_probability	1000	0	25	0	975
+Liver spheroids	3	quantile_spike	positive_probability	1000	0	48	11	941
+MCF-7	3	quantile_spike	positive_probability	1000	0	96	0	904
+TK6	3	quantile_spike	positive_probability	1000	1	48	0	951
+HepaRG	4	quantile_spike	positive_probability	1000	0	26	0	974
+Liver spheroids	4	quantile_spike	positive_probability	1000	0	48	3	949
+MCF-7	4	quantile_spike	positive_probability	1000	0	68	0	932
+TK6	4	quantile_spike	positive_probability	1000	0	43	0	957
+HepaRG	5	quantile_spike	positive_probability	1000	0	22	0	978
+Liver spheroids	5	quantile_spike	positive_probability	1000	0	14	2	984
+MCF-7	5	quantile_spike	positive_probability	1000	0	71	0	929
+TK6	5	quantile_spike	positive_probability	1000	0	35	0	965
+HepaRG	6	quantile_spike	positive_probability	1000	0	19	0	981
+Liver spheroids	6	quantile_spike	positive_probability	1000	0	28	0	972
+MCF-7	6	quantile_spike	positive_probability	1000	0	47	0	953
+TK6	6	quantile_spike	positive_probability	1000	0	29	0	971
+HepaRG	7	quantile_spike	positive_probability	1000	0	12	0	988
+Liver spheroids	7	quantile_spike	positive_probability	1000	0	15	0	985
+MCF-7	7	quantile_spike	positive_probability	1000	0	41	0	959
+TK6	7	quantile_spike	positive_probability	1000	0	46	0	954
+HepaRG	8	quantile_spike	positive_probability	1000	0	24	0	976
+Liver spheroids	8	quantile_spike	positive_probability	1000	0	20	0	980
+MCF-7	8	quantile_spike	positive_probability	1000	0	38	0	962
+TK6	8	quantile_spike	positive_probability	1000	0	32	0	968
+HepaRG	9	quantile_spike	positive_probability	1000	0	7	0	993
+Liver spheroids	9	quantile_spike	positive_probability	1000	0	14	0	986
+MCF-7	9	quantile_spike	positive_probability	1000	0	30	0	970
+TK6	9	quantile_spike	positive_probability	1000	0	43	0	957
+HepaRG	10	quantile_spike	positive_probability	1000	0	11	0	989
+Liver spheroids	10	quantile_spike	positive_probability	1000	0	18	0	982
+MCF-7	10	quantile_spike	positive_probability	1000	0	33	0	967
+TK6	10	quantile_spike	positive_probability	1000	0	29	0	971
+HepaRG	3	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	3	relevance	positive_probability	1000	11	989	0	0
+MCF-7	3	relevance	positive_probability	1000	0	1000	0	0
+TK6	3	relevance	positive_probability	1000	1	999	0	0
+HepaRG	4	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	4	relevance	positive_probability	1000	3	997	0	0
+MCF-7	4	relevance	positive_probability	1000	0	1000	0	0
+TK6	4	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	5	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	5	relevance	positive_probability	1000	2	998	0	0
+MCF-7	5	relevance	positive_probability	1000	0	1000	0	0
+TK6	5	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	6	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	6	relevance	positive_probability	1000	0	1000	0	0
+MCF-7	6	relevance	positive_probability	1000	0	1000	0	0
+TK6	6	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	7	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	7	relevance	positive_probability	1000	0	1000	0	0
+MCF-7	7	relevance	positive_probability	1000	0	1000	0	0
+TK6	7	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	8	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	8	relevance	positive_probability	1000	0	1000	0	0
+MCF-7	8	relevance	positive_probability	1000	0	1000	0	0
+TK6	8	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	9	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	9	relevance	positive_probability	1000	0	1000	0	0
+MCF-7	9	relevance	positive_probability	1000	0	1000	0	0
+TK6	9	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	10	relevance	positive_probability	1000	0	1000	0	0
+Liver spheroids	10	relevance	positive_probability	1000	0	1000	0	0
+MCF-7	10	relevance	positive_probability	1000	0	1000	0	0
+TK6	10	relevance	positive_probability	1000	0	1000	0	0
+HepaRG	3	significant	positive_probability	1000	0	25	0	975
+Liver spheroids	3	significant	positive_probability	1000	0	48	11	941
+MCF-7	3	significant	positive_probability	1000	0	96	0	904
+TK6	3	significant	positive_probability	1000	1	48	0	951
+HepaRG	4	significant	positive_probability	1000	0	26	0	974
+Liver spheroids	4	significant	positive_probability	1000	0	48	3	949
+MCF-7	4	significant	positive_probability	1000	0	68	0	932
+TK6	4	significant	positive_probability	1000	0	43	0	957
+HepaRG	5	significant	positive_probability	1000	0	22	0	978
+Liver spheroids	5	significant	positive_probability	1000	0	14	2	984
+MCF-7	5	significant	positive_probability	1000	0	71	0	929
+TK6	5	significant	positive_probability	1000	0	35	0	965
+HepaRG	6	significant	positive_probability	1000	0	19	0	981
+Liver spheroids	6	significant	positive_probability	1000	0	28	0	972
+MCF-7	6	significant	positive_probability	1000	0	47	0	953
+TK6	6	significant	positive_probability	1000	0	29	0	971
+HepaRG	7	significant	positive_probability	1000	0	12	0	988
+Liver spheroids	7	significant	positive_probability	1000	0	15	0	985
+MCF-7	7	significant	positive_probability	1000	0	41	0	959
+TK6	7	significant	positive_probability	1000	0	46	0	954
+HepaRG	8	significant	positive_probability	1000	0	24	0	976
+Liver spheroids	8	significant	positive_probability	1000	0	20	0	980
+MCF-7	8	significant	positive_probability	1000	0	38	0	962
+TK6	8	significant	positive_probability	1000	0	32	0	968
+HepaRG	9	significant	positive_probability	1000	0	7	0	993
+Liver spheroids	9	significant	positive_probability	1000	0	14	0	986
+MCF-7	9	significant	positive_probability	1000	0	30	0	970
+TK6	9	significant	positive_probability	1000	0	43	0	957
+HepaRG	10	significant	positive_probability	1000	0	11	0	989
+Liver spheroids	10	significant	positive_probability	1000	0	18	0	982
+MCF-7	10	significant	positive_probability	1000	0	33	0	967
+TK6	10	significant	positive_probability	1000	0	29	0	971
+HepaRG	3	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	3	significant_fc	positive_probability	1000	0	9	11	980
+MCF-7	3	significant_fc	positive_probability	1000	0	42	0	958
+TK6	3	significant_fc	positive_probability	1000	1	32	0	967
+HepaRG	4	significant_fc	positive_probability	1000	0	1	0	999
+Liver spheroids	4	significant_fc	positive_probability	1000	0	3	3	994
+MCF-7	4	significant_fc	positive_probability	1000	0	20	0	980
+TK6	4	significant_fc	positive_probability	1000	0	23	0	977
+HepaRG	5	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	5	significant_fc	positive_probability	1000	0	0	2	998
+MCF-7	5	significant_fc	positive_probability	1000	0	16	0	984
+TK6	5	significant_fc	positive_probability	1000	0	19	0	981
+HepaRG	6	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	6	significant_fc	positive_probability	1000	0	1	0	999
+MCF-7	6	significant_fc	positive_probability	1000	0	6	0	994
+TK6	6	significant_fc	positive_probability	1000	0	15	0	985
+HepaRG	7	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	7	significant_fc	positive_probability	1000	0	0	0	1000
+MCF-7	7	significant_fc	positive_probability	1000	0	4	0	996
+TK6	7	significant_fc	positive_probability	1000	0	19	0	981
+HepaRG	8	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	8	significant_fc	positive_probability	1000	0	0	0	1000
+MCF-7	8	significant_fc	positive_probability	1000	0	3	0	997
+TK6	8	significant_fc	positive_probability	1000	0	10	0	990
+HepaRG	9	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	9	significant_fc	positive_probability	1000	0	0	0	1000
+MCF-7	9	significant_fc	positive_probability	1000	0	0	0	1000
+TK6	9	significant_fc	positive_probability	1000	0	9	0	991
+HepaRG	10	significant_fc	positive_probability	1000	0	0	0	1000
+Liver spheroids	10	significant_fc	positive_probability	1000	0	0	0	1000
+MCF-7	10	significant_fc	positive_probability	1000	0	0	0	1000
+TK6	10	significant_fc	positive_probability	1000	0	12	0	988
+HepaRG	3	spike	positive_probability	1000	0	25	0	975
+Liver spheroids	3	spike	positive_probability	1000	0	48	11	941
+MCF-7	3	spike	positive_probability	1000	0	96	0	904
+TK6	3	spike	positive_probability	1000	1	48	0	951
+HepaRG	4	spike	positive_probability	1000	0	26	0	974
+Liver spheroids	4	spike	positive_probability	1000	0	48	3	949
+MCF-7	4	spike	positive_probability	1000	0	68	0	932
+TK6	4	spike	positive_probability	1000	0	43	0	957
+HepaRG	5	spike	positive_probability	1000	0	22	0	978
+Liver spheroids	5	spike	positive_probability	1000	0	14	2	984
+MCF-7	5	spike	positive_probability	1000	0	71	0	929
+TK6	5	spike	positive_probability	1000	0	35	0	965
+HepaRG	6	spike	positive_probability	1000	0	19	0	981
+Liver spheroids	6	spike	positive_probability	1000	0	28	0	972
+MCF-7	6	spike	positive_probability	1000	0	47	0	953
+TK6	6	spike	positive_probability	1000	0	29	0	971
+HepaRG	7	spike	positive_probability	1000	0	12	0	988
+Liver spheroids	7	spike	positive_probability	1000	0	15	0	985
+MCF-7	7	spike	positive_probability	1000	0	41	0	959
+TK6	7	spike	positive_probability	1000	0	46	0	954
+HepaRG	8	spike	positive_probability	1000	0	24	0	976
+Liver spheroids	8	spike	positive_probability	1000	0	20	0	980
+MCF-7	8	spike	positive_probability	1000	0	38	0	962
+TK6	8	spike	positive_probability	1000	0	32	0	968
+HepaRG	9	spike	positive_probability	1000	0	7	0	993
+Liver spheroids	9	spike	positive_probability	1000	0	14	0	986
+MCF-7	9	spike	positive_probability	1000	0	30	0	970
+TK6	9	spike	positive_probability	1000	0	43	0	957
+HepaRG	10	spike	positive_probability	1000	0	11	0	989
+Liver spheroids	10	spike	positive_probability	1000	0	18	0	982
+MCF-7	10	spike	positive_probability	1000	0	33	0	967
+TK6	10	spike	positive_probability	1000	0	29	0	971
+HepaRG	3	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	3	tested	positive_probability	1000	11	989	0	0
+MCF-7	3	tested	positive_probability	1000	0	1000	0	0
+TK6	3	tested	positive_probability	1000	1	999	0	0
+HepaRG	4	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	4	tested	positive_probability	1000	3	997	0	0
+MCF-7	4	tested	positive_probability	1000	0	1000	0	0
+TK6	4	tested	positive_probability	1000	0	1000	0	0
+HepaRG	5	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	5	tested	positive_probability	1000	2	998	0	0
+MCF-7	5	tested	positive_probability	1000	0	1000	0	0
+TK6	5	tested	positive_probability	1000	0	1000	0	0
+HepaRG	6	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	6	tested	positive_probability	1000	0	1000	0	0
+MCF-7	6	tested	positive_probability	1000	0	1000	0	0
+TK6	6	tested	positive_probability	1000	0	1000	0	0
+HepaRG	7	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	7	tested	positive_probability	1000	0	1000	0	0
+MCF-7	7	tested	positive_probability	1000	0	1000	0	0
+TK6	7	tested	positive_probability	1000	0	1000	0	0
+HepaRG	8	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	8	tested	positive_probability	1000	0	1000	0	0
+MCF-7	8	tested	positive_probability	1000	0	1000	0	0
+TK6	8	tested	positive_probability	1000	0	1000	0	0
+HepaRG	9	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	9	tested	positive_probability	1000	0	1000	0	0
+MCF-7	9	tested	positive_probability	1000	0	1000	0	0
+TK6	9	tested	positive_probability	1000	0	1000	0	0
+HepaRG	10	tested	positive_probability	1000	0	1000	0	0
+Liver spheroids	10	tested	positive_probability	1000	0	1000	0	0
+MCF-7	10	tested	positive_probability	1000	0	1000	0	0
+TK6	10	tested	positive_probability	1000	0	1000	0	0
+HepaRG	3	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	3	bh_eligible	positive_pc1	1000	4	996	0	0
+MCF-7	3	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	3	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	4	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	4	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	4	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	4	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	5	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	5	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	5	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	5	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	6	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	6	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	6	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	6	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	7	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	7	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	7	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	7	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	8	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	8	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	8	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	8	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	9	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	9	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	9	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	9	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	10	bh_eligible	positive_pc1	1000	0	1000	0	0
+Liver spheroids	10	bh_eligible	positive_pc1	1000	0	1000	0	0
+MCF-7	10	bh_eligible	positive_pc1	1000	0	1000	0	0
+TK6	10	bh_eligible	positive_pc1	1000	0	1000	0	0
+HepaRG	3	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	3	detected	positive_pc1	1000	4	996	0	0
+MCF-7	3	detected	positive_pc1	1000	0	1000	0	0
+TK6	3	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	4	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	4	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	4	detected	positive_pc1	1000	0	1000	0	0
+TK6	4	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	5	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	5	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	5	detected	positive_pc1	1000	0	1000	0	0
+TK6	5	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	6	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	6	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	6	detected	positive_pc1	1000	0	1000	0	0
+TK6	6	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	7	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	7	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	7	detected	positive_pc1	1000	0	1000	0	0
+TK6	7	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	8	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	8	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	8	detected	positive_pc1	1000	0	1000	0	0
+TK6	8	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	9	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	9	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	9	detected	positive_pc1	1000	0	1000	0	0
+TK6	9	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	10	detected	positive_pc1	1000	0	1000	0	0
+Liver spheroids	10	detected	positive_pc1	1000	0	1000	0	0
+MCF-7	10	detected	positive_pc1	1000	0	1000	0	0
+TK6	10	detected	positive_pc1	1000	0	1000	0	0
+HepaRG	3	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	3	final	positive_pc1	1000	0	9	4	987
+MCF-7	3	final	positive_pc1	1000	0	42	0	958
+TK6	3	final	positive_pc1	1000	0	33	0	967
+HepaRG	4	final	positive_pc1	1000	0	1	0	999
+Liver spheroids	4	final	positive_pc1	1000	0	3	0	997
+MCF-7	4	final	positive_pc1	1000	0	20	0	980
+TK6	4	final	positive_pc1	1000	0	23	0	977
+HepaRG	5	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	5	final	positive_pc1	1000	0	0	0	1000
+MCF-7	5	final	positive_pc1	1000	0	16	0	984
+TK6	5	final	positive_pc1	1000	0	19	0	981
+HepaRG	6	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	6	final	positive_pc1	1000	0	1	0	999
+MCF-7	6	final	positive_pc1	1000	0	6	0	994
+TK6	6	final	positive_pc1	1000	0	15	0	985
+HepaRG	7	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	7	final	positive_pc1	1000	0	0	0	1000
+MCF-7	7	final	positive_pc1	1000	0	4	0	996
+TK6	7	final	positive_pc1	1000	0	19	0	981
+HepaRG	8	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	8	final	positive_pc1	1000	0	0	0	1000
+MCF-7	8	final	positive_pc1	1000	0	3	0	997
+TK6	8	final	positive_pc1	1000	0	10	0	990
+HepaRG	9	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	9	final	positive_pc1	1000	0	0	0	1000
+MCF-7	9	final	positive_pc1	1000	0	0	0	1000
+TK6	9	final	positive_pc1	1000	0	9	0	991
+HepaRG	10	final	positive_pc1	1000	0	0	0	1000
+Liver spheroids	10	final	positive_pc1	1000	0	0	0	1000
+MCF-7	10	final	positive_pc1	1000	0	0	0	1000
+TK6	10	final	positive_pc1	1000	0	12	0	988
+HepaRG	3	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	3	initial	positive_pc1	1000	4	996	0	0
+MCF-7	3	initial	positive_pc1	1000	0	1000	0	0
+TK6	3	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	4	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	4	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	4	initial	positive_pc1	1000	0	1000	0	0
+TK6	4	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	5	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	5	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	5	initial	positive_pc1	1000	0	1000	0	0
+TK6	5	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	6	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	6	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	6	initial	positive_pc1	1000	0	1000	0	0
+TK6	6	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	7	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	7	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	7	initial	positive_pc1	1000	0	1000	0	0
+TK6	7	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	8	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	8	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	8	initial	positive_pc1	1000	0	1000	0	0
+TK6	8	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	9	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	9	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	9	initial	positive_pc1	1000	0	1000	0	0
+TK6	9	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	10	initial	positive_pc1	1000	0	1000	0	0
+Liver spheroids	10	initial	positive_pc1	1000	0	1000	0	0
+MCF-7	10	initial	positive_pc1	1000	0	1000	0	0
+TK6	10	initial	positive_pc1	1000	0	1000	0	0
+HepaRG	3	quantile	positive_pc1	1000	0	25	0	975
+Liver spheroids	3	quantile	positive_pc1	1000	0	48	4	948
+MCF-7	3	quantile	positive_pc1	1000	0	96	0	904
+TK6	3	quantile	positive_pc1	1000	0	49	0	951
+HepaRG	4	quantile	positive_pc1	1000	0	26	0	974
+Liver spheroids	4	quantile	positive_pc1	1000	0	48	0	952
+MCF-7	4	quantile	positive_pc1	1000	0	68	0	932
+TK6	4	quantile	positive_pc1	1000	0	43	0	957
+HepaRG	5	quantile	positive_pc1	1000	0	22	0	978
+Liver spheroids	5	quantile	positive_pc1	1000	0	14	0	986
+MCF-7	5	quantile	positive_pc1	1000	0	71	0	929
+TK6	5	quantile	positive_pc1	1000	0	35	0	965
+HepaRG	6	quantile	positive_pc1	1000	0	19	0	981
+Liver spheroids	6	quantile	positive_pc1	1000	0	28	0	972
+MCF-7	6	quantile	positive_pc1	1000	0	47	0	953
+TK6	6	quantile	positive_pc1	1000	0	29	0	971
+HepaRG	7	quantile	positive_pc1	1000	0	12	0	988
+Liver spheroids	7	quantile	positive_pc1	1000	0	15	0	985
+MCF-7	7	quantile	positive_pc1	1000	0	41	0	959
+TK6	7	quantile	positive_pc1	1000	0	46	0	954
+HepaRG	8	quantile	positive_pc1	1000	0	24	0	976
+Liver spheroids	8	quantile	positive_pc1	1000	0	20	0	980
+MCF-7	8	quantile	positive_pc1	1000	0	38	0	962
+TK6	8	quantile	positive_pc1	1000	0	32	0	968
+HepaRG	9	quantile	positive_pc1	1000	0	7	0	993
+Liver spheroids	9	quantile	positive_pc1	1000	0	14	0	986
+MCF-7	9	quantile	positive_pc1	1000	0	30	0	970
+TK6	9	quantile	positive_pc1	1000	0	43	0	957
+HepaRG	10	quantile	positive_pc1	1000	0	11	0	989
+Liver spheroids	10	quantile	positive_pc1	1000	0	18	0	982
+MCF-7	10	quantile	positive_pc1	1000	0	33	0	967
+TK6	10	quantile	positive_pc1	1000	0	29	0	971
+HepaRG	3	quantile_spike	positive_pc1	1000	0	25	0	975
+Liver spheroids	3	quantile_spike	positive_pc1	1000	0	48	4	948
+MCF-7	3	quantile_spike	positive_pc1	1000	0	96	0	904
+TK6	3	quantile_spike	positive_pc1	1000	0	49	0	951
+HepaRG	4	quantile_spike	positive_pc1	1000	0	26	0	974
+Liver spheroids	4	quantile_spike	positive_pc1	1000	0	48	0	952
+MCF-7	4	quantile_spike	positive_pc1	1000	0	68	0	932
+TK6	4	quantile_spike	positive_pc1	1000	0	43	0	957
+HepaRG	5	quantile_spike	positive_pc1	1000	0	22	0	978
+Liver spheroids	5	quantile_spike	positive_pc1	1000	0	14	0	986
+MCF-7	5	quantile_spike	positive_pc1	1000	0	71	0	929
+TK6	5	quantile_spike	positive_pc1	1000	0	35	0	965
+HepaRG	6	quantile_spike	positive_pc1	1000	0	19	0	981
+Liver spheroids	6	quantile_spike	positive_pc1	1000	0	28	0	972
+MCF-7	6	quantile_spike	positive_pc1	1000	0	47	0	953
+TK6	6	quantile_spike	positive_pc1	1000	0	29	0	971
+HepaRG	7	quantile_spike	positive_pc1	1000	0	12	0	988
+Liver spheroids	7	quantile_spike	positive_pc1	1000	0	15	0	985
+MCF-7	7	quantile_spike	positive_pc1	1000	0	41	0	959
+TK6	7	quantile_spike	positive_pc1	1000	0	46	0	954
+HepaRG	8	quantile_spike	positive_pc1	1000	0	24	0	976
+Liver spheroids	8	quantile_spike	positive_pc1	1000	0	20	0	980
+MCF-7	8	quantile_spike	positive_pc1	1000	0	38	0	962
+TK6	8	quantile_spike	positive_pc1	1000	0	32	0	968
+HepaRG	9	quantile_spike	positive_pc1	1000	0	7	0	993
+Liver spheroids	9	quantile_spike	positive_pc1	1000	0	14	0	986
+MCF-7	9	quantile_spike	positive_pc1	1000	0	30	0	970
+TK6	9	quantile_spike	positive_pc1	1000	0	43	0	957
+HepaRG	10	quantile_spike	positive_pc1	1000	0	11	0	989
+Liver spheroids	10	quantile_spike	positive_pc1	1000	0	18	0	982
+MCF-7	10	quantile_spike	positive_pc1	1000	0	33	0	967
+TK6	10	quantile_spike	positive_pc1	1000	0	29	0	971
+HepaRG	3	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	3	relevance	positive_pc1	1000	4	996	0	0
+MCF-7	3	relevance	positive_pc1	1000	0	1000	0	0
+TK6	3	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	4	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	4	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	4	relevance	positive_pc1	1000	0	1000	0	0
+TK6	4	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	5	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	5	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	5	relevance	positive_pc1	1000	0	1000	0	0
+TK6	5	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	6	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	6	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	6	relevance	positive_pc1	1000	0	1000	0	0
+TK6	6	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	7	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	7	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	7	relevance	positive_pc1	1000	0	1000	0	0
+TK6	7	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	8	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	8	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	8	relevance	positive_pc1	1000	0	1000	0	0
+TK6	8	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	9	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	9	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	9	relevance	positive_pc1	1000	0	1000	0	0
+TK6	9	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	10	relevance	positive_pc1	1000	0	1000	0	0
+Liver spheroids	10	relevance	positive_pc1	1000	0	1000	0	0
+MCF-7	10	relevance	positive_pc1	1000	0	1000	0	0
+TK6	10	relevance	positive_pc1	1000	0	1000	0	0
+HepaRG	3	significant	positive_pc1	1000	0	25	0	975
+Liver spheroids	3	significant	positive_pc1	1000	0	48	4	948
+MCF-7	3	significant	positive_pc1	1000	0	96	0	904
+TK6	3	significant	positive_pc1	1000	0	49	0	951
+HepaRG	4	significant	positive_pc1	1000	0	26	0	974
+Liver spheroids	4	significant	positive_pc1	1000	0	48	0	952
+MCF-7	4	significant	positive_pc1	1000	0	68	0	932
+TK6	4	significant	positive_pc1	1000	0	43	0	957
+HepaRG	5	significant	positive_pc1	1000	0	22	0	978
+Liver spheroids	5	significant	positive_pc1	1000	0	14	0	986
+MCF-7	5	significant	positive_pc1	1000	0	71	0	929
+TK6	5	significant	positive_pc1	1000	0	35	0	965
+HepaRG	6	significant	positive_pc1	1000	0	19	0	981
+Liver spheroids	6	significant	positive_pc1	1000	0	28	0	972
+MCF-7	6	significant	positive_pc1	1000	0	47	0	953
+TK6	6	significant	positive_pc1	1000	0	29	0	971
+HepaRG	7	significant	positive_pc1	1000	0	12	0	988
+Liver spheroids	7	significant	positive_pc1	1000	0	15	0	985
+MCF-7	7	significant	positive_pc1	1000	0	41	0	959
+TK6	7	significant	positive_pc1	1000	0	46	0	954
+HepaRG	8	significant	positive_pc1	1000	0	24	0	976
+Liver spheroids	8	significant	positive_pc1	1000	0	20	0	980
+MCF-7	8	significant	positive_pc1	1000	0	38	0	962
+TK6	8	significant	positive_pc1	1000	0	32	0	968
+HepaRG	9	significant	positive_pc1	1000	0	7	0	993
+Liver spheroids	9	significant	positive_pc1	1000	0	14	0	986
+MCF-7	9	significant	positive_pc1	1000	0	30	0	970
+TK6	9	significant	positive_pc1	1000	0	43	0	957
+HepaRG	10	significant	positive_pc1	1000	0	11	0	989
+Liver spheroids	10	significant	positive_pc1	1000	0	18	0	982
+MCF-7	10	significant	positive_pc1	1000	0	33	0	967
+TK6	10	significant	positive_pc1	1000	0	29	0	971
+HepaRG	3	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	3	significant_fc	positive_pc1	1000	0	9	4	987
+MCF-7	3	significant_fc	positive_pc1	1000	0	42	0	958
+TK6	3	significant_fc	positive_pc1	1000	0	33	0	967
+HepaRG	4	significant_fc	positive_pc1	1000	0	1	0	999
+Liver spheroids	4	significant_fc	positive_pc1	1000	0	3	0	997
+MCF-7	4	significant_fc	positive_pc1	1000	0	20	0	980
+TK6	4	significant_fc	positive_pc1	1000	0	23	0	977
+HepaRG	5	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	5	significant_fc	positive_pc1	1000	0	0	0	1000
+MCF-7	5	significant_fc	positive_pc1	1000	0	16	0	984
+TK6	5	significant_fc	positive_pc1	1000	0	19	0	981
+HepaRG	6	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	6	significant_fc	positive_pc1	1000	0	1	0	999
+MCF-7	6	significant_fc	positive_pc1	1000	0	6	0	994
+TK6	6	significant_fc	positive_pc1	1000	0	15	0	985
+HepaRG	7	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	7	significant_fc	positive_pc1	1000	0	0	0	1000
+MCF-7	7	significant_fc	positive_pc1	1000	0	4	0	996
+TK6	7	significant_fc	positive_pc1	1000	0	19	0	981
+HepaRG	8	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	8	significant_fc	positive_pc1	1000	0	0	0	1000
+MCF-7	8	significant_fc	positive_pc1	1000	0	3	0	997
+TK6	8	significant_fc	positive_pc1	1000	0	10	0	990
+HepaRG	9	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	9	significant_fc	positive_pc1	1000	0	0	0	1000
+MCF-7	9	significant_fc	positive_pc1	1000	0	0	0	1000
+TK6	9	significant_fc	positive_pc1	1000	0	9	0	991
+HepaRG	10	significant_fc	positive_pc1	1000	0	0	0	1000
+Liver spheroids	10	significant_fc	positive_pc1	1000	0	0	0	1000
+MCF-7	10	significant_fc	positive_pc1	1000	0	0	0	1000
+TK6	10	significant_fc	positive_pc1	1000	0	12	0	988
+HepaRG	3	spike	positive_pc1	1000	0	25	0	975
+Liver spheroids	3	spike	positive_pc1	1000	0	48	4	948
+MCF-7	3	spike	positive_pc1	1000	0	96	0	904
+TK6	3	spike	positive_pc1	1000	0	49	0	951
+HepaRG	4	spike	positive_pc1	1000	0	26	0	974
+Liver spheroids	4	spike	positive_pc1	1000	0	48	0	952
+MCF-7	4	spike	positive_pc1	1000	0	68	0	932
+TK6	4	spike	positive_pc1	1000	0	43	0	957
+HepaRG	5	spike	positive_pc1	1000	0	22	0	978
+Liver spheroids	5	spike	positive_pc1	1000	0	14	0	986
+MCF-7	5	spike	positive_pc1	1000	0	71	0	929
+TK6	5	spike	positive_pc1	1000	0	35	0	965
+HepaRG	6	spike	positive_pc1	1000	0	19	0	981
+Liver spheroids	6	spike	positive_pc1	1000	0	28	0	972
+MCF-7	6	spike	positive_pc1	1000	0	47	0	953
+TK6	6	spike	positive_pc1	1000	0	29	0	971
+HepaRG	7	spike	positive_pc1	1000	0	12	0	988
+Liver spheroids	7	spike	positive_pc1	1000	0	15	0	985
+MCF-7	7	spike	positive_pc1	1000	0	41	0	959
+TK6	7	spike	positive_pc1	1000	0	46	0	954
+HepaRG	8	spike	positive_pc1	1000	0	24	0	976
+Liver spheroids	8	spike	positive_pc1	1000	0	20	0	980
+MCF-7	8	spike	positive_pc1	1000	0	38	0	962
+TK6	8	spike	positive_pc1	1000	0	32	0	968
+HepaRG	9	spike	positive_pc1	1000	0	7	0	993
+Liver spheroids	9	spike	positive_pc1	1000	0	14	0	986
+MCF-7	9	spike	positive_pc1	1000	0	30	0	970
+TK6	9	spike	positive_pc1	1000	0	43	0	957
+HepaRG	10	spike	positive_pc1	1000	0	11	0	989
+Liver spheroids	10	spike	positive_pc1	1000	0	18	0	982
+MCF-7	10	spike	positive_pc1	1000	0	33	0	967
+TK6	10	spike	positive_pc1	1000	0	29	0	971
+HepaRG	3	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	3	tested	positive_pc1	1000	4	996	0	0
+MCF-7	3	tested	positive_pc1	1000	0	1000	0	0
+TK6	3	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	4	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	4	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	4	tested	positive_pc1	1000	0	1000	0	0
+TK6	4	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	5	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	5	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	5	tested	positive_pc1	1000	0	1000	0	0
+TK6	5	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	6	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	6	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	6	tested	positive_pc1	1000	0	1000	0	0
+TK6	6	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	7	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	7	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	7	tested	positive_pc1	1000	0	1000	0	0
+TK6	7	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	8	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	8	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	8	tested	positive_pc1	1000	0	1000	0	0
+TK6	8	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	9	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	9	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	9	tested	positive_pc1	1000	0	1000	0	0
+TK6	9	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	10	tested	positive_pc1	1000	0	1000	0	0
+Liver spheroids	10	tested	positive_pc1	1000	0	1000	0	0
+MCF-7	10	tested	positive_pc1	1000	0	1000	0	0
+TK6	10	tested	positive_pc1	1000	0	1000	0	0
+HepaRG	3	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	3	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	3	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	3	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	4	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	4	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	4	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	4	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	5	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	5	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	5	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	5	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	6	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	6	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	6	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	6	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	7	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	7	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	7	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	7	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	8	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	8	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	8	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	8	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	9	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	9	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	9	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	9	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	10	bh_eligible	positive_hca	1000	0	1000	0	0
+Liver spheroids	10	bh_eligible	positive_hca	1000	0	1000	0	0
+MCF-7	10	bh_eligible	positive_hca	1000	0	1000	0	0
+TK6	10	bh_eligible	positive_hca	1000	0	1000	0	0
+HepaRG	3	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	3	detected	positive_hca	1000	0	1000	0	0
+MCF-7	3	detected	positive_hca	1000	0	1000	0	0
+TK6	3	detected	positive_hca	1000	0	1000	0	0
+HepaRG	4	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	4	detected	positive_hca	1000	0	1000	0	0
+MCF-7	4	detected	positive_hca	1000	0	1000	0	0
+TK6	4	detected	positive_hca	1000	0	1000	0	0
+HepaRG	5	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	5	detected	positive_hca	1000	0	1000	0	0
+MCF-7	5	detected	positive_hca	1000	0	1000	0	0
+TK6	5	detected	positive_hca	1000	0	1000	0	0
+HepaRG	6	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	6	detected	positive_hca	1000	0	1000	0	0
+MCF-7	6	detected	positive_hca	1000	0	1000	0	0
+TK6	6	detected	positive_hca	1000	0	1000	0	0
+HepaRG	7	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	7	detected	positive_hca	1000	0	1000	0	0
+MCF-7	7	detected	positive_hca	1000	0	1000	0	0
+TK6	7	detected	positive_hca	1000	0	1000	0	0
+HepaRG	8	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	8	detected	positive_hca	1000	0	1000	0	0
+MCF-7	8	detected	positive_hca	1000	0	1000	0	0
+TK6	8	detected	positive_hca	1000	0	1000	0	0
+HepaRG	9	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	9	detected	positive_hca	1000	0	1000	0	0
+MCF-7	9	detected	positive_hca	1000	0	1000	0	0
+TK6	9	detected	positive_hca	1000	0	1000	0	0
+HepaRG	10	detected	positive_hca	1000	0	1000	0	0
+Liver spheroids	10	detected	positive_hca	1000	0	1000	0	0
+MCF-7	10	detected	positive_hca	1000	0	1000	0	0
+TK6	10	detected	positive_hca	1000	0	1000	0	0
+HepaRG	3	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	3	final	positive_hca	1000	0	9	0	991
+MCF-7	3	final	positive_hca	1000	0	42	0	958
+TK6	3	final	positive_hca	1000	0	33	0	967
+HepaRG	4	final	positive_hca	1000	0	1	0	999
+Liver spheroids	4	final	positive_hca	1000	0	3	0	997
+MCF-7	4	final	positive_hca	1000	0	20	0	980
+TK6	4	final	positive_hca	1000	0	23	0	977
+HepaRG	5	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	5	final	positive_hca	1000	0	0	0	1000
+MCF-7	5	final	positive_hca	1000	0	16	0	984
+TK6	5	final	positive_hca	1000	0	19	0	981
+HepaRG	6	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	6	final	positive_hca	1000	0	1	0	999
+MCF-7	6	final	positive_hca	1000	0	6	0	994
+TK6	6	final	positive_hca	1000	0	15	0	985
+HepaRG	7	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	7	final	positive_hca	1000	0	0	0	1000
+MCF-7	7	final	positive_hca	1000	0	4	0	996
+TK6	7	final	positive_hca	1000	0	19	0	981
+HepaRG	8	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	8	final	positive_hca	1000	0	0	0	1000
+MCF-7	8	final	positive_hca	1000	0	3	0	997
+TK6	8	final	positive_hca	1000	0	10	0	990
+HepaRG	9	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	9	final	positive_hca	1000	0	0	0	1000
+MCF-7	9	final	positive_hca	1000	0	0	0	1000
+TK6	9	final	positive_hca	1000	0	9	0	991
+HepaRG	10	final	positive_hca	1000	0	0	0	1000
+Liver spheroids	10	final	positive_hca	1000	0	0	0	1000
+MCF-7	10	final	positive_hca	1000	0	0	0	1000
+TK6	10	final	positive_hca	1000	0	12	0	988
+HepaRG	3	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	3	initial	positive_hca	1000	0	1000	0	0
+MCF-7	3	initial	positive_hca	1000	0	1000	0	0
+TK6	3	initial	positive_hca	1000	0	1000	0	0
+HepaRG	4	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	4	initial	positive_hca	1000	0	1000	0	0
+MCF-7	4	initial	positive_hca	1000	0	1000	0	0
+TK6	4	initial	positive_hca	1000	0	1000	0	0
+HepaRG	5	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	5	initial	positive_hca	1000	0	1000	0	0
+MCF-7	5	initial	positive_hca	1000	0	1000	0	0
+TK6	5	initial	positive_hca	1000	0	1000	0	0
+HepaRG	6	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	6	initial	positive_hca	1000	0	1000	0	0
+MCF-7	6	initial	positive_hca	1000	0	1000	0	0
+TK6	6	initial	positive_hca	1000	0	1000	0	0
+HepaRG	7	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	7	initial	positive_hca	1000	0	1000	0	0
+MCF-7	7	initial	positive_hca	1000	0	1000	0	0
+TK6	7	initial	positive_hca	1000	0	1000	0	0
+HepaRG	8	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	8	initial	positive_hca	1000	0	1000	0	0
+MCF-7	8	initial	positive_hca	1000	0	1000	0	0
+TK6	8	initial	positive_hca	1000	0	1000	0	0
+HepaRG	9	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	9	initial	positive_hca	1000	0	1000	0	0
+MCF-7	9	initial	positive_hca	1000	0	1000	0	0
+TK6	9	initial	positive_hca	1000	0	1000	0	0
+HepaRG	10	initial	positive_hca	1000	0	1000	0	0
+Liver spheroids	10	initial	positive_hca	1000	0	1000	0	0
+MCF-7	10	initial	positive_hca	1000	0	1000	0	0
+TK6	10	initial	positive_hca	1000	0	1000	0	0
+HepaRG	3	quantile	positive_hca	1000	0	25	0	975
+Liver spheroids	3	quantile	positive_hca	1000	0	48	0	952
+MCF-7	3	quantile	positive_hca	1000	0	96	0	904
+TK6	3	quantile	positive_hca	1000	0	49	0	951
+HepaRG	4	quantile	positive_hca	1000	0	26	0	974
+Liver spheroids	4	quantile	positive_hca	1000	0	48	0	952
+MCF-7	4	quantile	positive_hca	1000	0	68	0	932
+TK6	4	quantile	positive_hca	1000	0	43	0	957
+HepaRG	5	quantile	positive_hca	1000	0	22	0	978
+Liver spheroids	5	quantile	positive_hca	1000	0	14	0	986
+MCF-7	5	quantile	positive_hca	1000	0	71	0	929
+TK6	5	quantile	positive_hca	1000	0	35	0	965
+HepaRG	6	quantile	positive_hca	1000	0	19	0	981
+Liver spheroids	6	quantile	positive_hca	1000	0	28	0	972
+MCF-7	6	quantile	positive_hca	1000	0	47	0	953
+TK6	6	quantile	positive_hca	1000	0	29	0	971
+HepaRG	7	quantile	positive_hca	1000	0	12	0	988
+Liver spheroids	7	quantile	positive_hca	1000	0	15	0	985
+MCF-7	7	quantile	positive_hca	1000	0	41	0	959
+TK6	7	quantile	positive_hca	1000	0	46	0	954
+HepaRG	8	quantile	positive_hca	1000	0	24	0	976
+Liver spheroids	8	quantile	positive_hca	1000	0	20	0	980
+MCF-7	8	quantile	positive_hca	1000	0	38	0	962
+TK6	8	quantile	positive_hca	1000	0	32	0	968
+HepaRG	9	quantile	positive_hca	1000	0	7	0	993
+Liver spheroids	9	quantile	positive_hca	1000	0	14	0	986
+MCF-7	9	quantile	positive_hca	1000	0	30	0	970
+TK6	9	quantile	positive_hca	1000	0	43	0	957
+HepaRG	10	quantile	positive_hca	1000	0	11	0	989
+Liver spheroids	10	quantile	positive_hca	1000	0	18	0	982
+MCF-7	10	quantile	positive_hca	1000	0	33	0	967
+TK6	10	quantile	positive_hca	1000	0	29	0	971
+HepaRG	3	quantile_spike	positive_hca	1000	0	25	0	975
+Liver spheroids	3	quantile_spike	positive_hca	1000	0	48	0	952
+MCF-7	3	quantile_spike	positive_hca	1000	0	96	0	904
+TK6	3	quantile_spike	positive_hca	1000	0	49	0	951
+HepaRG	4	quantile_spike	positive_hca	1000	0	26	0	974
+Liver spheroids	4	quantile_spike	positive_hca	1000	0	48	0	952
+MCF-7	4	quantile_spike	positive_hca	1000	0	68	0	932
+TK6	4	quantile_spike	positive_hca	1000	0	43	0	957
+HepaRG	5	quantile_spike	positive_hca	1000	0	22	0	978
+Liver spheroids	5	quantile_spike	positive_hca	1000	0	14	0	986
+MCF-7	5	quantile_spike	positive_hca	1000	0	71	0	929
+TK6	5	quantile_spike	positive_hca	1000	0	35	0	965
+HepaRG	6	quantile_spike	positive_hca	1000	0	19	0	981
+Liver spheroids	6	quantile_spike	positive_hca	1000	0	28	0	972
+MCF-7	6	quantile_spike	positive_hca	1000	0	47	0	953
+TK6	6	quantile_spike	positive_hca	1000	0	29	0	971
+HepaRG	7	quantile_spike	positive_hca	1000	0	12	0	988
+Liver spheroids	7	quantile_spike	positive_hca	1000	0	15	0	985
+MCF-7	7	quantile_spike	positive_hca	1000	0	41	0	959
+TK6	7	quantile_spike	positive_hca	1000	0	46	0	954
+HepaRG	8	quantile_spike	positive_hca	1000	0	24	0	976
+Liver spheroids	8	quantile_spike	positive_hca	1000	0	20	0	980
+MCF-7	8	quantile_spike	positive_hca	1000	0	38	0	962
+TK6	8	quantile_spike	positive_hca	1000	0	32	0	968
+HepaRG	9	quantile_spike	positive_hca	1000	0	7	0	993
+Liver spheroids	9	quantile_spike	positive_hca	1000	0	14	0	986
+MCF-7	9	quantile_spike	positive_hca	1000	0	30	0	970
+TK6	9	quantile_spike	positive_hca	1000	0	43	0	957
+HepaRG	10	quantile_spike	positive_hca	1000	0	11	0	989
+Liver spheroids	10	quantile_spike	positive_hca	1000	0	18	0	982
+MCF-7	10	quantile_spike	positive_hca	1000	0	33	0	967
+TK6	10	quantile_spike	positive_hca	1000	0	29	0	971
+HepaRG	3	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	3	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	3	relevance	positive_hca	1000	0	1000	0	0
+TK6	3	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	4	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	4	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	4	relevance	positive_hca	1000	0	1000	0	0
+TK6	4	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	5	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	5	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	5	relevance	positive_hca	1000	0	1000	0	0
+TK6	5	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	6	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	6	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	6	relevance	positive_hca	1000	0	1000	0	0
+TK6	6	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	7	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	7	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	7	relevance	positive_hca	1000	0	1000	0	0
+TK6	7	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	8	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	8	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	8	relevance	positive_hca	1000	0	1000	0	0
+TK6	8	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	9	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	9	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	9	relevance	positive_hca	1000	0	1000	0	0
+TK6	9	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	10	relevance	positive_hca	1000	0	1000	0	0
+Liver spheroids	10	relevance	positive_hca	1000	0	1000	0	0
+MCF-7	10	relevance	positive_hca	1000	0	1000	0	0
+TK6	10	relevance	positive_hca	1000	0	1000	0	0
+HepaRG	3	significant	positive_hca	1000	0	25	0	975
+Liver spheroids	3	significant	positive_hca	1000	0	48	0	952
+MCF-7	3	significant	positive_hca	1000	0	96	0	904
+TK6	3	significant	positive_hca	1000	0	49	0	951
+HepaRG	4	significant	positive_hca	1000	0	26	0	974
+Liver spheroids	4	significant	positive_hca	1000	0	48	0	952
+MCF-7	4	significant	positive_hca	1000	0	68	0	932
+TK6	4	significant	positive_hca	1000	0	43	0	957
+HepaRG	5	significant	positive_hca	1000	0	22	0	978
+Liver spheroids	5	significant	positive_hca	1000	0	14	0	986
+MCF-7	5	significant	positive_hca	1000	0	71	0	929
+TK6	5	significant	positive_hca	1000	0	35	0	965
+HepaRG	6	significant	positive_hca	1000	0	19	0	981
+Liver spheroids	6	significant	positive_hca	1000	0	28	0	972
+MCF-7	6	significant	positive_hca	1000	0	47	0	953
+TK6	6	significant	positive_hca	1000	0	29	0	971
+HepaRG	7	significant	positive_hca	1000	0	12	0	988
+Liver spheroids	7	significant	positive_hca	1000	0	15	0	985
+MCF-7	7	significant	positive_hca	1000	0	41	0	959
+TK6	7	significant	positive_hca	1000	0	46	0	954
+HepaRG	8	significant	positive_hca	1000	0	24	0	976
+Liver spheroids	8	significant	positive_hca	1000	0	20	0	980
+MCF-7	8	significant	positive_hca	1000	0	38	0	962
+TK6	8	significant	positive_hca	1000	0	32	0	968
+HepaRG	9	significant	positive_hca	1000	0	7	0	993
+Liver spheroids	9	significant	positive_hca	1000	0	14	0	986
+MCF-7	9	significant	positive_hca	1000	0	30	0	970
+TK6	9	significant	positive_hca	1000	0	43	0	957
+HepaRG	10	significant	positive_hca	1000	0	11	0	989
+Liver spheroids	10	significant	positive_hca	1000	0	18	0	982
+MCF-7	10	significant	positive_hca	1000	0	33	0	967
+TK6	10	significant	positive_hca	1000	0	29	0	971
+HepaRG	3	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	3	significant_fc	positive_hca	1000	0	9	0	991
+MCF-7	3	significant_fc	positive_hca	1000	0	42	0	958
+TK6	3	significant_fc	positive_hca	1000	0	33	0	967
+HepaRG	4	significant_fc	positive_hca	1000	0	1	0	999
+Liver spheroids	4	significant_fc	positive_hca	1000	0	3	0	997
+MCF-7	4	significant_fc	positive_hca	1000	0	20	0	980
+TK6	4	significant_fc	positive_hca	1000	0	23	0	977
+HepaRG	5	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	5	significant_fc	positive_hca	1000	0	0	0	1000
+MCF-7	5	significant_fc	positive_hca	1000	0	16	0	984
+TK6	5	significant_fc	positive_hca	1000	0	19	0	981
+HepaRG	6	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	6	significant_fc	positive_hca	1000	0	1	0	999
+MCF-7	6	significant_fc	positive_hca	1000	0	6	0	994
+TK6	6	significant_fc	positive_hca	1000	0	15	0	985
+HepaRG	7	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	7	significant_fc	positive_hca	1000	0	0	0	1000
+MCF-7	7	significant_fc	positive_hca	1000	0	4	0	996
+TK6	7	significant_fc	positive_hca	1000	0	19	0	981
+HepaRG	8	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	8	significant_fc	positive_hca	1000	0	0	0	1000
+MCF-7	8	significant_fc	positive_hca	1000	0	3	0	997
+TK6	8	significant_fc	positive_hca	1000	0	10	0	990
+HepaRG	9	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	9	significant_fc	positive_hca	1000	0	0	0	1000
+MCF-7	9	significant_fc	positive_hca	1000	0	0	0	1000
+TK6	9	significant_fc	positive_hca	1000	0	9	0	991
+HepaRG	10	significant_fc	positive_hca	1000	0	0	0	1000
+Liver spheroids	10	significant_fc	positive_hca	1000	0	0	0	1000
+MCF-7	10	significant_fc	positive_hca	1000	0	0	0	1000
+TK6	10	significant_fc	positive_hca	1000	0	12	0	988
+HepaRG	3	spike	positive_hca	1000	0	25	0	975
+Liver spheroids	3	spike	positive_hca	1000	0	48	0	952
+MCF-7	3	spike	positive_hca	1000	0	96	0	904
+TK6	3	spike	positive_hca	1000	0	49	0	951
+HepaRG	4	spike	positive_hca	1000	0	26	0	974
+Liver spheroids	4	spike	positive_hca	1000	0	48	0	952
+MCF-7	4	spike	positive_hca	1000	0	68	0	932
+TK6	4	spike	positive_hca	1000	0	43	0	957
+HepaRG	5	spike	positive_hca	1000	0	22	0	978
+Liver spheroids	5	spike	positive_hca	1000	0	14	0	986
+MCF-7	5	spike	positive_hca	1000	0	71	0	929
+TK6	5	spike	positive_hca	1000	0	35	0	965
+HepaRG	6	spike	positive_hca	1000	0	19	0	981
+Liver spheroids	6	spike	positive_hca	1000	0	28	0	972
+MCF-7	6	spike	positive_hca	1000	0	47	0	953
+TK6	6	spike	positive_hca	1000	0	29	0	971
+HepaRG	7	spike	positive_hca	1000	0	12	0	988
+Liver spheroids	7	spike	positive_hca	1000	0	15	0	985
+MCF-7	7	spike	positive_hca	1000	0	41	0	959
+TK6	7	spike	positive_hca	1000	0	46	0	954
+HepaRG	8	spike	positive_hca	1000	0	24	0	976
+Liver spheroids	8	spike	positive_hca	1000	0	20	0	980
+MCF-7	8	spike	positive_hca	1000	0	38	0	962
+TK6	8	spike	positive_hca	1000	0	32	0	968
+HepaRG	9	spike	positive_hca	1000	0	7	0	993
+Liver spheroids	9	spike	positive_hca	1000	0	14	0	986
+MCF-7	9	spike	positive_hca	1000	0	30	0	970
+TK6	9	spike	positive_hca	1000	0	43	0	957
+HepaRG	10	spike	positive_hca	1000	0	11	0	989
+Liver spheroids	10	spike	positive_hca	1000	0	18	0	982
+MCF-7	10	spike	positive_hca	1000	0	33	0	967
+TK6	10	spike	positive_hca	1000	0	29	0	971
+HepaRG	3	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	3	tested	positive_hca	1000	0	1000	0	0
+MCF-7	3	tested	positive_hca	1000	0	1000	0	0
+TK6	3	tested	positive_hca	1000	0	1000	0	0
+HepaRG	4	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	4	tested	positive_hca	1000	0	1000	0	0
+MCF-7	4	tested	positive_hca	1000	0	1000	0	0
+TK6	4	tested	positive_hca	1000	0	1000	0	0
+HepaRG	5	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	5	tested	positive_hca	1000	0	1000	0	0
+MCF-7	5	tested	positive_hca	1000	0	1000	0	0
+TK6	5	tested	positive_hca	1000	0	1000	0	0
+HepaRG	6	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	6	tested	positive_hca	1000	0	1000	0	0
+MCF-7	6	tested	positive_hca	1000	0	1000	0	0
+TK6	6	tested	positive_hca	1000	0	1000	0	0
+HepaRG	7	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	7	tested	positive_hca	1000	0	1000	0	0
+MCF-7	7	tested	positive_hca	1000	0	1000	0	0
+TK6	7	tested	positive_hca	1000	0	1000	0	0
+HepaRG	8	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	8	tested	positive_hca	1000	0	1000	0	0
+MCF-7	8	tested	positive_hca	1000	0	1000	0	0
+TK6	8	tested	positive_hca	1000	0	1000	0	0
+HepaRG	9	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	9	tested	positive_hca	1000	0	1000	0	0
+MCF-7	9	tested	positive_hca	1000	0	1000	0	0
+TK6	9	tested	positive_hca	1000	0	1000	0	0
+HepaRG	10	tested	positive_hca	1000	0	1000	0	0
+Liver spheroids	10	tested	positive_hca	1000	0	1000	0	0
+MCF-7	10	tested	positive_hca	1000	0	1000	0	0
+TK6	10	tested	positive_hca	1000	0	1000	0	0
+HepaRG	3	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	3	bh_eligible	positive_any_component	1000	11	989	0	0
+MCF-7	3	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	3	bh_eligible	positive_any_component	1000	1	999	0	0
+HepaRG	4	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	4	bh_eligible	positive_any_component	1000	3	997	0	0
+MCF-7	4	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	4	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	5	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	5	bh_eligible	positive_any_component	1000	2	998	0	0
+MCF-7	5	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	5	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	6	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	6	bh_eligible	positive_any_component	1000	0	1000	0	0
+MCF-7	6	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	6	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	7	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	7	bh_eligible	positive_any_component	1000	0	1000	0	0
+MCF-7	7	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	7	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	8	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	8	bh_eligible	positive_any_component	1000	0	1000	0	0
+MCF-7	8	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	8	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	9	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	9	bh_eligible	positive_any_component	1000	0	1000	0	0
+MCF-7	9	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	9	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	10	bh_eligible	positive_any_component	1000	0	1000	0	0
+Liver spheroids	10	bh_eligible	positive_any_component	1000	0	1000	0	0
+MCF-7	10	bh_eligible	positive_any_component	1000	0	1000	0	0
+TK6	10	bh_eligible	positive_any_component	1000	0	1000	0	0
+HepaRG	3	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	3	detected	positive_any_component	1000	11	989	0	0
+MCF-7	3	detected	positive_any_component	1000	0	1000	0	0
+TK6	3	detected	positive_any_component	1000	1	999	0	0
+HepaRG	4	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	4	detected	positive_any_component	1000	3	997	0	0
+MCF-7	4	detected	positive_any_component	1000	0	1000	0	0
+TK6	4	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	5	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	5	detected	positive_any_component	1000	2	998	0	0
+MCF-7	5	detected	positive_any_component	1000	0	1000	0	0
+TK6	5	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	6	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	6	detected	positive_any_component	1000	0	1000	0	0
+MCF-7	6	detected	positive_any_component	1000	0	1000	0	0
+TK6	6	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	7	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	7	detected	positive_any_component	1000	0	1000	0	0
+MCF-7	7	detected	positive_any_component	1000	0	1000	0	0
+TK6	7	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	8	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	8	detected	positive_any_component	1000	0	1000	0	0
+MCF-7	8	detected	positive_any_component	1000	0	1000	0	0
+TK6	8	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	9	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	9	detected	positive_any_component	1000	0	1000	0	0
+MCF-7	9	detected	positive_any_component	1000	0	1000	0	0
+TK6	9	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	10	detected	positive_any_component	1000	0	1000	0	0
+Liver spheroids	10	detected	positive_any_component	1000	0	1000	0	0
+MCF-7	10	detected	positive_any_component	1000	0	1000	0	0
+TK6	10	detected	positive_any_component	1000	0	1000	0	0
+HepaRG	3	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	3	final	positive_any_component	1000	0	9	11	980
+MCF-7	3	final	positive_any_component	1000	0	42	0	958
+TK6	3	final	positive_any_component	1000	1	32	0	967
+HepaRG	4	final	positive_any_component	1000	0	1	0	999
+Liver spheroids	4	final	positive_any_component	1000	0	3	3	994
+MCF-7	4	final	positive_any_component	1000	0	20	0	980
+TK6	4	final	positive_any_component	1000	0	23	0	977
+HepaRG	5	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	5	final	positive_any_component	1000	0	0	2	998
+MCF-7	5	final	positive_any_component	1000	0	16	0	984
+TK6	5	final	positive_any_component	1000	0	19	0	981
+HepaRG	6	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	6	final	positive_any_component	1000	0	1	0	999
+MCF-7	6	final	positive_any_component	1000	0	6	0	994
+TK6	6	final	positive_any_component	1000	0	15	0	985
+HepaRG	7	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	7	final	positive_any_component	1000	0	0	0	1000
+MCF-7	7	final	positive_any_component	1000	0	4	0	996
+TK6	7	final	positive_any_component	1000	0	19	0	981
+HepaRG	8	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	8	final	positive_any_component	1000	0	0	0	1000
+MCF-7	8	final	positive_any_component	1000	0	3	0	997
+TK6	8	final	positive_any_component	1000	0	10	0	990
+HepaRG	9	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	9	final	positive_any_component	1000	0	0	0	1000
+MCF-7	9	final	positive_any_component	1000	0	0	0	1000
+TK6	9	final	positive_any_component	1000	0	9	0	991
+HepaRG	10	final	positive_any_component	1000	0	0	0	1000
+Liver spheroids	10	final	positive_any_component	1000	0	0	0	1000
+MCF-7	10	final	positive_any_component	1000	0	0	0	1000
+TK6	10	final	positive_any_component	1000	0	12	0	988
+HepaRG	3	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	3	initial	positive_any_component	1000	11	989	0	0
+MCF-7	3	initial	positive_any_component	1000	0	1000	0	0
+TK6	3	initial	positive_any_component	1000	1	999	0	0
+HepaRG	4	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	4	initial	positive_any_component	1000	3	997	0	0
+MCF-7	4	initial	positive_any_component	1000	0	1000	0	0
+TK6	4	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	5	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	5	initial	positive_any_component	1000	2	998	0	0
+MCF-7	5	initial	positive_any_component	1000	0	1000	0	0
+TK6	5	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	6	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	6	initial	positive_any_component	1000	0	1000	0	0
+MCF-7	6	initial	positive_any_component	1000	0	1000	0	0
+TK6	6	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	7	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	7	initial	positive_any_component	1000	0	1000	0	0
+MCF-7	7	initial	positive_any_component	1000	0	1000	0	0
+TK6	7	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	8	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	8	initial	positive_any_component	1000	0	1000	0	0
+MCF-7	8	initial	positive_any_component	1000	0	1000	0	0
+TK6	8	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	9	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	9	initial	positive_any_component	1000	0	1000	0	0
+MCF-7	9	initial	positive_any_component	1000	0	1000	0	0
+TK6	9	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	10	initial	positive_any_component	1000	0	1000	0	0
+Liver spheroids	10	initial	positive_any_component	1000	0	1000	0	0
+MCF-7	10	initial	positive_any_component	1000	0	1000	0	0
+TK6	10	initial	positive_any_component	1000	0	1000	0	0
+HepaRG	3	quantile	positive_any_component	1000	0	25	0	975
+Liver spheroids	3	quantile	positive_any_component	1000	0	48	11	941
+MCF-7	3	quantile	positive_any_component	1000	0	96	0	904
+TK6	3	quantile	positive_any_component	1000	1	48	0	951
+HepaRG	4	quantile	positive_any_component	1000	0	26	0	974
+Liver spheroids	4	quantile	positive_any_component	1000	0	48	3	949
+MCF-7	4	quantile	positive_any_component	1000	0	68	0	932
+TK6	4	quantile	positive_any_component	1000	0	43	0	957
+HepaRG	5	quantile	positive_any_component	1000	0	22	0	978
+Liver spheroids	5	quantile	positive_any_component	1000	0	14	2	984
+MCF-7	5	quantile	positive_any_component	1000	0	71	0	929
+TK6	5	quantile	positive_any_component	1000	0	35	0	965
+HepaRG	6	quantile	positive_any_component	1000	0	19	0	981
+Liver spheroids	6	quantile	positive_any_component	1000	0	28	0	972
+MCF-7	6	quantile	positive_any_component	1000	0	47	0	953
+TK6	6	quantile	positive_any_component	1000	0	29	0	971
+HepaRG	7	quantile	positive_any_component	1000	0	12	0	988
+Liver spheroids	7	quantile	positive_any_component	1000	0	15	0	985
+MCF-7	7	quantile	positive_any_component	1000	0	41	0	959
+TK6	7	quantile	positive_any_component	1000	0	46	0	954
+HepaRG	8	quantile	positive_any_component	1000	0	24	0	976
+Liver spheroids	8	quantile	positive_any_component	1000	0	20	0	980
+MCF-7	8	quantile	positive_any_component	1000	0	38	0	962
+TK6	8	quantile	positive_any_component	1000	0	32	0	968
+HepaRG	9	quantile	positive_any_component	1000	0	7	0	993
+Liver spheroids	9	quantile	positive_any_component	1000	0	14	0	986
+MCF-7	9	quantile	positive_any_component	1000	0	30	0	970
+TK6	9	quantile	positive_any_component	1000	0	43	0	957
+HepaRG	10	quantile	positive_any_component	1000	0	11	0	989
+Liver spheroids	10	quantile	positive_any_component	1000	0	18	0	982
+MCF-7	10	quantile	positive_any_component	1000	0	33	0	967
+TK6	10	quantile	positive_any_component	1000	0	29	0	971
+HepaRG	3	quantile_spike	positive_any_component	1000	0	25	0	975
+Liver spheroids	3	quantile_spike	positive_any_component	1000	0	48	11	941
+MCF-7	3	quantile_spike	positive_any_component	1000	0	96	0	904
+TK6	3	quantile_spike	positive_any_component	1000	1	48	0	951
+HepaRG	4	quantile_spike	positive_any_component	1000	0	26	0	974
+Liver spheroids	4	quantile_spike	positive_any_component	1000	0	48	3	949
+MCF-7	4	quantile_spike	positive_any_component	1000	0	68	0	932
+TK6	4	quantile_spike	positive_any_component	1000	0	43	0	957
+HepaRG	5	quantile_spike	positive_any_component	1000	0	22	0	978
+Liver spheroids	5	quantile_spike	positive_any_component	1000	0	14	2	984
+MCF-7	5	quantile_spike	positive_any_component	1000	0	71	0	929
+TK6	5	quantile_spike	positive_any_component	1000	0	35	0	965
+HepaRG	6	quantile_spike	positive_any_component	1000	0	19	0	981
+Liver spheroids	6	quantile_spike	positive_any_component	1000	0	28	0	972
+MCF-7	6	quantile_spike	positive_any_component	1000	0	47	0	953
+TK6	6	quantile_spike	positive_any_component	1000	0	29	0	971
+HepaRG	7	quantile_spike	positive_any_component	1000	0	12	0	988
+Liver spheroids	7	quantile_spike	positive_any_component	1000	0	15	0	985
+MCF-7	7	quantile_spike	positive_any_component	1000	0	41	0	959
+TK6	7	quantile_spike	positive_any_component	1000	0	46	0	954
+HepaRG	8	quantile_spike	positive_any_component	1000	0	24	0	976
+Liver spheroids	8	quantile_spike	positive_any_component	1000	0	20	0	980
+MCF-7	8	quantile_spike	positive_any_component	1000	0	38	0	962
+TK6	8	quantile_spike	positive_any_component	1000	0	32	0	968
+HepaRG	9	quantile_spike	positive_any_component	1000	0	7	0	993
+Liver spheroids	9	quantile_spike	positive_any_component	1000	0	14	0	986
+MCF-7	9	quantile_spike	positive_any_component	1000	0	30	0	970
+TK6	9	quantile_spike	positive_any_component	1000	0	43	0	957
+HepaRG	10	quantile_spike	positive_any_component	1000	0	11	0	989
+Liver spheroids	10	quantile_spike	positive_any_component	1000	0	18	0	982
+MCF-7	10	quantile_spike	positive_any_component	1000	0	33	0	967
+TK6	10	quantile_spike	positive_any_component	1000	0	29	0	971
+HepaRG	3	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	3	relevance	positive_any_component	1000	11	989	0	0
+MCF-7	3	relevance	positive_any_component	1000	0	1000	0	0
+TK6	3	relevance	positive_any_component	1000	1	999	0	0
+HepaRG	4	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	4	relevance	positive_any_component	1000	3	997	0	0
+MCF-7	4	relevance	positive_any_component	1000	0	1000	0	0
+TK6	4	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	5	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	5	relevance	positive_any_component	1000	2	998	0	0
+MCF-7	5	relevance	positive_any_component	1000	0	1000	0	0
+TK6	5	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	6	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	6	relevance	positive_any_component	1000	0	1000	0	0
+MCF-7	6	relevance	positive_any_component	1000	0	1000	0	0
+TK6	6	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	7	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	7	relevance	positive_any_component	1000	0	1000	0	0
+MCF-7	7	relevance	positive_any_component	1000	0	1000	0	0
+TK6	7	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	8	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	8	relevance	positive_any_component	1000	0	1000	0	0
+MCF-7	8	relevance	positive_any_component	1000	0	1000	0	0
+TK6	8	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	9	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	9	relevance	positive_any_component	1000	0	1000	0	0
+MCF-7	9	relevance	positive_any_component	1000	0	1000	0	0
+TK6	9	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	10	relevance	positive_any_component	1000	0	1000	0	0
+Liver spheroids	10	relevance	positive_any_component	1000	0	1000	0	0
+MCF-7	10	relevance	positive_any_component	1000	0	1000	0	0
+TK6	10	relevance	positive_any_component	1000	0	1000	0	0
+HepaRG	3	significant	positive_any_component	1000	0	25	0	975
+Liver spheroids	3	significant	positive_any_component	1000	0	48	11	941
+MCF-7	3	significant	positive_any_component	1000	0	96	0	904
+TK6	3	significant	positive_any_component	1000	1	48	0	951
+HepaRG	4	significant	positive_any_component	1000	0	26	0	974
+Liver spheroids	4	significant	positive_any_component	1000	0	48	3	949
+MCF-7	4	significant	positive_any_component	1000	0	68	0	932
+TK6	4	significant	positive_any_component	1000	0	43	0	957
+HepaRG	5	significant	positive_any_component	1000	0	22	0	978
+Liver spheroids	5	significant	positive_any_component	1000	0	14	2	984
+MCF-7	5	significant	positive_any_component	1000	0	71	0	929
+TK6	5	significant	positive_any_component	1000	0	35	0	965
+HepaRG	6	significant	positive_any_component	1000	0	19	0	981
+Liver spheroids	6	significant	positive_any_component	1000	0	28	0	972
+MCF-7	6	significant	positive_any_component	1000	0	47	0	953
+TK6	6	significant	positive_any_component	1000	0	29	0	971
+HepaRG	7	significant	positive_any_component	1000	0	12	0	988
+Liver spheroids	7	significant	positive_any_component	1000	0	15	0	985
+MCF-7	7	significant	positive_any_component	1000	0	41	0	959
+TK6	7	significant	positive_any_component	1000	0	46	0	954
+HepaRG	8	significant	positive_any_component	1000	0	24	0	976
+Liver spheroids	8	significant	positive_any_component	1000	0	20	0	980
+MCF-7	8	significant	positive_any_component	1000	0	38	0	962
+TK6	8	significant	positive_any_component	1000	0	32	0	968
+HepaRG	9	significant	positive_any_component	1000	0	7	0	993
+Liver spheroids	9	significant	positive_any_component	1000	0	14	0	986
+MCF-7	9	significant	positive_any_component	1000	0	30	0	970
+TK6	9	significant	positive_any_component	1000	0	43	0	957
+HepaRG	10	significant	positive_any_component	1000	0	11	0	989
+Liver spheroids	10	significant	positive_any_component	1000	0	18	0	982
+MCF-7	10	significant	positive_any_component	1000	0	33	0	967
+TK6	10	significant	positive_any_component	1000	0	29	0	971
+HepaRG	3	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	3	significant_fc	positive_any_component	1000	0	9	11	980
+MCF-7	3	significant_fc	positive_any_component	1000	0	42	0	958
+TK6	3	significant_fc	positive_any_component	1000	1	32	0	967
+HepaRG	4	significant_fc	positive_any_component	1000	0	1	0	999
+Liver spheroids	4	significant_fc	positive_any_component	1000	0	3	3	994
+MCF-7	4	significant_fc	positive_any_component	1000	0	20	0	980
+TK6	4	significant_fc	positive_any_component	1000	0	23	0	977
+HepaRG	5	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	5	significant_fc	positive_any_component	1000	0	0	2	998
+MCF-7	5	significant_fc	positive_any_component	1000	0	16	0	984
+TK6	5	significant_fc	positive_any_component	1000	0	19	0	981
+HepaRG	6	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	6	significant_fc	positive_any_component	1000	0	1	0	999
+MCF-7	6	significant_fc	positive_any_component	1000	0	6	0	994
+TK6	6	significant_fc	positive_any_component	1000	0	15	0	985
+HepaRG	7	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	7	significant_fc	positive_any_component	1000	0	0	0	1000
+MCF-7	7	significant_fc	positive_any_component	1000	0	4	0	996
+TK6	7	significant_fc	positive_any_component	1000	0	19	0	981
+HepaRG	8	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	8	significant_fc	positive_any_component	1000	0	0	0	1000
+MCF-7	8	significant_fc	positive_any_component	1000	0	3	0	997
+TK6	8	significant_fc	positive_any_component	1000	0	10	0	990
+HepaRG	9	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	9	significant_fc	positive_any_component	1000	0	0	0	1000
+MCF-7	9	significant_fc	positive_any_component	1000	0	0	0	1000
+TK6	9	significant_fc	positive_any_component	1000	0	9	0	991
+HepaRG	10	significant_fc	positive_any_component	1000	0	0	0	1000
+Liver spheroids	10	significant_fc	positive_any_component	1000	0	0	0	1000
+MCF-7	10	significant_fc	positive_any_component	1000	0	0	0	1000
+TK6	10	significant_fc	positive_any_component	1000	0	12	0	988
+HepaRG	3	spike	positive_any_component	1000	0	25	0	975
+Liver spheroids	3	spike	positive_any_component	1000	0	48	11	941
+MCF-7	3	spike	positive_any_component	1000	0	96	0	904
+TK6	3	spike	positive_any_component	1000	1	48	0	951
+HepaRG	4	spike	positive_any_component	1000	0	26	0	974
+Liver spheroids	4	spike	positive_any_component	1000	0	48	3	949
+MCF-7	4	spike	positive_any_component	1000	0	68	0	932
+TK6	4	spike	positive_any_component	1000	0	43	0	957
+HepaRG	5	spike	positive_any_component	1000	0	22	0	978
+Liver spheroids	5	spike	positive_any_component	1000	0	14	2	984
+MCF-7	5	spike	positive_any_component	1000	0	71	0	929
+TK6	5	spike	positive_any_component	1000	0	35	0	965
+HepaRG	6	spike	positive_any_component	1000	0	19	0	981
+Liver spheroids	6	spike	positive_any_component	1000	0	28	0	972
+MCF-7	6	spike	positive_any_component	1000	0	47	0	953
+TK6	6	spike	positive_any_component	1000	0	29	0	971
+HepaRG	7	spike	positive_any_component	1000	0	12	0	988
+Liver spheroids	7	spike	positive_any_component	1000	0	15	0	985
+MCF-7	7	spike	positive_any_component	1000	0	41	0	959
+TK6	7	spike	positive_any_component	1000	0	46	0	954
+HepaRG	8	spike	positive_any_component	1000	0	24	0	976
+Liver spheroids	8	spike	positive_any_component	1000	0	20	0	980
+MCF-7	8	spike	positive_any_component	1000	0	38	0	962
+TK6	8	spike	positive_any_component	1000	0	32	0	968
+HepaRG	9	spike	positive_any_component	1000	0	7	0	993
+Liver spheroids	9	spike	positive_any_component	1000	0	14	0	986
+MCF-7	9	spike	positive_any_component	1000	0	30	0	970
+TK6	9	spike	positive_any_component	1000	0	43	0	957
+HepaRG	10	spike	positive_any_component	1000	0	11	0	989
+Liver spheroids	10	spike	positive_any_component	1000	0	18	0	982
+MCF-7	10	spike	positive_any_component	1000	0	33	0	967
+TK6	10	spike	positive_any_component	1000	0	29	0	971
+HepaRG	3	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	3	tested	positive_any_component	1000	11	989	0	0
+MCF-7	3	tested	positive_any_component	1000	0	1000	0	0
+TK6	3	tested	positive_any_component	1000	1	999	0	0
+HepaRG	4	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	4	tested	positive_any_component	1000	3	997	0	0
+MCF-7	4	tested	positive_any_component	1000	0	1000	0	0
+TK6	4	tested	positive_any_component	1000	0	1000	0	0
+HepaRG	5	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	5	tested	positive_any_component	1000	2	998	0	0
+MCF-7	5	tested	positive_any_component	1000	0	1000	0	0
+TK6	5	tested	positive_any_component	1000	0	1000	0	0
+HepaRG	6	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	6	tested	positive_any_component	1000	0	1000	0	0
+MCF-7	6	tested	positive_any_component	1000	0	1000	0	0
+TK6	6	tested	positive_any_component	1000	0	1000	0	0
+HepaRG	7	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	7	tested	positive_any_component	1000	0	1000	0	0
+MCF-7	7	tested	positive_any_component	1000	0	1000	0	0
+TK6	7	tested	positive_any_component	1000	0	1000	0	0
+HepaRG	8	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	8	tested	positive_any_component	1000	0	1000	0	0
+MCF-7	8	tested	positive_any_component	1000	0	1000	0	0
+TK6	8	tested	positive_any_component	1000	0	1000	0	0
+HepaRG	9	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	9	tested	positive_any_component	1000	0	1000	0	0
+MCF-7	9	tested	positive_any_component	1000	0	1000	0	0
+TK6	9	tested	positive_any_component	1000	0	1000	0	0
+HepaRG	10	tested	positive_any_component	1000	0	1000	0	0
+Liver spheroids	10	tested	positive_any_component	1000	0	1000	0	0
+MCF-7	10	tested	positive_any_component	1000	0	1000	0	0
+TK6	10	tested	positive_any_component	1000	0	1000	0	0

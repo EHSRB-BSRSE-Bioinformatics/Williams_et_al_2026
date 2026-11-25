@@ -1,0 +1,97 @@
+cell	n	stage	trials	positive_trials	total_degs	mean_degs	median_all_trials	q25_all_trials	q75_all_trials	median_positive_trials	q25_positive_trials	q75_positive_trials	max_degs
+TK6	3	P-value filter only	1000	198	69850	69.85	0	0	0	37.5	2	203.75	4427
+MCF-7	3	P-value filter only	1000	237	65607	65.607	0	0	0	42	4	243	3088
+HepaRG	3	P-value filter only	1000	232	7794	7.794	0	0	0	14.5	1.75	38.25	415
+Liver spheroids	3	P-value filter only	1000	437	27421	27.421	0	0	2	3	1	15	2636
+TK6	4	P-value filter only	1000	137	49587	49.587	0	0	0	12	1	263	4681
+MCF-7	4	P-value filter only	1000	159	61231	61.231	0	0	0	37	2.5	413.5	3756
+HepaRG	4	P-value filter only	1000	183	5598	5.598	0	0	0	5	1	28	441
+Liver spheroids	4	P-value filter only	1000	350	23052	23.052	0	0	1	2	1	16	1594
+TK6	5	P-value filter only	1000	127	41271	41.271	0	0	0	16	1	392	4740
+MCF-7	5	P-value filter only	1000	154	64327	64.327	0	0	0	35.5	4	448	3846
+HepaRG	5	P-value filter only	1000	153	5294	5.294	0	0	0	13	1	42	311
+Liver spheroids	5	P-value filter only	1000	246	9638	9.638	0	0	0	2	1	7	2132
+TK6	6	P-value filter only	1000	120	38607	38.607	0	0	0	4.5	1	207.75	2930
+MCF-7	6	P-value filter only	1000	127	44532	44.532	0	0	0	25	2	302.5	3315
+HepaRG	6	P-value filter only	1000	142	3718	3.718	0	0	0	9	1	33.25	209
+Liver spheroids	6	P-value filter only	1000	239	11144	11.144	0	0	0	2	1	7.5	2869
+TK6	7	P-value filter only	1000	146	65846	65.846	0	0	0	8	1	560.5	3937
+MCF-7	7	P-value filter only	1000	115	36356	36.356	0	0	0	14	2	284	4027
+HepaRG	7	P-value filter only	1000	146	3864	3.864	0	0	0	2	1	20.75	703
+Liver spheroids	7	P-value filter only	1000	191	11142	11.142	0	0	0	2	1	5	1814
+TK6	8	P-value filter only	1000	114	49924	49.924	0	0	0	4	1	381.5	4023
+MCF-7	8	P-value filter only	1000	100	34459	34.459	0	0	0	25	2	372.75	4384
+HepaRG	8	P-value filter only	1000	126	4090	4.09	0	0	0	3	1	28	447
+Liver spheroids	8	P-value filter only	1000	170	13358	13.358	0	0	0	1	1	5.75	1850
+TK6	9	P-value filter only	1000	123	54868	54.868	0	0	0	5	1	613	3120
+MCF-7	9	P-value filter only	1000	86	23188	23.188	0	0	0	18	1	184.5	2486
+HepaRG	9	P-value filter only	1000	127	1868	1.868	0	0	0	1	1	4.5	314
+Liver spheroids	9	P-value filter only	1000	164	8585	8.585	0	0	0	1	1	5	1340
+TK6	10	P-value filter only	1000	109	48759	48.759	0	0	0	6	1	469	4449
+MCF-7	10	P-value filter only	1000	109	29846	29.846	0	0	0	4	1	188	4406
+HepaRG	10	P-value filter only	1000	100	4113	4.113	0	0	0	2	1	19	742
+Liver spheroids	10	P-value filter only	1000	149	6848	6.848	0	0	0	1	1	4	1974
+TK6	3	P-value + fold-change	1000	149	49695	49.695	0	0	0	61	7	241	3395
+MCF-7	3	P-value + fold-change	1000	154	10568	10.568	0	0	0	6	2	37.25	1337
+HepaRG	3	P-value + fold-change	1000	87	637	0.637	0	0	0	4	1	7	55
+Liver spheroids	3	P-value + fold-change	1000	244	4537	4.537	0	0	0	2	1	6	1193
+TK6	4	P-value + fold-change	1000	97	26337	26.337	0	0	0	34	2	317	3141
+MCF-7	4	P-value + fold-change	1000	75	6536	6.536	0	0	0	6	2	57.5	1468
+HepaRG	4	P-value + fold-change	1000	48	299	0.299	0	0	0	2	1	4	96
+Liver spheroids	4	P-value + fold-change	1000	174	1659	1.659	0	0	0	2	1	4	269
+TK6	5	P-value + fold-change	1000	88	17877	17.877	0	0	0	25.5	3	294.5	2397
+MCF-7	5	P-value + fold-change	1000	61	3063	3.063	0	0	0	4	1	16	698
+HepaRG	5	P-value + fold-change	1000	30	98	0.098	0	0	0	1.5	1	3	23
+Liver spheroids	5	P-value + fold-change	1000	123	589	0.589	0	0	0	2	1	3	221
+TK6	6	P-value + fold-change	1000	80	11484	11.484	0	0	0	11.5	2	129.75	1187
+MCF-7	6	P-value + fold-change	1000	38	906	0.906	0	0	0	3	1	14.5	214
+HepaRG	6	P-value + fold-change	1000	27	56	0.056	0	0	0	1	1	2.5	9
+Liver spheroids	6	P-value + fold-change	1000	111	934	0.934	0	0	0	1	1	2	416
+TK6	7	P-value + fold-change	1000	88	17742	17.742	0	0	0	35	2.75	217	1484
+MCF-7	7	P-value + fold-change	1000	23	623	0.623	0	0	0	1	1	4.5	297
+HepaRG	7	P-value + fold-change	1000	17	31	0.031	0	0	0	1	1	1	8
+Liver spheroids	7	P-value + fold-change	1000	69	171	0.171	0	0	0	1	1	2	40
+TK6	8	P-value + fold-change	1000	65	11819	11.819	0	0	0	27	3	147	1610
+MCF-7	8	P-value + fold-change	1000	17	428	0.428	0	0	0	10	1	24	173
+HepaRG	8	P-value + fold-change	1000	18	27	0.027	0	0	0	1	1	1	10
+Liver spheroids	8	P-value + fold-change	1000	64	134	0.134	0	0	0	1	1	2	13
+TK6	9	P-value + fold-change	1000	80	11109	11.109	0	0	0	41.5	2	208	997
+MCF-7	9	P-value + fold-change	1000	12	36	0.036	0	0	0	1.5	1	2.25	18
+HepaRG	9	P-value + fold-change	1000	12	13	0.013	0	0	0	1	1	1	2
+Liver spheroids	9	P-value + fold-change	1000	50	98	0.098	0	0	0	1	1	3	15
+TK6	10	P-value + fold-change	1000	73	9453	9.453	0	0	0	14	1	163	1054
+MCF-7	10	P-value + fold-change	1000	9	128	0.128	0	0	0	3	1	18	74
+HepaRG	10	P-value + fold-change	1000	9	13	0.013	0	0	0	1	1	2	3
+Liver spheroids	10	P-value + fold-change	1000	39	66	0.066	0	0	0	1	1	1.5	6
+TK6	3	Final DEGs	1000	149	49600	49.6	0	0	0	61	7	240	3393
+MCF-7	3	Final DEGs	1000	154	10568	10.568	0	0	0	6	2	37.25	1337
+HepaRG	3	Final DEGs	1000	87	637	0.637	0	0	0	4	1	7	55
+Liver spheroids	3	Final DEGs	1000	244	4535	4.535	0	0	0	2	1	6	1192
+TK6	4	Final DEGs	1000	97	26227	26.227	0	0	0	31	2	315	3138
+MCF-7	4	Final DEGs	1000	75	6536	6.536	0	0	0	6	2	57.5	1468
+HepaRG	4	Final DEGs	1000	48	299	0.299	0	0	0	2	1	4	96
+Liver spheroids	4	Final DEGs	1000	173	1657	1.657	0	0	0	2	1	4	269
+TK6	5	Final DEGs	1000	88	17784	17.784	0	0	0	25	3	294	2391
+MCF-7	5	Final DEGs	1000	61	3063	3.063	0	0	0	4	1	16	698
+HepaRG	5	Final DEGs	1000	30	98	0.098	0	0	0	1.5	1	3	23
+Liver spheroids	5	Final DEGs	1000	122	573	0.573	0	0	0	2	1	3	221
+TK6	6	Final DEGs	1000	79	11412	11.412	0	0	0	12	2	134.5	1175
+MCF-7	6	Final DEGs	1000	38	906	0.906	0	0	0	3	1	14.5	214
+HepaRG	6	Final DEGs	1000	27	56	0.056	0	0	0	1	1	2.5	9
+Liver spheroids	6	Final DEGs	1000	109	927	0.927	0	0	0	1	1	2	416
+TK6	7	Final DEGs	1000	86	17554	17.554	0	0	0	40	6	232	1470
+MCF-7	7	Final DEGs	1000	23	623	0.623	0	0	0	1	1	4.5	297
+HepaRG	7	Final DEGs	1000	17	31	0.031	0	0	0	1	1	1	8
+Liver spheroids	7	Final DEGs	1000	68	169	0.169	0	0	0	1	1	2	40
+TK6	8	Final DEGs	1000	63	11639	11.639	0	0	0	27	3	143	1595
+MCF-7	8	Final DEGs	1000	17	428	0.428	0	0	0	10	1	24	173
+HepaRG	8	Final DEGs	1000	18	27	0.027	0	0	0	1	1	1	10
+Liver spheroids	8	Final DEGs	1000	62	128	0.128	0	0	0	1	1	2	13
+TK6	9	Final DEGs	1000	74	10642	10.642	0	0	0	63	2	202.75	974
+MCF-7	9	Final DEGs	1000	11	35	0.035	0	0	0	2	1	2.5	18
+HepaRG	9	Final DEGs	1000	12	13	0.013	0	0	0	1	1	1	2
+Liver spheroids	9	Final DEGs	1000	49	97	0.097	0	0	0	1	1	3	15
+TK6	10	Final DEGs	1000	70	9209	9.209	0	0	0	27	1	163	1047
+MCF-7	10	Final DEGs	1000	9	128	0.128	0	0	0	3	1	18	74
+HepaRG	10	Final DEGs	1000	9	13	0.013	0	0	0	1	1	2	3
+Liver spheroids	10	Final DEGs	1000	33	59	0.059	0	0	0	1	1	2	6

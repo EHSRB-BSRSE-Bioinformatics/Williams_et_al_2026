@@ -1,0 +1,18 @@
+trial_name	reason	archive_file	tested_features	significant_features	final_degs
+TK6_3_3_1	first n=3 trial	tk6.RDS	11345	0	0
+TK6_10_10_1	first n=10 trial	tk6.RDS	11291	0	0
+TK6_3_3_6	nonzero final DEGs	tk6.RDS	11382	1	1
+TK6_4_4_863	quantile rejection	tk6.RDS	12012	2420	1050
+TK6_3_3_15	spike rejection	tk6.RDS	11446	2785	2122
+MCF-7_3_3_1	first n=3 trial	mcf7.RDS	13788	41	6
+MCF-7_10_10_1	first n=10 trial	mcf7.RDS	13606	0	0
+MCF-7_5_5_159	quantile rejection	mcf7.RDS	13934	3380	385
+MCF-7_5_5_421	spike rejection	mcf7.RDS	13911	23	7
+HepaRG_3_3_1	first n=3 trial	heparg.RDS	14425	5	1
+HepaRG_10_10_1	first n=10 trial	heparg.RDS	14327	0	0
+HepaRG_10_10_78	quantile rejection	heparg.RDS	14283	742	3
+Liver spheroids_3_3_1	first n=3 trial	spheroids.RDS	13703	1	0
+Liver spheroids_10_10_1	first n=10 trial	spheroids.RDS	13459	0	0
+Liver spheroids_3_3_12	nonzero final DEGs	spheroids.RDS	13570	412	21
+Liver spheroids_4_4_380	quantile rejection	spheroids.RDS	14557	804	25
+Liver spheroids_3_3_334	spike rejection	spheroids.RDS	13336	3	2

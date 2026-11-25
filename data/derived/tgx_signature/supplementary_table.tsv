@@ -1,0 +1,33 @@
+cell	n	stage	trials	signature_positive_trials	signature_trial_rate	strict_probe_trial_rate	whole_positive_trials	whole_trial_rate	genes_min	genes_median	genes_mean	genes_max	classifier_positive_trials	joint_signature_classifier	signature_only	classifier_only	neither
+HepaRG	3	final	1000	0	0	0	87	0.087	0	0	0	0	0	0	0	0	1000
+HepaRG	4	final	1000	1	0.001	0.001	48	0.048	0	0	0.002	2	0	0	1	0	999
+HepaRG	5	final	1000	0	0	0	30	0.03	0	0	0	0	0	0	0	0	1000
+HepaRG	6	final	1000	0	0	0	27	0.027	0	0	0	0	0	0	0	0	1000
+HepaRG	7	final	1000	0	0	0	17	0.017	0	0	0	0	0	0	0	0	1000
+HepaRG	8	final	1000	0	0	0	18	0.018	0	0	0	0	0	0	0	0	1000
+HepaRG	9	final	1000	0	0	0	12	0.012	0	0	0	0	0	0	0	0	1000
+HepaRG	10	final	1000	0	0	0	9	0.009	0	0	0	0	0	0	0	0	1000
+Liver spheroids	3	final	1000	9	0.009	0.009	244	0.244	0	0	0.018	9	11	0	9	11	980
+Liver spheroids	4	final	1000	3	0.003	0.003	173	0.173	0	0	0.004	2	3	0	3	3	994
+Liver spheroids	5	final	1000	0	0	0	122	0.122	0	0	0	0	2	0	0	2	998
+Liver spheroids	6	final	1000	1	0.001	0.001	109	0.109	0	0	0.003	3	0	0	1	0	999
+Liver spheroids	7	final	1000	0	0	0	68	0.068	0	0	0	0	0	0	0	0	1000
+Liver spheroids	8	final	1000	0	0	0	62	0.062	0	0	0	0	0	0	0	0	1000
+Liver spheroids	9	final	1000	0	0	0	49	0.049	0	0	0	0	0	0	0	0	1000
+Liver spheroids	10	final	1000	0	0	0	33	0.033	0	0	0	0	0	0	0	0	1000
+MCF-7	3	final	1000	42	0.042	0.042	154	0.154	0	0	0.092	8	0	0	42	0	958
+MCF-7	4	final	1000	20	0.02	0.02	75	0.075	0	0	0.064	9	0	0	20	0	980
+MCF-7	5	final	1000	16	0.016	0.016	61	0.061	0	0	0.029	5	0	0	16	0	984
+MCF-7	6	final	1000	6	0.006	0.006	38	0.038	0	0	0.013	4	0	0	6	0	994
+MCF-7	7	final	1000	4	0.004	0.004	23	0.023	0	0	0.009	4	0	0	4	0	996
+MCF-7	8	final	1000	3	0.003	0.003	17	0.017	0	0	0.006	3	0	0	3	0	997
+MCF-7	9	final	1000	0	0	0	11	0.011	0	0	0	0	0	0	0	0	1000
+MCF-7	10	final	1000	0	0	0	9	0.009	0	0	0	0	0	0	0	0	1000
+TK6	3	final	1000	33	0.033	0.033	149	0.149	0	0	0.203	18	1	1	32	0	967
+TK6	4	final	1000	23	0.023	0.023	97	0.097	0	0	0.089	12	0	0	23	0	977
+TK6	5	final	1000	19	0.019	0.019	88	0.088	0	0	0.054	10	0	0	19	0	981
+TK6	6	final	1000	15	0.015	0.015	79	0.079	0	0	0.021	4	0	0	15	0	985
+TK6	7	final	1000	19	0.019	0.019	86	0.086	0	0	0.04	5	0	0	19	0	981
+TK6	8	final	1000	10	0.01	0.01	63	0.063	0	0	0.03	6	0	0	10	0	990
+TK6	9	final	1000	9	0.009	0.009	74	0.074	0	0	0.011	2	0	0	9	0	991
+TK6	10	final	1000	12	0.012	0.012	70	0.07	0	0	0.021	6	0	0	12	0	988

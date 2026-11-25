@@ -1,0 +1,12 @@
+R version 4.2.3 (2023-03-15)
+x86_64-conda-linux-gnu (64-bit)
+Ubuntu 20.04.6 LTS
+BLAS: libopenblasp-r0.3.34.so
+LAPACK: libopenblasp-r0.3.34.so
+  package version
+ compiler   4.2.3
+   Matrix   1.6-5
+ parallel   4.2.3
+    tools   4.2.3
+     grid   4.2.3
+  lattice  0.22-6

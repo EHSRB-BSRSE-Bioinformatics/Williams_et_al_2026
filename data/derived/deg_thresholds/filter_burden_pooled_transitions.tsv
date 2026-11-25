@@ -1,0 +1,3 @@
+transition	trials	degs_before	degs_after	degs_removed	fraction_degs_removed	positive_before	positive_after	trials_with_reduction	reduced_still_positive	reduced_to_zero	unchanged_positive	unchanged_zero
+Adding FC > 1.5	32000	925785	187166	738619	0.797829949718347	5316	2231	4464	1379	3085	852	26684
+Adding quantile/spike	32000	187166	185673	1493	0.00797687614203434	2231	2202	337	308	29	1894	29769

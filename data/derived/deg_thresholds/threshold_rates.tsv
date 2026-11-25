@@ -1,0 +1,769 @@
+endpoint	cell	n	padj_cutoff	linear_fc	fc_label	threshold_id	positive_trials	trials	rate	total_degs	median_degs	max_degs
+screening	TK6	3	0.01	NA	none	p0.01_fcnone	140	1000	0.14	37237	0	3365
+screening	TK6	3	0.025	NA	none	p0.025_fcnone	169	1000	0.169	51208	0	3907
+screening	TK6	3	0.05	NA	none	p0.05_fcnone	198	1000	0.198	69850	0	4427
+screening	TK6	3	0.01	1.25	1.25	p0.01_fc1.25	127	1000	0.127	36967	0	3333
+screening	TK6	3	0.025	1.25	1.25	p0.025_fc1.25	146	1000	0.146	50578	0	3814
+screening	TK6	3	0.05	1.25	1.25	p0.05_fc1.25	160	1000	0.16	68241	0	4296
+screening	TK6	3	0.01	1.5	1.5	p0.01_fc1.5	119	1000	0.119	31287	0	2762
+screening	TK6	3	0.025	1.5	1.5	p0.025_fc1.5	136	1000	0.136	40510	0	3116
+screening	TK6	3	0.05	1.5	1.5	p0.05_fc1.5	149	1000	0.149	49695	0	3395
+screening	TK6	3	0.01	2	2.0	p0.01_fc2.0	114	1000	0.114	13832	0	1304
+screening	TK6	3	0.025	2	2.0	p0.025_fc2.0	129	1000	0.129	16099	0	1357
+screening	TK6	3	0.05	2	2.0	p0.05_fc2.0	138	1000	0.138	17025	0	1357
+screening	TK6	4	0.01	NA	none	p0.01_fcnone	95	1000	0.095	19153	0	3553
+screening	TK6	4	0.025	NA	none	p0.025_fcnone	113	1000	0.113	31885	0	4129
+screening	TK6	4	0.05	NA	none	p0.05_fcnone	137	1000	0.137	49587	0	4681
+screening	TK6	4	0.01	1.25	1.25	p0.01_fc1.25	83	1000	0.083	19066	0	3529
+screening	TK6	4	0.025	1.25	1.25	p0.025_fc1.25	94	1000	0.094	31523	0	4058
+screening	TK6	4	0.05	1.25	1.25	p0.05_fc1.25	113	1000	0.113	48108	0	4517
+screening	TK6	4	0.01	1.5	1.5	p0.01_fc1.5	73	1000	0.073	15443	0	2687
+screening	TK6	4	0.025	1.5	1.5	p0.025_fc1.5	83	1000	0.083	21946	0	2935
+screening	TK6	4	0.05	1.5	1.5	p0.05_fc1.5	97	1000	0.097	26337	0	3141
+screening	TK6	4	0.01	2	2.0	p0.01_fc2.0	66	1000	0.066	5739	0	1032
+screening	TK6	4	0.025	2	2.0	p0.025_fc2.0	71	1000	0.071	6598	0	1039
+screening	TK6	4	0.05	2	2.0	p0.05_fc2.0	83	1000	0.083	7020	0	1039
+screening	TK6	5	0.01	NA	none	p0.01_fcnone	70	1000	0.07	12466	0	3596
+screening	TK6	5	0.025	NA	none	p0.025_fcnone	97	1000	0.097	22763	0	4165
+screening	TK6	5	0.05	NA	none	p0.05_fcnone	127	1000	0.127	41271	0	4740
+screening	TK6	5	0.01	1.25	1.25	p0.01_fc1.25	61	1000	0.061	12092	0	3421
+screening	TK6	5	0.025	1.25	1.25	p0.025_fc1.25	85	1000	0.085	21994	0	3850
+screening	TK6	5	0.05	1.25	1.25	p0.05_fc1.25	101	1000	0.101	39546	0	4245
+screening	TK6	5	0.01	1.5	1.5	p0.01_fc1.5	55	1000	0.055	9055	0	2141
+screening	TK6	5	0.025	1.5	1.5	p0.025_fc1.5	74	1000	0.074	13977	0	2287
+screening	TK6	5	0.05	1.5	1.5	p0.05_fc1.5	88	1000	0.088	17877	0	2397
+screening	TK6	5	0.01	2	2.0	p0.01_fc2.0	53	1000	0.053	3576	0	697
+screening	TK6	5	0.025	2	2.0	p0.025_fc2.0	66	1000	0.066	4337	0	700
+screening	TK6	5	0.05	2	2.0	p0.05_fc2.0	77	1000	0.077	4620	0	700
+screening	TK6	6	0.01	NA	none	p0.01_fcnone	53	1000	0.053	9382	0	1144
+screening	TK6	6	0.025	NA	none	p0.025_fcnone	83	1000	0.083	20303	0	1993
+screening	TK6	6	0.05	NA	none	p0.05_fcnone	120	1000	0.12	38607	0	2930
+screening	TK6	6	0.01	1.25	1.25	p0.01_fc1.25	51	1000	0.051	9301	0	1142
+screening	TK6	6	0.025	1.25	1.25	p0.025_fc1.25	72	1000	0.072	19722	0	1972
+screening	TK6	6	0.05	1.25	1.25	p0.05_fc1.25	97	1000	0.097	35086	0	2804
+screening	TK6	6	0.01	1.5	1.5	p0.01_fc1.5	48	1000	0.048	6538	0	872
+screening	TK6	6	0.025	1.5	1.5	p0.025_fc1.5	66	1000	0.066	9439	0	1086
+screening	TK6	6	0.05	1.5	1.5	p0.05_fc1.5	80	1000	0.08	11484	0	1187
+screening	TK6	6	0.01	2	2.0	p0.01_fc2.0	39	1000	0.039	2614	0	375
+screening	TK6	6	0.025	2	2.0	p0.025_fc2.0	55	1000	0.055	3071	0	406
+screening	TK6	6	0.05	2	2.0	p0.05_fc2.0	66	1000	0.066	3313	0	406
+screening	TK6	7	0.01	NA	none	p0.01_fcnone	70	1000	0.07	18942	0	2040
+screening	TK6	7	0.025	NA	none	p0.025_fcnone	105	1000	0.105	37227	0	3062
+screening	TK6	7	0.05	NA	none	p0.05_fcnone	146	1000	0.146	65846	0	3937
+screening	TK6	7	0.01	1.25	1.25	p0.01_fc1.25	64	1000	0.064	18442	0	1950
+screening	TK6	7	0.025	1.25	1.25	p0.025_fc1.25	91	1000	0.091	35108	0	2764
+screening	TK6	7	0.05	1.25	1.25	p0.05_fc1.25	106	1000	0.106	57806	0	3332
+screening	TK6	7	0.01	1.5	1.5	p0.01_fc1.5	60	1000	0.06	11432	0	1154
+screening	TK6	7	0.025	1.5	1.5	p0.025_fc1.5	80	1000	0.08	15964	0	1381
+screening	TK6	7	0.05	1.5	1.5	p0.05_fc1.5	88	1000	0.088	17742	0	1484
+screening	TK6	7	0.01	2	2.0	p0.01_fc2.0	53	1000	0.053	4122	0	445
+screening	TK6	7	0.025	2	2.0	p0.025_fc2.0	71	1000	0.071	4639	0	475
+screening	TK6	7	0.05	2	2.0	p0.05_fc2.0	76	1000	0.076	4808	0	475
+screening	TK6	8	0.01	NA	none	p0.01_fcnone	51	1000	0.051	13354	0	2047
+screening	TK6	8	0.025	NA	none	p0.025_fcnone	78	1000	0.078	26657	0	3049
+screening	TK6	8	0.05	NA	none	p0.05_fcnone	114	1000	0.114	49924	0	4023
+screening	TK6	8	0.01	1.25	1.25	p0.01_fc1.25	48	1000	0.048	13072	0	2021
+screening	TK6	8	0.025	1.25	1.25	p0.025_fc1.25	70	1000	0.07	24977	0	2945
+screening	TK6	8	0.05	1.25	1.25	p0.05_fc1.25	83	1000	0.083	42155	0	3736
+screening	TK6	8	0.01	1.5	1.5	p0.01_fc1.5	44	1000	0.044	7934	0	1348
+screening	TK6	8	0.025	1.5	1.5	p0.025_fc1.5	56	1000	0.056	10293	0	1537
+screening	TK6	8	0.05	1.5	1.5	p0.05_fc1.5	65	1000	0.065	11819	0	1610
+screening	TK6	8	0.01	2	2.0	p0.01_fc2.0	40	1000	0.04	2866	0	515
+screening	TK6	8	0.025	2	2.0	p0.025_fc2.0	49	1000	0.049	3264	0	522
+screening	TK6	8	0.05	2	2.0	p0.05_fc2.0	57	1000	0.057	3424	0	522
+screening	TK6	9	0.01	NA	none	p0.01_fcnone	67	1000	0.067	10218	0	1390
+screening	TK6	9	0.025	NA	none	p0.025_fcnone	91	1000	0.091	26677	0	2153
+screening	TK6	9	0.05	NA	none	p0.05_fcnone	123	1000	0.123	54868	0	3120
+screening	TK6	9	0.01	1.25	1.25	p0.01_fc1.25	60	1000	0.06	9962	0	1365
+screening	TK6	9	0.025	1.25	1.25	p0.025_fc1.25	77	1000	0.077	24637	0	2030
+screening	TK6	9	0.05	1.25	1.25	p0.05_fc1.25	90	1000	0.09	43853	0	2711
+screening	TK6	9	0.01	1.5	1.5	p0.01_fc1.5	54	1000	0.054	5917	0	849
+screening	TK6	9	0.025	1.5	1.5	p0.025_fc1.5	72	1000	0.072	9805	0	965
+screening	TK6	9	0.05	1.5	1.5	p0.05_fc1.5	80	1000	0.08	11109	0	997
+screening	TK6	9	0.01	2	2.0	p0.01_fc2.0	48	1000	0.048	2491	0	387
+screening	TK6	9	0.025	2	2.0	p0.025_fc2.0	64	1000	0.064	3175	0	393
+screening	TK6	9	0.05	2	2.0	p0.05_fc2.0	67	1000	0.067	3257	0	393
+screening	TK6	10	0.01	NA	none	p0.01_fcnone	56	1000	0.056	13673	0	2682
+screening	TK6	10	0.025	NA	none	p0.025_fcnone	81	1000	0.081	27130	0	3603
+screening	TK6	10	0.05	NA	none	p0.05_fcnone	109	1000	0.109	48759	0	4449
+screening	TK6	10	0.01	1.25	1.25	p0.01_fc1.25	53	1000	0.053	12761	0	2402
+screening	TK6	10	0.025	1.25	1.25	p0.025_fc1.25	70	1000	0.07	23420	0	2972
+screening	TK6	10	0.05	1.25	1.25	p0.05_fc1.25	84	1000	0.084	35430	0	3400
+screening	TK6	10	0.01	1.5	1.5	p0.01_fc1.5	49	1000	0.049	6102	0	965
+screening	TK6	10	0.025	1.5	1.5	p0.025_fc1.5	62	1000	0.062	8495	0	1046
+screening	TK6	10	0.05	1.5	1.5	p0.05_fc1.5	73	1000	0.073	9453	0	1054
+screening	TK6	10	0.01	2	2.0	p0.01_fc2.0	41	1000	0.041	2232	0	345
+screening	TK6	10	0.025	2	2.0	p0.025_fc2.0	50	1000	0.05	2665	0	345
+screening	TK6	10	0.05	2	2.0	p0.05_fc2.0	54	1000	0.054	2768	0	345
+screening	MCF-7	3	0.01	NA	none	p0.01_fcnone	195	1000	0.195	25501	0	1741
+screening	MCF-7	3	0.025	NA	none	p0.025_fcnone	221	1000	0.221	41936	0	2425
+screening	MCF-7	3	0.05	NA	none	p0.05_fcnone	237	1000	0.237	65607	0	3088
+screening	MCF-7	3	0.01	1.25	1.25	p0.01_fc1.25	183	1000	0.183	24950	0	1741
+screening	MCF-7	3	0.025	1.25	1.25	p0.025_fc1.25	199	1000	0.199	39219	0	2420
+screening	MCF-7	3	0.05	1.25	1.25	p0.05_fc1.25	204	1000	0.204	56089	0	3022
+screening	MCF-7	3	0.01	1.5	1.5	p0.01_fc1.5	149	1000	0.149	9598	0	1107
+screening	MCF-7	3	0.025	1.5	1.5	p0.025_fc1.5	152	1000	0.152	10415	0	1296
+screening	MCF-7	3	0.05	1.5	1.5	p0.05_fc1.5	154	1000	0.154	10568	0	1337
+screening	MCF-7	3	0.01	2	2.0	p0.01_fc2.0	91	1000	0.091	713	0	110
+screening	MCF-7	3	0.025	2	2.0	p0.025_fc2.0	91	1000	0.091	724	0	110
+screening	MCF-7	3	0.05	2	2.0	p0.05_fc2.0	92	1000	0.092	734	0	110
+screening	MCF-7	4	0.01	NA	none	p0.01_fcnone	116	1000	0.116	21048	0	2141
+screening	MCF-7	4	0.025	NA	none	p0.025_fcnone	135	1000	0.135	37340	0	2952
+screening	MCF-7	4	0.05	NA	none	p0.05_fcnone	159	1000	0.159	61231	0	3756
+screening	MCF-7	4	0.01	1.25	1.25	p0.01_fc1.25	105	1000	0.105	20344	0	2138
+screening	MCF-7	4	0.025	1.25	1.25	p0.025_fc1.25	115	1000	0.115	33860	0	2931
+screening	MCF-7	4	0.05	1.25	1.25	p0.05_fc1.25	125	1000	0.125	48253	0	3640
+screening	MCF-7	4	0.01	1.5	1.5	p0.01_fc1.5	70	1000	0.07	5996	0	1311
+screening	MCF-7	4	0.025	1.5	1.5	p0.025_fc1.5	73	1000	0.073	6452	0	1468
+screening	MCF-7	4	0.05	1.5	1.5	p0.05_fc1.5	75	1000	0.075	6536	0	1468
+screening	MCF-7	4	0.01	2	2.0	p0.01_fc2.0	39	1000	0.039	251	0	48
+screening	MCF-7	4	0.025	2	2.0	p0.025_fc2.0	40	1000	0.04	259	0	48
+screening	MCF-7	4	0.05	2	2.0	p0.05_fc2.0	42	1000	0.042	265	0	48
+screening	MCF-7	5	0.01	NA	none	p0.01_fcnone	107	1000	0.107	20729	0	2091
+screening	MCF-7	5	0.025	NA	none	p0.025_fcnone	132	1000	0.132	38142	0	2999
+screening	MCF-7	5	0.05	NA	none	p0.05_fcnone	154	1000	0.154	64327	0	3846
+screening	MCF-7	5	0.01	1.25	1.25	p0.01_fc1.25	96	1000	0.096	19107	0	2043
+screening	MCF-7	5	0.025	1.25	1.25	p0.025_fc1.25	110	1000	0.11	31126	0	2822
+screening	MCF-7	5	0.05	1.25	1.25	p0.05_fc1.25	118	1000	0.118	40688	0	3409
+screening	MCF-7	5	0.01	1.5	1.5	p0.01_fc1.5	57	1000	0.057	3045	0	698
+screening	MCF-7	5	0.025	1.5	1.5	p0.025_fc1.5	61	1000	0.061	3059	0	698
+screening	MCF-7	5	0.05	1.5	1.5	p0.05_fc1.5	61	1000	0.061	3063	0	698
+screening	MCF-7	5	0.01	2	2.0	p0.01_fc2.0	21	1000	0.021	66	0	24
+screening	MCF-7	5	0.025	2	2.0	p0.025_fc2.0	22	1000	0.022	67	0	24
+screening	MCF-7	5	0.05	2	2.0	p0.05_fc2.0	22	1000	0.022	67	0	24
+screening	MCF-7	6	0.01	NA	none	p0.01_fcnone	83	1000	0.083	12299	0	1715
+screening	MCF-7	6	0.025	NA	none	p0.025_fcnone	106	1000	0.106	24463	0	2481
+screening	MCF-7	6	0.05	NA	none	p0.05_fcnone	127	1000	0.127	44532	0	3315
+screening	MCF-7	6	0.01	1.25	1.25	p0.01_fc1.25	71	1000	0.071	10461	0	1513
+screening	MCF-7	6	0.025	1.25	1.25	p0.025_fc1.25	86	1000	0.086	16804	0	2030
+screening	MCF-7	6	0.05	1.25	1.25	p0.05_fc1.25	88	1000	0.088	22058	0	2451
+screening	MCF-7	6	0.01	1.5	1.5	p0.01_fc1.5	34	1000	0.034	856	0	214
+screening	MCF-7	6	0.025	1.5	1.5	p0.025_fc1.5	38	1000	0.038	897	0	214
+screening	MCF-7	6	0.05	1.5	1.5	p0.05_fc1.5	38	1000	0.038	906	0	214
+screening	MCF-7	6	0.01	2	2.0	p0.01_fc2.0	11	1000	0.011	29	0	10
+screening	MCF-7	6	0.025	2	2.0	p0.025_fc2.0	13	1000	0.013	37	0	10
+screening	MCF-7	6	0.05	2	2.0	p0.05_fc2.0	13	1000	0.013	37	0	10
+screening	MCF-7	7	0.01	NA	none	p0.01_fcnone	63	1000	0.063	6978	0	1941
+screening	MCF-7	7	0.025	NA	none	p0.025_fcnone	85	1000	0.085	17207	0	2996
+screening	MCF-7	7	0.05	NA	none	p0.05_fcnone	115	1000	0.115	36356	0	4027
+screening	MCF-7	7	0.01	1.25	1.25	p0.01_fc1.25	52	1000	0.052	5886	0	1754
+screening	MCF-7	7	0.025	1.25	1.25	p0.025_fc1.25	64	1000	0.064	11605	0	2391
+screening	MCF-7	7	0.05	1.25	1.25	p0.05_fc1.25	75	1000	0.075	14952	0	2841
+screening	MCF-7	7	0.01	1.5	1.5	p0.01_fc1.5	21	1000	0.021	615	0	297
+screening	MCF-7	7	0.025	1.5	1.5	p0.025_fc1.5	22	1000	0.022	617	0	297
+screening	MCF-7	7	0.05	1.5	1.5	p0.05_fc1.5	23	1000	0.023	623	0	297
+screening	MCF-7	7	0.01	2	2.0	p0.01_fc2.0	7	1000	0.007	13	0	6
+screening	MCF-7	7	0.025	2	2.0	p0.025_fc2.0	7	1000	0.007	13	0	6
+screening	MCF-7	7	0.05	2	2.0	p0.05_fc2.0	7	1000	0.007	13	0	6
+screening	MCF-7	8	0.01	NA	none	p0.01_fcnone	53	1000	0.053	6789	0	2259
+screening	MCF-7	8	0.025	NA	none	p0.025_fcnone	77	1000	0.077	15953	0	3372
+screening	MCF-7	8	0.05	NA	none	p0.05_fcnone	100	1000	0.1	34459	0	4384
+screening	MCF-7	8	0.01	1.25	1.25	p0.01_fc1.25	38	1000	0.038	5181	0	1854
+screening	MCF-7	8	0.025	1.25	1.25	p0.025_fc1.25	50	1000	0.05	9031	0	2472
+screening	MCF-7	8	0.05	1.25	1.25	p0.05_fc1.25	53	1000	0.053	11013	0	2831
+screening	MCF-7	8	0.01	1.5	1.5	p0.01_fc1.5	17	1000	0.017	383	0	173
+screening	MCF-7	8	0.025	1.5	1.5	p0.025_fc1.5	17	1000	0.017	419	0	173
+screening	MCF-7	8	0.05	1.5	1.5	p0.05_fc1.5	17	1000	0.017	428	0	173
+screening	MCF-7	8	0.01	2	2.0	p0.01_fc2.0	10	1000	0.01	29	0	13
+screening	MCF-7	8	0.025	2	2.0	p0.025_fc2.0	10	1000	0.01	36	0	13
+screening	MCF-7	8	0.05	2	2.0	p0.05_fc2.0	10	1000	0.01	36	0	13
+screening	MCF-7	9	0.01	NA	none	p0.01_fcnone	43	1000	0.043	3314	0	1008
+screening	MCF-7	9	0.025	NA	none	p0.025_fcnone	63	1000	0.063	10376	0	1697
+screening	MCF-7	9	0.05	NA	none	p0.05_fcnone	86	1000	0.086	23188	0	2486
+screening	MCF-7	9	0.01	1.25	1.25	p0.01_fc1.25	29	1000	0.029	2262	0	751
+screening	MCF-7	9	0.025	1.25	1.25	p0.025_fc1.25	35	1000	0.035	4183	0	955
+screening	MCF-7	9	0.05	1.25	1.25	p0.05_fc1.25	37	1000	0.037	4379	0	1037
+screening	MCF-7	9	0.01	1.5	1.5	p0.01_fc1.5	11	1000	0.011	33	0	18
+screening	MCF-7	9	0.025	1.5	1.5	p0.025_fc1.5	12	1000	0.012	36	0	18
+screening	MCF-7	9	0.05	1.5	1.5	p0.05_fc1.5	12	1000	0.012	36	0	18
+screening	MCF-7	9	0.01	2	2.0	p0.01_fc2.0	2	1000	0.002	2	0	1
+screening	MCF-7	9	0.025	2	2.0	p0.025_fc2.0	2	1000	0.002	2	0	1
+screening	MCF-7	9	0.05	2	2.0	p0.05_fc2.0	2	1000	0.002	2	0	1
+screening	MCF-7	10	0.01	NA	none	p0.01_fcnone	46	1000	0.046	7121	0	2400
+screening	MCF-7	10	0.025	NA	none	p0.025_fcnone	70	1000	0.07	14823	0	3438
+screening	MCF-7	10	0.05	NA	none	p0.05_fcnone	109	1000	0.109	29846	0	4406
+screening	MCF-7	10	0.01	1.25	1.25	p0.01_fc1.25	28	1000	0.028	3888	0	1674
+screening	MCF-7	10	0.025	1.25	1.25	p0.025_fc1.25	33	1000	0.033	4921	0	2048
+screening	MCF-7	10	0.05	1.25	1.25	p0.05_fc1.25	36	1000	0.036	5148	0	2195
+screening	MCF-7	10	0.01	1.5	1.5	p0.01_fc1.5	9	1000	0.009	102	0	74
+screening	MCF-7	10	0.025	1.5	1.5	p0.025_fc1.5	9	1000	0.009	122	0	74
+screening	MCF-7	10	0.05	1.5	1.5	p0.05_fc1.5	9	1000	0.009	128	0	74
+screening	MCF-7	10	0.01	2	2.0	p0.01_fc2.0	3	1000	0.003	7	0	5
+screening	MCF-7	10	0.025	2	2.0	p0.025_fc2.0	3	1000	0.003	9	0	7
+screening	MCF-7	10	0.05	2	2.0	p0.05_fc2.0	3	1000	0.003	9	0	7
+screening	HepaRG	3	0.01	NA	none	p0.01_fcnone	182	1000	0.182	3226	0	207
+screening	HepaRG	3	0.025	NA	none	p0.025_fcnone	203	1000	0.203	4887	0	303
+screening	HepaRG	3	0.05	NA	none	p0.05_fcnone	232	1000	0.232	7794	0	415
+screening	HepaRG	3	0.01	1.25	1.25	p0.01_fc1.25	134	1000	0.134	2255	0	158
+screening	HepaRG	3	0.025	1.25	1.25	p0.025_fc1.25	140	1000	0.14	2725	0	180
+screening	HepaRG	3	0.05	1.25	1.25	p0.05_fc1.25	144	1000	0.144	2999	0	184
+screening	HepaRG	3	0.01	1.5	1.5	p0.01_fc1.5	85	1000	0.085	616	0	52
+screening	HepaRG	3	0.025	1.5	1.5	p0.025_fc1.5	87	1000	0.087	634	0	55
+screening	HepaRG	3	0.05	1.5	1.5	p0.05_fc1.5	87	1000	0.087	637	0	55
+screening	HepaRG	3	0.01	2	2.0	p0.01_fc2.0	34	1000	0.034	58	0	8
+screening	HepaRG	3	0.025	2	2.0	p0.025_fc2.0	34	1000	0.034	58	0	8
+screening	HepaRG	3	0.05	2	2.0	p0.05_fc2.0	34	1000	0.034	58	0	8
+screening	HepaRG	4	0.01	NA	none	p0.01_fcnone	133	1000	0.133	1857	0	236
+screening	HepaRG	4	0.025	NA	none	p0.025_fcnone	158	1000	0.158	3200	0	339
+screening	HepaRG	4	0.05	NA	none	p0.05_fcnone	183	1000	0.183	5598	0	441
+screening	HepaRG	4	0.01	1.25	1.25	p0.01_fc1.25	87	1000	0.087	1151	0	210
+screening	HepaRG	4	0.025	1.25	1.25	p0.025_fc1.25	95	1000	0.095	1451	0	260
+screening	HepaRG	4	0.05	1.25	1.25	p0.05_fc1.25	102	1000	0.102	1608	0	284
+screening	HepaRG	4	0.01	1.5	1.5	p0.01_fc1.5	45	1000	0.045	293	0	96
+screening	HepaRG	4	0.025	1.5	1.5	p0.025_fc1.5	46	1000	0.046	296	0	96
+screening	HepaRG	4	0.05	1.5	1.5	p0.05_fc1.5	48	1000	0.048	299	0	96
+screening	HepaRG	4	0.01	2	2.0	p0.01_fc2.0	13	1000	0.013	18	0	3
+screening	HepaRG	4	0.025	2	2.0	p0.025_fc2.0	14	1000	0.014	19	0	3
+screening	HepaRG	4	0.05	2	2.0	p0.05_fc2.0	14	1000	0.014	19	0	3
+screening	HepaRG	5	0.01	NA	none	p0.01_fcnone	95	1000	0.095	1471	0	146
+screening	HepaRG	5	0.025	NA	none	p0.025_fcnone	128	1000	0.128	2682	0	222
+screening	HepaRG	5	0.05	NA	none	p0.05_fcnone	153	1000	0.153	5294	0	311
+screening	HepaRG	5	0.01	1.25	1.25	p0.01_fc1.25	67	1000	0.067	774	0	95
+screening	HepaRG	5	0.025	1.25	1.25	p0.025_fc1.25	74	1000	0.074	940	0	115
+screening	HepaRG	5	0.05	1.25	1.25	p0.05_fc1.25	81	1000	0.081	964	0	117
+screening	HepaRG	5	0.01	1.5	1.5	p0.01_fc1.5	27	1000	0.027	95	0	23
+screening	HepaRG	5	0.025	1.5	1.5	p0.025_fc1.5	28	1000	0.028	96	0	23
+screening	HepaRG	5	0.05	1.5	1.5	p0.05_fc1.5	30	1000	0.03	98	0	23
+screening	HepaRG	5	0.01	2	2.0	p0.01_fc2.0	6	1000	0.006	8	0	3
+screening	HepaRG	5	0.025	2	2.0	p0.025_fc2.0	6	1000	0.006	8	0	3
+screening	HepaRG	5	0.05	2	2.0	p0.05_fc2.0	6	1000	0.006	8	0	3
+screening	HepaRG	6	0.01	NA	none	p0.01_fcnone	81	1000	0.081	764	0	76
+screening	HepaRG	6	0.025	NA	none	p0.025_fcnone	110	1000	0.11	1651	0	113
+screening	HepaRG	6	0.05	NA	none	p0.05_fcnone	142	1000	0.142	3718	0	209
+screening	HepaRG	6	0.01	1.25	1.25	p0.01_fc1.25	46	1000	0.046	310	0	39
+screening	HepaRG	6	0.025	1.25	1.25	p0.025_fc1.25	57	1000	0.057	394	0	45
+screening	HepaRG	6	0.05	1.25	1.25	p0.05_fc1.25	61	1000	0.061	416	0	45
+screening	HepaRG	6	0.01	1.5	1.5	p0.01_fc1.5	24	1000	0.024	51	0	9
+screening	HepaRG	6	0.025	1.5	1.5	p0.025_fc1.5	27	1000	0.027	56	0	9
+screening	HepaRG	6	0.05	1.5	1.5	p0.05_fc1.5	27	1000	0.027	56	0	9
+screening	HepaRG	6	0.01	2	2.0	p0.01_fc2.0	3	1000	0.003	3	0	1
+screening	HepaRG	6	0.025	2	2.0	p0.025_fc2.0	3	1000	0.003	3	0	1
+screening	HepaRG	6	0.05	2	2.0	p0.05_fc2.0	3	1000	0.003	3	0	1
+screening	HepaRG	7	0.01	NA	none	p0.01_fcnone	76	1000	0.076	865	0	326
+screening	HepaRG	7	0.025	NA	none	p0.025_fcnone	111	1000	0.111	1803	0	492
+screening	HepaRG	7	0.05	NA	none	p0.05_fcnone	146	1000	0.146	3864	0	703
+screening	HepaRG	7	0.01	1.25	1.25	p0.01_fc1.25	44	1000	0.044	339	0	99
+screening	HepaRG	7	0.025	1.25	1.25	p0.025_fc1.25	55	1000	0.055	401	0	114
+screening	HepaRG	7	0.05	1.25	1.25	p0.05_fc1.25	55	1000	0.055	405	0	114
+screening	HepaRG	7	0.01	1.5	1.5	p0.01_fc1.5	13	1000	0.013	27	0	8
+screening	HepaRG	7	0.025	1.5	1.5	p0.025_fc1.5	17	1000	0.017	31	0	8
+screening	HepaRG	7	0.05	1.5	1.5	p0.05_fc1.5	17	1000	0.017	31	0	8
+screening	HepaRG	7	0.01	2	2.0	p0.01_fc2.0	2	1000	0.002	2	0	1
+screening	HepaRG	7	0.025	2	2.0	p0.025_fc2.0	2	1000	0.002	2	0	1
+screening	HepaRG	7	0.05	2	2.0	p0.05_fc2.0	2	1000	0.002	2	0	1
+screening	HepaRG	8	0.01	NA	none	p0.01_fcnone	71	1000	0.071	755	0	184
+screening	HepaRG	8	0.025	NA	none	p0.025_fcnone	101	1000	0.101	1804	0	260
+screening	HepaRG	8	0.05	NA	none	p0.05_fcnone	126	1000	0.126	4090	0	447
+screening	HepaRG	8	0.01	1.25	1.25	p0.01_fc1.25	35	1000	0.035	216	0	94
+screening	HepaRG	8	0.025	1.25	1.25	p0.025_fc1.25	47	1000	0.047	253	0	98
+screening	HepaRG	8	0.05	1.25	1.25	p0.05_fc1.25	47	1000	0.047	259	0	98
+screening	HepaRG	8	0.01	1.5	1.5	p0.01_fc1.5	13	1000	0.013	22	0	10
+screening	HepaRG	8	0.025	1.5	1.5	p0.025_fc1.5	18	1000	0.018	27	0	10
+screening	HepaRG	8	0.05	1.5	1.5	p0.05_fc1.5	18	1000	0.018	27	0	10
+screening	HepaRG	8	0.01	2	2.0	p0.01_fc2.0	3	1000	0.003	3	0	1
+screening	HepaRG	8	0.025	2	2.0	p0.025_fc2.0	3	1000	0.003	3	0	1
+screening	HepaRG	8	0.05	2	2.0	p0.05_fc2.0	3	1000	0.003	3	0	1
+screening	HepaRG	9	0.01	NA	none	p0.01_fcnone	48	1000	0.048	220	0	79
+screening	HepaRG	9	0.025	NA	none	p0.025_fcnone	84	1000	0.084	671	0	183
+screening	HepaRG	9	0.05	NA	none	p0.05_fcnone	127	1000	0.127	1868	0	314
+screening	HepaRG	9	0.01	1.25	1.25	p0.01_fc1.25	25	1000	0.025	52	0	9
+screening	HepaRG	9	0.025	1.25	1.25	p0.025_fc1.25	37	1000	0.037	70	0	10
+screening	HepaRG	9	0.05	1.25	1.25	p0.05_fc1.25	38	1000	0.038	77	0	10
+screening	HepaRG	9	0.01	1.5	1.5	p0.01_fc1.5	10	1000	0.01	11	0	2
+screening	HepaRG	9	0.025	1.5	1.5	p0.025_fc1.5	12	1000	0.012	13	0	2
+screening	HepaRG	9	0.05	1.5	1.5	p0.05_fc1.5	12	1000	0.012	13	0	2
+screening	HepaRG	9	0.01	2	2.0	p0.01_fc2.0	4	1000	0.004	4	0	1
+screening	HepaRG	9	0.025	2	2.0	p0.025_fc2.0	4	1000	0.004	4	0	1
+screening	HepaRG	9	0.05	2	2.0	p0.05_fc2.0	4	1000	0.004	4	0	1
+screening	HepaRG	10	0.01	NA	none	p0.01_fcnone	43	1000	0.043	826	0	300
+screening	HepaRG	10	0.025	NA	none	p0.025_fcnone	63	1000	0.063	1933	0	493
+screening	HepaRG	10	0.05	NA	none	p0.05_fcnone	100	1000	0.1	4113	0	742
+screening	HepaRG	10	0.01	1.25	1.25	p0.01_fc1.25	20	1000	0.02	160	0	67
+screening	HepaRG	10	0.025	1.25	1.25	p0.025_fc1.25	24	1000	0.024	175	0	67
+screening	HepaRG	10	0.05	1.25	1.25	p0.05_fc1.25	26	1000	0.026	179	0	67
+screening	HepaRG	10	0.01	1.5	1.5	p0.01_fc1.5	8	1000	0.008	11	0	3
+screening	HepaRG	10	0.025	1.5	1.5	p0.025_fc1.5	9	1000	0.009	13	0	3
+screening	HepaRG	10	0.05	1.5	1.5	p0.05_fc1.5	9	1000	0.009	13	0	3
+screening	HepaRG	10	0.01	2	2.0	p0.01_fc2.0	4	1000	0.004	4	0	1
+screening	HepaRG	10	0.025	2	2.0	p0.025_fc2.0	4	1000	0.004	4	0	1
+screening	HepaRG	10	0.05	2	2.0	p0.05_fc2.0	4	1000	0.004	4	0	1
+screening	Liver spheroids	3	0.01	NA	none	p0.01_fcnone	329	1000	0.329	10000	0	1752
+screening	Liver spheroids	3	0.025	NA	none	p0.025_fcnone	387	1000	0.387	16580	0	2163
+screening	Liver spheroids	3	0.05	NA	none	p0.05_fcnone	437	1000	0.437	27421	0	2636
+screening	Liver spheroids	3	0.01	1.25	1.25	p0.01_fc1.25	260	1000	0.26	9546	0	1723
+screening	Liver spheroids	3	0.025	1.25	1.25	p0.025_fc1.25	293	1000	0.293	15164	0	2093
+screening	Liver spheroids	3	0.05	1.25	1.25	p0.05_fc1.25	303	1000	0.303	22416	0	2503
+screening	Liver spheroids	3	0.01	1.5	1.5	p0.01_fc1.5	209	1000	0.209	3629	0	1039
+screening	Liver spheroids	3	0.025	1.5	1.5	p0.025_fc1.5	238	1000	0.238	4004	0	1152
+screening	Liver spheroids	3	0.05	1.5	1.5	p0.05_fc1.5	244	1000	0.244	4537	0	1193
+screening	Liver spheroids	3	0.01	2	2.0	p0.01_fc2.0	168	1000	0.168	510	0	135
+screening	Liver spheroids	3	0.025	2	2.0	p0.025_fc2.0	192	1000	0.192	589	0	135
+screening	Liver spheroids	3	0.05	2	2.0	p0.05_fc2.0	198	1000	0.198	869	0	136
+screening	Liver spheroids	4	0.01	NA	none	p0.01_fcnone	232	1000	0.232	6721	0	665
+screening	Liver spheroids	4	0.025	NA	none	p0.025_fcnone	291	1000	0.291	12817	0	1071
+screening	Liver spheroids	4	0.05	NA	none	p0.05_fcnone	350	1000	0.35	23052	0	1594
+screening	Liver spheroids	4	0.01	1.25	1.25	p0.01_fc1.25	192	1000	0.192	6131	0	662
+screening	Liver spheroids	4	0.025	1.25	1.25	p0.025_fc1.25	220	1000	0.22	10612	0	1031
+screening	Liver spheroids	4	0.05	1.25	1.25	p0.05_fc1.25	234	1000	0.234	15645	0	1440
+screening	Liver spheroids	4	0.01	1.5	1.5	p0.01_fc1.5	146	1000	0.146	1043	0	192
+screening	Liver spheroids	4	0.025	1.5	1.5	p0.025_fc1.5	166	1000	0.166	1156	0	192
+screening	Liver spheroids	4	0.05	1.5	1.5	p0.05_fc1.5	174	1000	0.174	1659	0	269
+screening	Liver spheroids	4	0.01	2	2.0	p0.01_fc2.0	112	1000	0.112	203	0	9
+screening	Liver spheroids	4	0.025	2	2.0	p0.025_fc2.0	129	1000	0.129	259	0	19
+screening	Liver spheroids	4	0.05	2	2.0	p0.05_fc2.0	131	1000	0.131	326	0	67
+screening	Liver spheroids	5	0.01	NA	none	p0.01_fcnone	148	1000	0.148	2632	0	1150
+screening	Liver spheroids	5	0.025	NA	none	p0.025_fcnone	194	1000	0.194	4989	0	1591
+screening	Liver spheroids	5	0.05	NA	none	p0.05_fcnone	246	1000	0.246	9638	0	2132
+screening	Liver spheroids	5	0.01	1.25	1.25	p0.01_fc1.25	126	1000	0.126	2357	0	1067
+screening	Liver spheroids	5	0.025	1.25	1.25	p0.025_fc1.25	152	1000	0.152	3889	0	1386
+screening	Liver spheroids	5	0.05	1.25	1.25	p0.05_fc1.25	164	1000	0.164	5321	0	1703
+screening	Liver spheroids	5	0.01	1.5	1.5	p0.01_fc1.5	99	1000	0.099	420	0	221
+screening	Liver spheroids	5	0.025	1.5	1.5	p0.025_fc1.5	118	1000	0.118	524	0	221
+screening	Liver spheroids	5	0.05	1.5	1.5	p0.05_fc1.5	123	1000	0.123	589	0	221
+screening	Liver spheroids	5	0.01	2	2.0	p0.01_fc2.0	79	1000	0.079	121	0	6
+screening	Liver spheroids	5	0.025	2	2.0	p0.025_fc2.0	90	1000	0.09	170	0	15
+screening	Liver spheroids	5	0.05	2	2.0	p0.05_fc2.0	92	1000	0.092	189	0	18
+screening	Liver spheroids	6	0.01	NA	none	p0.01_fcnone	142	1000	0.142	3239	0	1739
+screening	Liver spheroids	6	0.025	NA	none	p0.025_fcnone	187	1000	0.187	5794	0	2307
+screening	Liver spheroids	6	0.05	NA	none	p0.05_fcnone	239	1000	0.239	11144	0	2869
+screening	Liver spheroids	6	0.01	1.25	1.25	p0.01_fc1.25	117	1000	0.117	2851	0	1585
+screening	Liver spheroids	6	0.025	1.25	1.25	p0.025_fc1.25	144	1000	0.144	4152	0	1948
+screening	Liver spheroids	6	0.05	1.25	1.25	p0.05_fc1.25	158	1000	0.158	5298	0	2257
+screening	Liver spheroids	6	0.01	1.5	1.5	p0.01_fc1.5	83	1000	0.083	615	0	416
+screening	Liver spheroids	6	0.025	1.5	1.5	p0.025_fc1.5	102	1000	0.102	661	0	416
+screening	Liver spheroids	6	0.05	1.5	1.5	p0.05_fc1.5	111	1000	0.111	934	0	416
+screening	Liver spheroids	6	0.01	2	2.0	p0.01_fc2.0	69	1000	0.069	110	0	9
+screening	Liver spheroids	6	0.025	2	2.0	p0.025_fc2.0	80	1000	0.08	135	0	9
+screening	Liver spheroids	6	0.05	2	2.0	p0.05_fc2.0	82	1000	0.082	151	0	9
+screening	Liver spheroids	7	0.01	NA	none	p0.01_fcnone	92	1000	0.092	2894	0	755
+screening	Liver spheroids	7	0.025	NA	none	p0.025_fcnone	136	1000	0.136	5834	0	1247
+screening	Liver spheroids	7	0.05	NA	none	p0.05_fcnone	191	1000	0.191	11142	0	1814
+screening	Liver spheroids	7	0.01	1.25	1.25	p0.01_fc1.25	73	1000	0.073	2338	0	659
+screening	Liver spheroids	7	0.025	1.25	1.25	p0.025_fc1.25	92	1000	0.092	3445	0	926
+screening	Liver spheroids	7	0.05	1.25	1.25	p0.05_fc1.25	101	1000	0.101	3953	0	1091
+screening	Liver spheroids	7	0.01	1.5	1.5	p0.01_fc1.5	53	1000	0.053	129	0	40
+screening	Liver spheroids	7	0.025	1.5	1.5	p0.025_fc1.5	65	1000	0.065	156	0	40
+screening	Liver spheroids	7	0.05	1.5	1.5	p0.05_fc1.5	69	1000	0.069	171	0	40
+screening	Liver spheroids	7	0.01	2	2.0	p0.01_fc2.0	37	1000	0.037	47	0	5
+screening	Liver spheroids	7	0.025	2	2.0	p0.025_fc2.0	40	1000	0.04	57	0	6
+screening	Liver spheroids	7	0.05	2	2.0	p0.05_fc2.0	43	1000	0.043	63	0	8
+screening	Liver spheroids	8	0.01	NA	none	p0.01_fcnone	76	1000	0.076	2866	0	769
+screening	Liver spheroids	8	0.025	NA	none	p0.025_fcnone	121	1000	0.121	6737	0	1293
+screening	Liver spheroids	8	0.05	NA	none	p0.05_fcnone	170	1000	0.17	13358	0	1850
+screening	Liver spheroids	8	0.01	1.25	1.25	p0.01_fc1.25	66	1000	0.066	2143	0	620
+screening	Liver spheroids	8	0.025	1.25	1.25	p0.025_fc1.25	93	1000	0.093	3520	0	860
+screening	Liver spheroids	8	0.05	1.25	1.25	p0.05_fc1.25	99	1000	0.099	3995	0	947
+screening	Liver spheroids	8	0.01	1.5	1.5	p0.01_fc1.5	40	1000	0.04	75	0	13
+screening	Liver spheroids	8	0.025	1.5	1.5	p0.025_fc1.5	62	1000	0.062	120	0	13
+screening	Liver spheroids	8	0.05	1.5	1.5	p0.05_fc1.5	64	1000	0.064	134	0	13
+screening	Liver spheroids	8	0.01	2	2.0	p0.01_fc2.0	31	1000	0.031	42	0	5
+screening	Liver spheroids	8	0.025	2	2.0	p0.025_fc2.0	43	1000	0.043	61	0	5
+screening	Liver spheroids	8	0.05	2	2.0	p0.05_fc2.0	43	1000	0.043	62	0	5
+screening	Liver spheroids	9	0.01	NA	none	p0.01_fcnone	72	1000	0.072	1453	0	504
+screening	Liver spheroids	9	0.025	NA	none	p0.025_fcnone	110	1000	0.11	3767	0	884
+screening	Liver spheroids	9	0.05	NA	none	p0.05_fcnone	164	1000	0.164	8585	0	1340
+screening	Liver spheroids	9	0.01	1.25	1.25	p0.01_fc1.25	55	1000	0.055	784	0	268
+screening	Liver spheroids	9	0.025	1.25	1.25	p0.025_fc1.25	74	1000	0.074	1189	0	464
+screening	Liver spheroids	9	0.05	1.25	1.25	p0.05_fc1.25	83	1000	0.083	1678	0	537
+screening	Liver spheroids	9	0.01	1.5	1.5	p0.01_fc1.5	34	1000	0.034	49	0	6
+screening	Liver spheroids	9	0.025	1.5	1.5	p0.025_fc1.5	48	1000	0.048	82	0	14
+screening	Liver spheroids	9	0.05	1.5	1.5	p0.05_fc1.5	50	1000	0.05	98	0	15
+screening	Liver spheroids	9	0.01	2	2.0	p0.01_fc2.0	25	1000	0.025	28	0	3
+screening	Liver spheroids	9	0.025	2	2.0	p0.025_fc2.0	33	1000	0.033	40	0	3
+screening	Liver spheroids	9	0.05	2	2.0	p0.05_fc2.0	35	1000	0.035	45	0	3
+screening	Liver spheroids	10	0.01	NA	none	p0.01_fcnone	46	1000	0.046	1422	0	873
+screening	Liver spheroids	10	0.025	NA	none	p0.025_fcnone	88	1000	0.088	3001	0	1444
+screening	Liver spheroids	10	0.05	NA	none	p0.05_fcnone	149	1000	0.149	6848	0	1974
+screening	Liver spheroids	10	0.01	1.25	1.25	p0.01_fc1.25	29	1000	0.029	923	0	657
+screening	Liver spheroids	10	0.025	1.25	1.25	p0.025_fc1.25	50	1000	0.05	1268	0	835
+screening	Liver spheroids	10	0.05	1.25	1.25	p0.05_fc1.25	59	1000	0.059	1322	0	843
+screening	Liver spheroids	10	0.01	1.5	1.5	p0.01_fc1.5	22	1000	0.022	30	0	6
+screening	Liver spheroids	10	0.025	1.5	1.5	p0.025_fc1.5	35	1000	0.035	51	0	6
+screening	Liver spheroids	10	0.05	1.5	1.5	p0.05_fc1.5	39	1000	0.039	66	0	6
+screening	Liver spheroids	10	0.01	2	2.0	p0.01_fc2.0	20	1000	0.02	22	0	2
+screening	Liver spheroids	10	0.025	2	2.0	p0.025_fc2.0	29	1000	0.029	36	0	4
+screening	Liver spheroids	10	0.05	2	2.0	p0.05_fc2.0	30	1000	0.03	40	0	5
+full_rodaf	TK6	3	0.01	NA	none	p0.01_fcnone	140	1000	0.14	37199	0	3365
+full_rodaf	TK6	3	0.025	NA	none	p0.025_fcnone	169	1000	0.169	51143	0	3907
+full_rodaf	TK6	3	0.05	NA	none	p0.05_fcnone	197	1000	0.197	69747	0	4427
+full_rodaf	TK6	3	0.01	1.25	1.25	p0.01_fc1.25	127	1000	0.127	36929	0	3333
+full_rodaf	TK6	3	0.025	1.25	1.25	p0.025_fc1.25	146	1000	0.146	50513	0	3814
+full_rodaf	TK6	3	0.05	1.25	1.25	p0.05_fc1.25	160	1000	0.16	68141	0	4289
+full_rodaf	TK6	3	0.01	1.5	1.5	p0.01_fc1.5	119	1000	0.119	31249	0	2762
+full_rodaf	TK6	3	0.025	1.5	1.5	p0.025_fc1.5	136	1000	0.136	40447	0	3116
+full_rodaf	TK6	3	0.05	1.5	1.5	p0.05_fc1.5	149	1000	0.149	49600	0	3393
+full_rodaf	TK6	3	0.01	2	2.0	p0.01_fc2.0	114	1000	0.114	13794	0	1304
+full_rodaf	TK6	3	0.025	2	2.0	p0.025_fc2.0	129	1000	0.129	16043	0	1357
+full_rodaf	TK6	3	0.05	2	2.0	p0.05_fc2.0	138	1000	0.138	16959	0	1357
+full_rodaf	TK6	4	0.01	NA	none	p0.01_fcnone	94	1000	0.094	19108	0	3553
+full_rodaf	TK6	4	0.025	NA	none	p0.025_fcnone	113	1000	0.113	31802	0	4128
+full_rodaf	TK6	4	0.05	NA	none	p0.05_fcnone	137	1000	0.137	49449	0	4678
+full_rodaf	TK6	4	0.01	1.25	1.25	p0.01_fc1.25	82	1000	0.082	19021	0	3529
+full_rodaf	TK6	4	0.025	1.25	1.25	p0.025_fc1.25	94	1000	0.094	31440	0	4057
+full_rodaf	TK6	4	0.05	1.25	1.25	p0.05_fc1.25	113	1000	0.113	47976	0	4514
+full_rodaf	TK6	4	0.01	1.5	1.5	p0.01_fc1.5	73	1000	0.073	15399	0	2687
+full_rodaf	TK6	4	0.025	1.5	1.5	p0.025_fc1.5	83	1000	0.083	21870	0	2934
+full_rodaf	TK6	4	0.05	1.5	1.5	p0.05_fc1.5	97	1000	0.097	26227	0	3138
+full_rodaf	TK6	4	0.01	2	2.0	p0.01_fc2.0	66	1000	0.066	5697	0	1032
+full_rodaf	TK6	4	0.025	2	2.0	p0.025_fc2.0	71	1000	0.071	6542	0	1039
+full_rodaf	TK6	4	0.05	2	2.0	p0.05_fc2.0	83	1000	0.083	6954	0	1039
+full_rodaf	TK6	5	0.01	NA	none	p0.01_fcnone	70	1000	0.07	12443	0	3594
+full_rodaf	TK6	5	0.025	NA	none	p0.025_fcnone	97	1000	0.097	22714	0	4162
+full_rodaf	TK6	5	0.05	NA	none	p0.05_fcnone	126	1000	0.126	41147	0	4733
+full_rodaf	TK6	5	0.01	1.25	1.25	p0.01_fc1.25	61	1000	0.061	12069	0	3419
+full_rodaf	TK6	5	0.025	1.25	1.25	p0.025_fc1.25	85	1000	0.085	21945	0	3847
+full_rodaf	TK6	5	0.05	1.25	1.25	p0.05_fc1.25	101	1000	0.101	39427	0	4239
+full_rodaf	TK6	5	0.01	1.5	1.5	p0.01_fc1.5	55	1000	0.055	9032	0	2139
+full_rodaf	TK6	5	0.025	1.5	1.5	p0.025_fc1.5	74	1000	0.074	13934	0	2284
+full_rodaf	TK6	5	0.05	1.5	1.5	p0.05_fc1.5	88	1000	0.088	17784	0	2391
+full_rodaf	TK6	5	0.01	2	2.0	p0.01_fc2.0	53	1000	0.053	3554	0	695
+full_rodaf	TK6	5	0.025	2	2.0	p0.025_fc2.0	66	1000	0.066	4306	0	698
+full_rodaf	TK6	5	0.05	2	2.0	p0.05_fc2.0	77	1000	0.077	4582	0	698
+full_rodaf	TK6	6	0.01	NA	none	p0.01_fcnone	53	1000	0.053	9360	0	1139
+full_rodaf	TK6	6	0.025	NA	none	p0.025_fcnone	81	1000	0.081	20246	0	1982
+full_rodaf	TK6	6	0.05	NA	none	p0.05_fcnone	118	1000	0.118	38498	0	2917
+full_rodaf	TK6	6	0.01	1.25	1.25	p0.01_fc1.25	51	1000	0.051	9279	0	1137
+full_rodaf	TK6	6	0.025	1.25	1.25	p0.025_fc1.25	71	1000	0.071	19667	0	1961
+full_rodaf	TK6	6	0.05	1.25	1.25	p0.05_fc1.25	96	1000	0.096	34988	0	2791
+full_rodaf	TK6	6	0.01	1.5	1.5	p0.01_fc1.5	48	1000	0.048	6516	0	867
+full_rodaf	TK6	6	0.025	1.5	1.5	p0.025_fc1.5	65	1000	0.065	9388	0	1075
+full_rodaf	TK6	6	0.05	1.5	1.5	p0.05_fc1.5	79	1000	0.079	11412	0	1175
+full_rodaf	TK6	6	0.01	2	2.0	p0.01_fc2.0	39	1000	0.039	2594	0	374
+full_rodaf	TK6	6	0.025	2	2.0	p0.025_fc2.0	54	1000	0.054	3036	0	400
+full_rodaf	TK6	6	0.05	2	2.0	p0.05_fc2.0	65	1000	0.065	3271	0	400
+full_rodaf	TK6	7	0.01	NA	none	p0.01_fcnone	69	1000	0.069	18880	0	2040
+full_rodaf	TK6	7	0.025	NA	none	p0.025_fcnone	102	1000	0.102	37086	0	3059
+full_rodaf	TK6	7	0.05	NA	none	p0.05_fcnone	144	1000	0.144	65508	0	3931
+full_rodaf	TK6	7	0.01	1.25	1.25	p0.01_fc1.25	63	1000	0.063	18380	0	1950
+full_rodaf	TK6	7	0.025	1.25	1.25	p0.025_fc1.25	89	1000	0.089	34971	0	2761
+full_rodaf	TK6	7	0.05	1.25	1.25	p0.05_fc1.25	106	1000	0.106	57495	0	3323
+full_rodaf	TK6	7	0.01	1.5	1.5	p0.01_fc1.5	59	1000	0.059	11370	0	1149
+full_rodaf	TK6	7	0.025	1.5	1.5	p0.025_fc1.5	78	1000	0.078	15842	0	1371
+full_rodaf	TK6	7	0.05	1.5	1.5	p0.05_fc1.5	86	1000	0.086	17554	0	1470
+full_rodaf	TK6	7	0.01	2	2.0	p0.01_fc2.0	52	1000	0.052	4064	0	442
+full_rodaf	TK6	7	0.025	2	2.0	p0.025_fc2.0	68	1000	0.068	4555	0	471
+full_rodaf	TK6	7	0.05	2	2.0	p0.05_fc2.0	73	1000	0.073	4713	0	471
+full_rodaf	TK6	8	0.01	NA	none	p0.01_fcnone	50	1000	0.05	13290	0	2038
+full_rodaf	TK6	8	0.025	NA	none	p0.025_fcnone	76	1000	0.076	26524	0	3036
+full_rodaf	TK6	8	0.05	NA	none	p0.05_fcnone	112	1000	0.112	49542	0	3997
+full_rodaf	TK6	8	0.01	1.25	1.25	p0.01_fc1.25	47	1000	0.047	13008	0	2012
+full_rodaf	TK6	8	0.025	1.25	1.25	p0.025_fc1.25	68	1000	0.068	24844	0	2932
+full_rodaf	TK6	8	0.05	1.25	1.25	p0.05_fc1.25	81	1000	0.081	41802	0	3711
+full_rodaf	TK6	8	0.01	1.5	1.5	p0.01_fc1.5	43	1000	0.043	7871	0	1339
+full_rodaf	TK6	8	0.025	1.5	1.5	p0.025_fc1.5	54	1000	0.054	10176	0	1524
+full_rodaf	TK6	8	0.05	1.5	1.5	p0.05_fc1.5	63	1000	0.063	11639	0	1595
+full_rodaf	TK6	8	0.01	2	2.0	p0.01_fc2.0	39	1000	0.039	2806	0	506
+full_rodaf	TK6	8	0.025	2	2.0	p0.025_fc2.0	48	1000	0.048	3185	0	512
+full_rodaf	TK6	8	0.05	2	2.0	p0.05_fc2.0	56	1000	0.056	3331	0	512
+full_rodaf	TK6	9	0.01	NA	none	p0.01_fcnone	66	1000	0.066	10151	0	1380
+full_rodaf	TK6	9	0.025	NA	none	p0.025_fcnone	86	1000	0.086	26175	0	2132
+full_rodaf	TK6	9	0.05	NA	none	p0.05_fcnone	114	1000	0.114	53163	0	3055
+full_rodaf	TK6	9	0.01	1.25	1.25	p0.01_fc1.25	59	1000	0.059	9895	0	1355
+full_rodaf	TK6	9	0.025	1.25	1.25	p0.025_fc1.25	72	1000	0.072	24139	0	2009
+full_rodaf	TK6	9	0.05	1.25	1.25	p0.05_fc1.25	84	1000	0.084	42340	0	2660
+full_rodaf	TK6	9	0.01	1.5	1.5	p0.01_fc1.5	53	1000	0.053	5852	0	839
+full_rodaf	TK6	9	0.025	1.5	1.5	p0.025_fc1.5	67	1000	0.067	9452	0	946
+full_rodaf	TK6	9	0.05	1.5	1.5	p0.05_fc1.5	74	1000	0.074	10642	0	974
+full_rodaf	TK6	9	0.01	2	2.0	p0.01_fc2.0	47	1000	0.047	2436	0	379
+full_rodaf	TK6	9	0.025	2	2.0	p0.025_fc2.0	59	1000	0.059	3062	0	385
+full_rodaf	TK6	9	0.05	2	2.0	p0.05_fc2.0	61	1000	0.061	3136	0	385
+full_rodaf	TK6	10	0.01	NA	none	p0.01_fcnone	55	1000	0.055	13609	0	2678
+full_rodaf	TK6	10	0.025	NA	none	p0.025_fcnone	80	1000	0.08	26914	0	3595
+full_rodaf	TK6	10	0.05	NA	none	p0.05_fcnone	108	1000	0.108	47927	0	4419
+full_rodaf	TK6	10	0.01	1.25	1.25	p0.01_fc1.25	51	1000	0.051	12697	0	2398
+full_rodaf	TK6	10	0.025	1.25	1.25	p0.025_fc1.25	68	1000	0.068	23211	0	2964
+full_rodaf	TK6	10	0.05	1.25	1.25	p0.05_fc1.25	82	1000	0.082	34746	0	3384
+full_rodaf	TK6	10	0.01	1.5	1.5	p0.01_fc1.5	47	1000	0.047	6038	0	963
+full_rodaf	TK6	10	0.025	1.5	1.5	p0.025_fc1.5	59	1000	0.059	8335	0	1041
+full_rodaf	TK6	10	0.05	1.5	1.5	p0.05_fc1.5	70	1000	0.07	9209	0	1047
+full_rodaf	TK6	10	0.01	2	2.0	p0.01_fc2.0	39	1000	0.039	2181	0	344
+full_rodaf	TK6	10	0.025	2	2.0	p0.025_fc2.0	47	1000	0.047	2592	0	344
+full_rodaf	TK6	10	0.05	2	2.0	p0.05_fc2.0	51	1000	0.051	2681	0	344
+full_rodaf	MCF-7	3	0.01	NA	none	p0.01_fcnone	195	1000	0.195	25501	0	1741
+full_rodaf	MCF-7	3	0.025	NA	none	p0.025_fcnone	221	1000	0.221	41936	0	2425
+full_rodaf	MCF-7	3	0.05	NA	none	p0.05_fcnone	237	1000	0.237	65607	0	3088
+full_rodaf	MCF-7	3	0.01	1.25	1.25	p0.01_fc1.25	183	1000	0.183	24950	0	1741
+full_rodaf	MCF-7	3	0.025	1.25	1.25	p0.025_fc1.25	199	1000	0.199	39219	0	2420
+full_rodaf	MCF-7	3	0.05	1.25	1.25	p0.05_fc1.25	204	1000	0.204	56089	0	3022
+full_rodaf	MCF-7	3	0.01	1.5	1.5	p0.01_fc1.5	149	1000	0.149	9598	0	1107
+full_rodaf	MCF-7	3	0.025	1.5	1.5	p0.025_fc1.5	152	1000	0.152	10415	0	1296
+full_rodaf	MCF-7	3	0.05	1.5	1.5	p0.05_fc1.5	154	1000	0.154	10568	0	1337
+full_rodaf	MCF-7	3	0.01	2	2.0	p0.01_fc2.0	91	1000	0.091	713	0	110
+full_rodaf	MCF-7	3	0.025	2	2.0	p0.025_fc2.0	91	1000	0.091	724	0	110
+full_rodaf	MCF-7	3	0.05	2	2.0	p0.05_fc2.0	92	1000	0.092	734	0	110
+full_rodaf	MCF-7	4	0.01	NA	none	p0.01_fcnone	116	1000	0.116	21048	0	2141
+full_rodaf	MCF-7	4	0.025	NA	none	p0.025_fcnone	135	1000	0.135	37340	0	2952
+full_rodaf	MCF-7	4	0.05	NA	none	p0.05_fcnone	159	1000	0.159	61231	0	3756
+full_rodaf	MCF-7	4	0.01	1.25	1.25	p0.01_fc1.25	105	1000	0.105	20344	0	2138
+full_rodaf	MCF-7	4	0.025	1.25	1.25	p0.025_fc1.25	115	1000	0.115	33860	0	2931
+full_rodaf	MCF-7	4	0.05	1.25	1.25	p0.05_fc1.25	125	1000	0.125	48253	0	3640
+full_rodaf	MCF-7	4	0.01	1.5	1.5	p0.01_fc1.5	70	1000	0.07	5996	0	1311
+full_rodaf	MCF-7	4	0.025	1.5	1.5	p0.025_fc1.5	73	1000	0.073	6452	0	1468
+full_rodaf	MCF-7	4	0.05	1.5	1.5	p0.05_fc1.5	75	1000	0.075	6536	0	1468
+full_rodaf	MCF-7	4	0.01	2	2.0	p0.01_fc2.0	39	1000	0.039	251	0	48
+full_rodaf	MCF-7	4	0.025	2	2.0	p0.025_fc2.0	40	1000	0.04	259	0	48
+full_rodaf	MCF-7	4	0.05	2	2.0	p0.05_fc2.0	42	1000	0.042	265	0	48
+full_rodaf	MCF-7	5	0.01	NA	none	p0.01_fcnone	107	1000	0.107	20728	0	2090
+full_rodaf	MCF-7	5	0.025	NA	none	p0.025_fcnone	132	1000	0.132	38141	0	2998
+full_rodaf	MCF-7	5	0.05	NA	none	p0.05_fcnone	154	1000	0.154	64315	0	3844
+full_rodaf	MCF-7	5	0.01	1.25	1.25	p0.01_fc1.25	96	1000	0.096	19106	0	2042
+full_rodaf	MCF-7	5	0.025	1.25	1.25	p0.025_fc1.25	110	1000	0.11	31125	0	2821
+full_rodaf	MCF-7	5	0.05	1.25	1.25	p0.05_fc1.25	118	1000	0.118	40680	0	3407
+full_rodaf	MCF-7	5	0.01	1.5	1.5	p0.01_fc1.5	57	1000	0.057	3045	0	698
+full_rodaf	MCF-7	5	0.025	1.5	1.5	p0.025_fc1.5	61	1000	0.061	3059	0	698
+full_rodaf	MCF-7	5	0.05	1.5	1.5	p0.05_fc1.5	61	1000	0.061	3063	0	698
+full_rodaf	MCF-7	5	0.01	2	2.0	p0.01_fc2.0	21	1000	0.021	66	0	24
+full_rodaf	MCF-7	5	0.025	2	2.0	p0.025_fc2.0	22	1000	0.022	67	0	24
+full_rodaf	MCF-7	5	0.05	2	2.0	p0.05_fc2.0	22	1000	0.022	67	0	24
+full_rodaf	MCF-7	6	0.01	NA	none	p0.01_fcnone	83	1000	0.083	12299	0	1715
+full_rodaf	MCF-7	6	0.025	NA	none	p0.025_fcnone	106	1000	0.106	24463	0	2481
+full_rodaf	MCF-7	6	0.05	NA	none	p0.05_fcnone	127	1000	0.127	44530	0	3314
+full_rodaf	MCF-7	6	0.01	1.25	1.25	p0.01_fc1.25	71	1000	0.071	10461	0	1513
+full_rodaf	MCF-7	6	0.025	1.25	1.25	p0.025_fc1.25	86	1000	0.086	16804	0	2030
+full_rodaf	MCF-7	6	0.05	1.25	1.25	p0.05_fc1.25	88	1000	0.088	22057	0	2451
+full_rodaf	MCF-7	6	0.01	1.5	1.5	p0.01_fc1.5	34	1000	0.034	856	0	214
+full_rodaf	MCF-7	6	0.025	1.5	1.5	p0.025_fc1.5	38	1000	0.038	897	0	214
+full_rodaf	MCF-7	6	0.05	1.5	1.5	p0.05_fc1.5	38	1000	0.038	906	0	214
+full_rodaf	MCF-7	6	0.01	2	2.0	p0.01_fc2.0	11	1000	0.011	29	0	10
+full_rodaf	MCF-7	6	0.025	2	2.0	p0.025_fc2.0	13	1000	0.013	37	0	10
+full_rodaf	MCF-7	6	0.05	2	2.0	p0.05_fc2.0	13	1000	0.013	37	0	10
+full_rodaf	MCF-7	7	0.01	NA	none	p0.01_fcnone	63	1000	0.063	6978	0	1941
+full_rodaf	MCF-7	7	0.025	NA	none	p0.025_fcnone	85	1000	0.085	17206	0	2996
+full_rodaf	MCF-7	7	0.05	NA	none	p0.05_fcnone	115	1000	0.115	36340	0	4023
+full_rodaf	MCF-7	7	0.01	1.25	1.25	p0.01_fc1.25	52	1000	0.052	5886	0	1754
+full_rodaf	MCF-7	7	0.025	1.25	1.25	p0.025_fc1.25	64	1000	0.064	11604	0	2390
+full_rodaf	MCF-7	7	0.05	1.25	1.25	p0.05_fc1.25	75	1000	0.075	14944	0	2839
+full_rodaf	MCF-7	7	0.01	1.5	1.5	p0.01_fc1.5	21	1000	0.021	615	0	297
+full_rodaf	MCF-7	7	0.025	1.5	1.5	p0.025_fc1.5	22	1000	0.022	617	0	297
+full_rodaf	MCF-7	7	0.05	1.5	1.5	p0.05_fc1.5	23	1000	0.023	623	0	297
+full_rodaf	MCF-7	7	0.01	2	2.0	p0.01_fc2.0	7	1000	0.007	13	0	6
+full_rodaf	MCF-7	7	0.025	2	2.0	p0.025_fc2.0	7	1000	0.007	13	0	6
+full_rodaf	MCF-7	7	0.05	2	2.0	p0.05_fc2.0	7	1000	0.007	13	0	6
+full_rodaf	MCF-7	8	0.01	NA	none	p0.01_fcnone	53	1000	0.053	6788	0	2258
+full_rodaf	MCF-7	8	0.025	NA	none	p0.025_fcnone	77	1000	0.077	15952	0	3371
+full_rodaf	MCF-7	8	0.05	NA	none	p0.05_fcnone	100	1000	0.1	34429	0	4367
+full_rodaf	MCF-7	8	0.01	1.25	1.25	p0.01_fc1.25	38	1000	0.038	5180	0	1853
+full_rodaf	MCF-7	8	0.025	1.25	1.25	p0.025_fc1.25	50	1000	0.05	9030	0	2471
+full_rodaf	MCF-7	8	0.05	1.25	1.25	p0.05_fc1.25	53	1000	0.053	11005	0	2823
+full_rodaf	MCF-7	8	0.01	1.5	1.5	p0.01_fc1.5	17	1000	0.017	383	0	173
+full_rodaf	MCF-7	8	0.025	1.5	1.5	p0.025_fc1.5	17	1000	0.017	419	0	173
+full_rodaf	MCF-7	8	0.05	1.5	1.5	p0.05_fc1.5	17	1000	0.017	428	0	173
+full_rodaf	MCF-7	8	0.01	2	2.0	p0.01_fc2.0	10	1000	0.01	29	0	13
+full_rodaf	MCF-7	8	0.025	2	2.0	p0.025_fc2.0	10	1000	0.01	36	0	13
+full_rodaf	MCF-7	8	0.05	2	2.0	p0.05_fc2.0	10	1000	0.01	36	0	13
+full_rodaf	MCF-7	9	0.01	NA	none	p0.01_fcnone	42	1000	0.042	3313	0	1008
+full_rodaf	MCF-7	9	0.025	NA	none	p0.025_fcnone	62	1000	0.062	10365	0	1695
+full_rodaf	MCF-7	9	0.05	NA	none	p0.05_fcnone	85	1000	0.085	23108	0	2473
+full_rodaf	MCF-7	9	0.01	1.25	1.25	p0.01_fc1.25	28	1000	0.028	2261	0	751
+full_rodaf	MCF-7	9	0.025	1.25	1.25	p0.025_fc1.25	34	1000	0.034	4177	0	954
+full_rodaf	MCF-7	9	0.05	1.25	1.25	p0.05_fc1.25	36	1000	0.036	4371	0	1033
+full_rodaf	MCF-7	9	0.01	1.5	1.5	p0.01_fc1.5	10	1000	0.01	32	0	18
+full_rodaf	MCF-7	9	0.025	1.5	1.5	p0.025_fc1.5	11	1000	0.011	35	0	18
+full_rodaf	MCF-7	9	0.05	1.5	1.5	p0.05_fc1.5	11	1000	0.011	35	0	18
+full_rodaf	MCF-7	9	0.01	2	2.0	p0.01_fc2.0	1	1000	0.001	1	0	1
+full_rodaf	MCF-7	9	0.025	2	2.0	p0.025_fc2.0	1	1000	0.001	1	0	1
+full_rodaf	MCF-7	9	0.05	2	2.0	p0.05_fc2.0	1	1000	0.001	1	0	1
+full_rodaf	MCF-7	10	0.01	NA	none	p0.01_fcnone	46	1000	0.046	7121	0	2400
+full_rodaf	MCF-7	10	0.025	NA	none	p0.025_fcnone	70	1000	0.07	14812	0	3432
+full_rodaf	MCF-7	10	0.05	NA	none	p0.05_fcnone	109	1000	0.109	29739	0	4372
+full_rodaf	MCF-7	10	0.01	1.25	1.25	p0.01_fc1.25	28	1000	0.028	3888	0	1674
+full_rodaf	MCF-7	10	0.025	1.25	1.25	p0.025_fc1.25	33	1000	0.033	4917	0	2044
+full_rodaf	MCF-7	10	0.05	1.25	1.25	p0.05_fc1.25	36	1000	0.036	5139	0	2186
+full_rodaf	MCF-7	10	0.01	1.5	1.5	p0.01_fc1.5	9	1000	0.009	102	0	74
+full_rodaf	MCF-7	10	0.025	1.5	1.5	p0.025_fc1.5	9	1000	0.009	122	0	74
+full_rodaf	MCF-7	10	0.05	1.5	1.5	p0.05_fc1.5	9	1000	0.009	128	0	74
+full_rodaf	MCF-7	10	0.01	2	2.0	p0.01_fc2.0	3	1000	0.003	7	0	5
+full_rodaf	MCF-7	10	0.025	2	2.0	p0.025_fc2.0	3	1000	0.003	9	0	7
+full_rodaf	MCF-7	10	0.05	2	2.0	p0.05_fc2.0	3	1000	0.003	9	0	7
+full_rodaf	HepaRG	3	0.01	NA	none	p0.01_fcnone	182	1000	0.182	3226	0	207
+full_rodaf	HepaRG	3	0.025	NA	none	p0.025_fcnone	203	1000	0.203	4887	0	303
+full_rodaf	HepaRG	3	0.05	NA	none	p0.05_fcnone	232	1000	0.232	7794	0	415
+full_rodaf	HepaRG	3	0.01	1.25	1.25	p0.01_fc1.25	134	1000	0.134	2255	0	158
+full_rodaf	HepaRG	3	0.025	1.25	1.25	p0.025_fc1.25	140	1000	0.14	2725	0	180
+full_rodaf	HepaRG	3	0.05	1.25	1.25	p0.05_fc1.25	144	1000	0.144	2999	0	184
+full_rodaf	HepaRG	3	0.01	1.5	1.5	p0.01_fc1.5	85	1000	0.085	616	0	52
+full_rodaf	HepaRG	3	0.025	1.5	1.5	p0.025_fc1.5	87	1000	0.087	634	0	55
+full_rodaf	HepaRG	3	0.05	1.5	1.5	p0.05_fc1.5	87	1000	0.087	637	0	55
+full_rodaf	HepaRG	3	0.01	2	2.0	p0.01_fc2.0	34	1000	0.034	58	0	8
+full_rodaf	HepaRG	3	0.025	2	2.0	p0.025_fc2.0	34	1000	0.034	58	0	8
+full_rodaf	HepaRG	3	0.05	2	2.0	p0.05_fc2.0	34	1000	0.034	58	0	8
+full_rodaf	HepaRG	4	0.01	NA	none	p0.01_fcnone	133	1000	0.133	1857	0	236
+full_rodaf	HepaRG	4	0.025	NA	none	p0.025_fcnone	158	1000	0.158	3200	0	339
+full_rodaf	HepaRG	4	0.05	NA	none	p0.05_fcnone	183	1000	0.183	5598	0	441
+full_rodaf	HepaRG	4	0.01	1.25	1.25	p0.01_fc1.25	87	1000	0.087	1151	0	210
+full_rodaf	HepaRG	4	0.025	1.25	1.25	p0.025_fc1.25	95	1000	0.095	1451	0	260
+full_rodaf	HepaRG	4	0.05	1.25	1.25	p0.05_fc1.25	102	1000	0.102	1608	0	284
+full_rodaf	HepaRG	4	0.01	1.5	1.5	p0.01_fc1.5	45	1000	0.045	293	0	96
+full_rodaf	HepaRG	4	0.025	1.5	1.5	p0.025_fc1.5	46	1000	0.046	296	0	96
+full_rodaf	HepaRG	4	0.05	1.5	1.5	p0.05_fc1.5	48	1000	0.048	299	0	96
+full_rodaf	HepaRG	4	0.01	2	2.0	p0.01_fc2.0	13	1000	0.013	18	0	3
+full_rodaf	HepaRG	4	0.025	2	2.0	p0.025_fc2.0	14	1000	0.014	19	0	3
+full_rodaf	HepaRG	4	0.05	2	2.0	p0.05_fc2.0	14	1000	0.014	19	0	3
+full_rodaf	HepaRG	5	0.01	NA	none	p0.01_fcnone	95	1000	0.095	1471	0	146
+full_rodaf	HepaRG	5	0.025	NA	none	p0.025_fcnone	128	1000	0.128	2682	0	222
+full_rodaf	HepaRG	5	0.05	NA	none	p0.05_fcnone	153	1000	0.153	5294	0	311
+full_rodaf	HepaRG	5	0.01	1.25	1.25	p0.01_fc1.25	67	1000	0.067	774	0	95
+full_rodaf	HepaRG	5	0.025	1.25	1.25	p0.025_fc1.25	74	1000	0.074	940	0	115
+full_rodaf	HepaRG	5	0.05	1.25	1.25	p0.05_fc1.25	81	1000	0.081	964	0	117
+full_rodaf	HepaRG	5	0.01	1.5	1.5	p0.01_fc1.5	27	1000	0.027	95	0	23
+full_rodaf	HepaRG	5	0.025	1.5	1.5	p0.025_fc1.5	28	1000	0.028	96	0	23
+full_rodaf	HepaRG	5	0.05	1.5	1.5	p0.05_fc1.5	30	1000	0.03	98	0	23
+full_rodaf	HepaRG	5	0.01	2	2.0	p0.01_fc2.0	6	1000	0.006	8	0	3
+full_rodaf	HepaRG	5	0.025	2	2.0	p0.025_fc2.0	6	1000	0.006	8	0	3
+full_rodaf	HepaRG	5	0.05	2	2.0	p0.05_fc2.0	6	1000	0.006	8	0	3
+full_rodaf	HepaRG	6	0.01	NA	none	p0.01_fcnone	81	1000	0.081	764	0	76
+full_rodaf	HepaRG	6	0.025	NA	none	p0.025_fcnone	110	1000	0.11	1651	0	113
+full_rodaf	HepaRG	6	0.05	NA	none	p0.05_fcnone	142	1000	0.142	3718	0	209
+full_rodaf	HepaRG	6	0.01	1.25	1.25	p0.01_fc1.25	46	1000	0.046	310	0	39
+full_rodaf	HepaRG	6	0.025	1.25	1.25	p0.025_fc1.25	57	1000	0.057	394	0	45
+full_rodaf	HepaRG	6	0.05	1.25	1.25	p0.05_fc1.25	61	1000	0.061	416	0	45
+full_rodaf	HepaRG	6	0.01	1.5	1.5	p0.01_fc1.5	24	1000	0.024	51	0	9
+full_rodaf	HepaRG	6	0.025	1.5	1.5	p0.025_fc1.5	27	1000	0.027	56	0	9
+full_rodaf	HepaRG	6	0.05	1.5	1.5	p0.05_fc1.5	27	1000	0.027	56	0	9
+full_rodaf	HepaRG	6	0.01	2	2.0	p0.01_fc2.0	3	1000	0.003	3	0	1
+full_rodaf	HepaRG	6	0.025	2	2.0	p0.025_fc2.0	3	1000	0.003	3	0	1
+full_rodaf	HepaRG	6	0.05	2	2.0	p0.05_fc2.0	3	1000	0.003	3	0	1
+full_rodaf	HepaRG	7	0.01	NA	none	p0.01_fcnone	76	1000	0.076	865	0	326
+full_rodaf	HepaRG	7	0.025	NA	none	p0.025_fcnone	111	1000	0.111	1803	0	492
+full_rodaf	HepaRG	7	0.05	NA	none	p0.05_fcnone	146	1000	0.146	3864	0	703
+full_rodaf	HepaRG	7	0.01	1.25	1.25	p0.01_fc1.25	44	1000	0.044	339	0	99
+full_rodaf	HepaRG	7	0.025	1.25	1.25	p0.025_fc1.25	55	1000	0.055	401	0	114
+full_rodaf	HepaRG	7	0.05	1.25	1.25	p0.05_fc1.25	55	1000	0.055	405	0	114
+full_rodaf	HepaRG	7	0.01	1.5	1.5	p0.01_fc1.5	13	1000	0.013	27	0	8
+full_rodaf	HepaRG	7	0.025	1.5	1.5	p0.025_fc1.5	17	1000	0.017	31	0	8
+full_rodaf	HepaRG	7	0.05	1.5	1.5	p0.05_fc1.5	17	1000	0.017	31	0	8
+full_rodaf	HepaRG	7	0.01	2	2.0	p0.01_fc2.0	2	1000	0.002	2	0	1
+full_rodaf	HepaRG	7	0.025	2	2.0	p0.025_fc2.0	2	1000	0.002	2	0	1
+full_rodaf	HepaRG	7	0.05	2	2.0	p0.05_fc2.0	2	1000	0.002	2	0	1
+full_rodaf	HepaRG	8	0.01	NA	none	p0.01_fcnone	71	1000	0.071	755	0	184
+full_rodaf	HepaRG	8	0.025	NA	none	p0.025_fcnone	101	1000	0.101	1804	0	260
+full_rodaf	HepaRG	8	0.05	NA	none	p0.05_fcnone	126	1000	0.126	4090	0	447
+full_rodaf	HepaRG	8	0.01	1.25	1.25	p0.01_fc1.25	35	1000	0.035	216	0	94
+full_rodaf	HepaRG	8	0.025	1.25	1.25	p0.025_fc1.25	47	1000	0.047	253	0	98
+full_rodaf	HepaRG	8	0.05	1.25	1.25	p0.05_fc1.25	47	1000	0.047	259	0	98
+full_rodaf	HepaRG	8	0.01	1.5	1.5	p0.01_fc1.5	13	1000	0.013	22	0	10
+full_rodaf	HepaRG	8	0.025	1.5	1.5	p0.025_fc1.5	18	1000	0.018	27	0	10
+full_rodaf	HepaRG	8	0.05	1.5	1.5	p0.05_fc1.5	18	1000	0.018	27	0	10
+full_rodaf	HepaRG	8	0.01	2	2.0	p0.01_fc2.0	3	1000	0.003	3	0	1
+full_rodaf	HepaRG	8	0.025	2	2.0	p0.025_fc2.0	3	1000	0.003	3	0	1
+full_rodaf	HepaRG	8	0.05	2	2.0	p0.05_fc2.0	3	1000	0.003	3	0	1
+full_rodaf	HepaRG	9	0.01	NA	none	p0.01_fcnone	48	1000	0.048	220	0	79
+full_rodaf	HepaRG	9	0.025	NA	none	p0.025_fcnone	84	1000	0.084	671	0	183
+full_rodaf	HepaRG	9	0.05	NA	none	p0.05_fcnone	127	1000	0.127	1868	0	314
+full_rodaf	HepaRG	9	0.01	1.25	1.25	p0.01_fc1.25	25	1000	0.025	52	0	9
+full_rodaf	HepaRG	9	0.025	1.25	1.25	p0.025_fc1.25	37	1000	0.037	70	0	10
+full_rodaf	HepaRG	9	0.05	1.25	1.25	p0.05_fc1.25	38	1000	0.038	77	0	10
+full_rodaf	HepaRG	9	0.01	1.5	1.5	p0.01_fc1.5	10	1000	0.01	11	0	2
+full_rodaf	HepaRG	9	0.025	1.5	1.5	p0.025_fc1.5	12	1000	0.012	13	0	2
+full_rodaf	HepaRG	9	0.05	1.5	1.5	p0.05_fc1.5	12	1000	0.012	13	0	2
+full_rodaf	HepaRG	9	0.01	2	2.0	p0.01_fc2.0	4	1000	0.004	4	0	1
+full_rodaf	HepaRG	9	0.025	2	2.0	p0.025_fc2.0	4	1000	0.004	4	0	1
+full_rodaf	HepaRG	9	0.05	2	2.0	p0.05_fc2.0	4	1000	0.004	4	0	1
+full_rodaf	HepaRG	10	0.01	NA	none	p0.01_fcnone	43	1000	0.043	826	0	300
+full_rodaf	HepaRG	10	0.025	NA	none	p0.025_fcnone	63	1000	0.063	1933	0	493
+full_rodaf	HepaRG	10	0.05	NA	none	p0.05_fcnone	100	1000	0.1	4103	0	738
+full_rodaf	HepaRG	10	0.01	1.25	1.25	p0.01_fc1.25	20	1000	0.02	160	0	67
+full_rodaf	HepaRG	10	0.025	1.25	1.25	p0.025_fc1.25	24	1000	0.024	175	0	67
+full_rodaf	HepaRG	10	0.05	1.25	1.25	p0.05_fc1.25	26	1000	0.026	179	0	67
+full_rodaf	HepaRG	10	0.01	1.5	1.5	p0.01_fc1.5	8	1000	0.008	11	0	3
+full_rodaf	HepaRG	10	0.025	1.5	1.5	p0.025_fc1.5	9	1000	0.009	13	0	3
+full_rodaf	HepaRG	10	0.05	1.5	1.5	p0.05_fc1.5	9	1000	0.009	13	0	3
+full_rodaf	HepaRG	10	0.01	2	2.0	p0.01_fc2.0	4	1000	0.004	4	0	1
+full_rodaf	HepaRG	10	0.025	2	2.0	p0.025_fc2.0	4	1000	0.004	4	0	1
+full_rodaf	HepaRG	10	0.05	2	2.0	p0.05_fc2.0	4	1000	0.004	4	0	1
+full_rodaf	Liver spheroids	3	0.01	NA	none	p0.01_fcnone	329	1000	0.329	9998	0	1751
+full_rodaf	Liver spheroids	3	0.025	NA	none	p0.025_fcnone	387	1000	0.387	16576	0	2162
+full_rodaf	Liver spheroids	3	0.05	NA	none	p0.05_fcnone	437	1000	0.437	27414	0	2635
+full_rodaf	Liver spheroids	3	0.01	1.25	1.25	p0.01_fc1.25	260	1000	0.26	9544	0	1722
+full_rodaf	Liver spheroids	3	0.025	1.25	1.25	p0.025_fc1.25	293	1000	0.293	15162	0	2092
+full_rodaf	Liver spheroids	3	0.05	1.25	1.25	p0.05_fc1.25	303	1000	0.303	22413	0	2502
+full_rodaf	Liver spheroids	3	0.01	1.5	1.5	p0.01_fc1.5	209	1000	0.209	3627	0	1038
+full_rodaf	Liver spheroids	3	0.025	1.5	1.5	p0.025_fc1.5	238	1000	0.238	4002	0	1151
+full_rodaf	Liver spheroids	3	0.05	1.5	1.5	p0.05_fc1.5	244	1000	0.244	4535	0	1192
+full_rodaf	Liver spheroids	3	0.01	2	2.0	p0.01_fc2.0	168	1000	0.168	509	0	135
+full_rodaf	Liver spheroids	3	0.025	2	2.0	p0.025_fc2.0	192	1000	0.192	588	0	135
+full_rodaf	Liver spheroids	3	0.05	2	2.0	p0.05_fc2.0	198	1000	0.198	868	0	136
+full_rodaf	Liver spheroids	4	0.01	NA	none	p0.01_fcnone	232	1000	0.232	6719	0	665
+full_rodaf	Liver spheroids	4	0.025	NA	none	p0.025_fcnone	290	1000	0.29	12812	0	1071
+full_rodaf	Liver spheroids	4	0.05	NA	none	p0.05_fcnone	348	1000	0.348	23041	0	1594
+full_rodaf	Liver spheroids	4	0.01	1.25	1.25	p0.01_fc1.25	192	1000	0.192	6130	0	662
+full_rodaf	Liver spheroids	4	0.025	1.25	1.25	p0.025_fc1.25	219	1000	0.219	10610	0	1031
+full_rodaf	Liver spheroids	4	0.05	1.25	1.25	p0.05_fc1.25	233	1000	0.233	15642	0	1440
+full_rodaf	Liver spheroids	4	0.01	1.5	1.5	p0.01_fc1.5	146	1000	0.146	1042	0	192
+full_rodaf	Liver spheroids	4	0.025	1.5	1.5	p0.025_fc1.5	165	1000	0.165	1154	0	192
+full_rodaf	Liver spheroids	4	0.05	1.5	1.5	p0.05_fc1.5	173	1000	0.173	1657	0	269
+full_rodaf	Liver spheroids	4	0.01	2	2.0	p0.01_fc2.0	112	1000	0.112	203	0	9
+full_rodaf	Liver spheroids	4	0.025	2	2.0	p0.025_fc2.0	128	1000	0.128	258	0	19
+full_rodaf	Liver spheroids	4	0.05	2	2.0	p0.05_fc2.0	130	1000	0.13	325	0	67
+full_rodaf	Liver spheroids	5	0.01	NA	none	p0.01_fcnone	147	1000	0.147	2623	0	1150
+full_rodaf	Liver spheroids	5	0.025	NA	none	p0.025_fcnone	193	1000	0.193	4971	0	1591
+full_rodaf	Liver spheroids	5	0.05	NA	none	p0.05_fcnone	244	1000	0.244	9609	0	2132
+full_rodaf	Liver spheroids	5	0.01	1.25	1.25	p0.01_fc1.25	125	1000	0.125	2349	0	1067
+full_rodaf	Liver spheroids	5	0.025	1.25	1.25	p0.025_fc1.25	151	1000	0.151	3874	0	1386
+full_rodaf	Liver spheroids	5	0.05	1.25	1.25	p0.05_fc1.25	163	1000	0.163	5304	0	1703
+full_rodaf	Liver spheroids	5	0.01	1.5	1.5	p0.01_fc1.5	98	1000	0.098	413	0	221
+full_rodaf	Liver spheroids	5	0.025	1.5	1.5	p0.025_fc1.5	117	1000	0.117	510	0	221
+full_rodaf	Liver spheroids	5	0.05	1.5	1.5	p0.05_fc1.5	122	1000	0.122	573	0	221
+full_rodaf	Liver spheroids	5	0.01	2	2.0	p0.01_fc2.0	77	1000	0.077	114	0	5
+full_rodaf	Liver spheroids	5	0.025	2	2.0	p0.025_fc2.0	88	1000	0.088	157	0	12
+full_rodaf	Liver spheroids	5	0.05	2	2.0	p0.05_fc2.0	90	1000	0.09	175	0	15
+full_rodaf	Liver spheroids	6	0.01	NA	none	p0.01_fcnone	141	1000	0.141	3234	0	1738
+full_rodaf	Liver spheroids	6	0.025	NA	none	p0.025_fcnone	185	1000	0.185	5786	0	2306
+full_rodaf	Liver spheroids	6	0.05	NA	none	p0.05_fcnone	234	1000	0.234	11113	0	2867
+full_rodaf	Liver spheroids	6	0.01	1.25	1.25	p0.01_fc1.25	116	1000	0.116	2846	0	1584
+full_rodaf	Liver spheroids	6	0.025	1.25	1.25	p0.025_fc1.25	142	1000	0.142	4146	0	1947
+full_rodaf	Liver spheroids	6	0.05	1.25	1.25	p0.05_fc1.25	156	1000	0.156	5286	0	2255
+full_rodaf	Liver spheroids	6	0.01	1.5	1.5	p0.01_fc1.5	81	1000	0.081	611	0	416
+full_rodaf	Liver spheroids	6	0.025	1.5	1.5	p0.025_fc1.5	100	1000	0.1	656	0	416
+full_rodaf	Liver spheroids	6	0.05	1.5	1.5	p0.05_fc1.5	109	1000	0.109	927	0	416
+full_rodaf	Liver spheroids	6	0.01	2	2.0	p0.01_fc2.0	67	1000	0.067	106	0	9
+full_rodaf	Liver spheroids	6	0.025	2	2.0	p0.025_fc2.0	79	1000	0.079	131	0	9
+full_rodaf	Liver spheroids	6	0.05	2	2.0	p0.05_fc2.0	81	1000	0.081	146	0	9
+full_rodaf	Liver spheroids	7	0.01	NA	none	p0.01_fcnone	91	1000	0.091	2892	0	755
+full_rodaf	Liver spheroids	7	0.025	NA	none	p0.025_fcnone	135	1000	0.135	5832	0	1247
+full_rodaf	Liver spheroids	7	0.05	NA	none	p0.05_fcnone	189	1000	0.189	11135	0	1814
+full_rodaf	Liver spheroids	7	0.01	1.25	1.25	p0.01_fc1.25	72	1000	0.072	2336	0	659
+full_rodaf	Liver spheroids	7	0.025	1.25	1.25	p0.025_fc1.25	91	1000	0.091	3443	0	926
+full_rodaf	Liver spheroids	7	0.05	1.25	1.25	p0.05_fc1.25	100	1000	0.1	3951	0	1091
+full_rodaf	Liver spheroids	7	0.01	1.5	1.5	p0.01_fc1.5	52	1000	0.052	127	0	40
+full_rodaf	Liver spheroids	7	0.025	1.5	1.5	p0.025_fc1.5	64	1000	0.064	154	0	40
+full_rodaf	Liver spheroids	7	0.05	1.5	1.5	p0.05_fc1.5	68	1000	0.068	169	0	40
+full_rodaf	Liver spheroids	7	0.01	2	2.0	p0.01_fc2.0	35	1000	0.035	45	0	5
+full_rodaf	Liver spheroids	7	0.025	2	2.0	p0.025_fc2.0	39	1000	0.039	55	0	6
+full_rodaf	Liver spheroids	7	0.05	2	2.0	p0.05_fc2.0	42	1000	0.042	61	0	8
+full_rodaf	Liver spheroids	8	0.01	NA	none	p0.01_fcnone	74	1000	0.074	2863	0	769
+full_rodaf	Liver spheroids	8	0.025	NA	none	p0.025_fcnone	118	1000	0.118	6731	0	1293
+full_rodaf	Liver spheroids	8	0.05	NA	none	p0.05_fcnone	164	1000	0.164	13341	0	1850
+full_rodaf	Liver spheroids	8	0.01	1.25	1.25	p0.01_fc1.25	64	1000	0.064	2140	0	620
+full_rodaf	Liver spheroids	8	0.025	1.25	1.25	p0.025_fc1.25	91	1000	0.091	3515	0	860
+full_rodaf	Liver spheroids	8	0.05	1.25	1.25	p0.05_fc1.25	97	1000	0.097	3988	0	947
+full_rodaf	Liver spheroids	8	0.01	1.5	1.5	p0.01_fc1.5	38	1000	0.038	72	0	13
+full_rodaf	Liver spheroids	8	0.025	1.5	1.5	p0.025_fc1.5	60	1000	0.06	115	0	13
+full_rodaf	Liver spheroids	8	0.05	1.5	1.5	p0.05_fc1.5	62	1000	0.062	128	0	13
+full_rodaf	Liver spheroids	8	0.01	2	2.0	p0.01_fc2.0	29	1000	0.029	39	0	5
+full_rodaf	Liver spheroids	8	0.025	2	2.0	p0.025_fc2.0	41	1000	0.041	56	0	5
+full_rodaf	Liver spheroids	8	0.05	2	2.0	p0.05_fc2.0	41	1000	0.041	56	0	5
+full_rodaf	Liver spheroids	9	0.01	NA	none	p0.01_fcnone	71	1000	0.071	1452	0	504
+full_rodaf	Liver spheroids	9	0.025	NA	none	p0.025_fcnone	109	1000	0.109	3765	0	884
+full_rodaf	Liver spheroids	9	0.05	NA	none	p0.05_fcnone	159	1000	0.159	8560	0	1339
+full_rodaf	Liver spheroids	9	0.01	1.25	1.25	p0.01_fc1.25	54	1000	0.054	783	0	268
+full_rodaf	Liver spheroids	9	0.025	1.25	1.25	p0.025_fc1.25	73	1000	0.073	1188	0	464
+full_rodaf	Liver spheroids	9	0.05	1.25	1.25	p0.05_fc1.25	82	1000	0.082	1676	0	537
+full_rodaf	Liver spheroids	9	0.01	1.5	1.5	p0.01_fc1.5	33	1000	0.033	48	0	6
+full_rodaf	Liver spheroids	9	0.025	1.5	1.5	p0.025_fc1.5	47	1000	0.047	81	0	14
+full_rodaf	Liver spheroids	9	0.05	1.5	1.5	p0.05_fc1.5	49	1000	0.049	97	0	15
+full_rodaf	Liver spheroids	9	0.01	2	2.0	p0.01_fc2.0	24	1000	0.024	27	0	3
+full_rodaf	Liver spheroids	9	0.025	2	2.0	p0.025_fc2.0	32	1000	0.032	39	0	3
+full_rodaf	Liver spheroids	9	0.05	2	2.0	p0.05_fc2.0	34	1000	0.034	44	0	3
+full_rodaf	Liver spheroids	10	0.01	NA	none	p0.01_fcnone	41	1000	0.041	1417	0	873
+full_rodaf	Liver spheroids	10	0.025	NA	none	p0.025_fcnone	81	1000	0.081	2990	0	1442
+full_rodaf	Liver spheroids	10	0.05	NA	none	p0.05_fcnone	140	1000	0.14	6827	0	1969
+full_rodaf	Liver spheroids	10	0.01	1.25	1.25	p0.01_fc1.25	24	1000	0.024	918	0	657
+full_rodaf	Liver spheroids	10	0.025	1.25	1.25	p0.025_fc1.25	45	1000	0.045	1261	0	835
+full_rodaf	Liver spheroids	10	0.05	1.25	1.25	p0.05_fc1.25	54	1000	0.054	1315	0	843
+full_rodaf	Liver spheroids	10	0.01	1.5	1.5	p0.01_fc1.5	17	1000	0.017	25	0	6
+full_rodaf	Liver spheroids	10	0.025	1.5	1.5	p0.025_fc1.5	29	1000	0.029	44	0	6
+full_rodaf	Liver spheroids	10	0.05	1.5	1.5	p0.05_fc1.5	33	1000	0.033	59	0	6
+full_rodaf	Liver spheroids	10	0.01	2	2.0	p0.01_fc2.0	15	1000	0.015	17	0	2
+full_rodaf	Liver spheroids	10	0.025	2	2.0	p0.025_fc2.0	23	1000	0.023	29	0	3
+full_rodaf	Liver spheroids	10	0.05	2	2.0	p0.05_fc2.0	24	1000	0.024	33	0	5

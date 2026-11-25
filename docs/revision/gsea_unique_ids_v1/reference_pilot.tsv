@@ -1,0 +1,18 @@
+run	unique_significant	duplicate_significant	unique_undefined	duplicate_undefined	unique_elapsed	duplicate_elapsed
+Liver spheroids_3_3_1	133	2	0	0	10.14	3.415
+Liver spheroids_3_3_12	56	96	0	0	4.972	5.684
+Liver spheroids_3_3_334	0	0	0	0	2.529	2.06
+Liver spheroids_4_4_380	133	126	0	0	14.567	12.976
+Liver spheroids_10_10_1	4	133	0	0	4.22	6.32
+TK6_3_3_1	181	168	0	0	9.312	10.903
+TK6_3_3_6	241	203	0	0	14.408	11.247
+TK6_3_3_15	257	192	6	0	9.293	6.109
+TK6_4_4_863	273	227	3	0	11.971	6.201
+TK6_10_10_1	86	7	0	0	4.554	2.354
+HepaRG_3_3_1	44	61	0	0	5.249	4.377
+HepaRG_10_10_1	122	4	0	0	10.187	2.83
+HepaRG_10_10_78	252	250	0	0	21.003	18.078
+MCF-7_3_3_1	125	117	0	0	8.127	6.195
+MCF-7_5_5_159	345	322	0	0	25.696	22.644
+MCF-7_5_5_421	0	0	0	0	2.335	1.649
+MCF-7_10_10_1	48	8	0	0	4.456	3.19

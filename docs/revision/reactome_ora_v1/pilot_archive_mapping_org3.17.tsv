@@ -1,0 +1,21 @@
+run	db	n_selected	n_archived	selected_equal	background_archived_subset	background_equal	selected_missing	selected_added
+TK6_3_3_15	enrich_go_bp	2138	2138	TRUE	TRUE	TRUE		
+TK6_3_3_15	enricher_wikipathways	2138	2138	TRUE	TRUE	TRUE		
+TK6_4_4_863	enrich_go_bp	1086	1086	TRUE	TRUE	TRUE		
+TK6_4_4_863	enricher_wikipathways	1086	1086	TRUE	TRUE	TRUE		
+MCF-7_3_3_1	enrich_go_bp	6	6	TRUE	TRUE	TRUE		
+MCF-7_3_3_1	enricher_wikipathways	6	6	TRUE	TRUE	TRUE		
+MCF-7_5_5_159	enrich_go_bp	431	431	TRUE	TRUE	TRUE		
+MCF-7_5_5_159	enricher_wikipathways	431	431	TRUE	TRUE	TRUE		
+MCF-7_5_5_421	enrich_go_bp	8	8	TRUE	TRUE	TRUE		
+MCF-7_5_5_421	enricher_wikipathways	8	8	TRUE	TRUE	TRUE		
+HepaRG_3_3_1	enrich_go_bp	2	2	TRUE	TRUE	TRUE		
+HepaRG_3_3_1	enricher_wikipathways	2	2	TRUE	TRUE	TRUE		
+HepaRG_10_10_78	enrich_go_bp	3	3	TRUE	TRUE	TRUE		
+HepaRG_10_10_78	enricher_wikipathways	3	3	TRUE	TRUE	TRUE		
+Liver spheroids_3_3_12	enrich_go_bp	22	22	TRUE	TRUE	TRUE		
+Liver spheroids_3_3_12	enricher_wikipathways	22	22	TRUE	TRUE	TRUE		
+Liver spheroids_3_3_334	enrich_go_bp	3	3	TRUE	TRUE	TRUE		
+Liver spheroids_3_3_334	enricher_wikipathways	3	3	TRUE	TRUE	TRUE		
+Liver spheroids_4_4_380	enrich_go_bp	27	27	TRUE	TRUE	TRUE		
+Liver spheroids_4_4_380	enricher_wikipathways	27	27	TRUE	TRUE	TRUE		

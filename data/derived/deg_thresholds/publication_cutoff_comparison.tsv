@@ -1,0 +1,129 @@
+publication_label	endpoint	fc_label	cell	n	trials	discrepant_count_trials	publication_positive_trials	archive_positive_trials
+Final DEGs	full_rodaf	1.5	TK6	3	1000	0	149	149
+Final DEGs	full_rodaf	1.5	TK6	4	1000	0	97	97
+Final DEGs	full_rodaf	1.5	TK6	5	1000	0	88	88
+Final DEGs	full_rodaf	1.5	TK6	6	1000	0	79	79
+Final DEGs	full_rodaf	1.5	TK6	7	1000	0	86	86
+Final DEGs	full_rodaf	1.5	TK6	8	1000	0	63	63
+Final DEGs	full_rodaf	1.5	TK6	9	1000	0	74	74
+Final DEGs	full_rodaf	1.5	TK6	10	1000	0	70	70
+Final DEGs	full_rodaf	1.5	MCF-7	3	1000	0	154	154
+Final DEGs	full_rodaf	1.5	MCF-7	4	1000	0	75	75
+Final DEGs	full_rodaf	1.5	MCF-7	5	1000	0	61	61
+Final DEGs	full_rodaf	1.5	MCF-7	6	1000	0	38	38
+Final DEGs	full_rodaf	1.5	MCF-7	7	1000	0	23	23
+Final DEGs	full_rodaf	1.5	MCF-7	8	1000	0	17	17
+Final DEGs	full_rodaf	1.5	MCF-7	9	1000	0	11	11
+Final DEGs	full_rodaf	1.5	MCF-7	10	1000	0	9	9
+Final DEGs	full_rodaf	1.5	HepaRG	3	1000	0	87	87
+Final DEGs	full_rodaf	1.5	HepaRG	4	1000	0	48	48
+Final DEGs	full_rodaf	1.5	HepaRG	5	1000	0	30	30
+Final DEGs	full_rodaf	1.5	HepaRG	6	1000	0	27	27
+Final DEGs	full_rodaf	1.5	HepaRG	7	1000	0	17	17
+Final DEGs	full_rodaf	1.5	HepaRG	8	1000	0	18	18
+Final DEGs	full_rodaf	1.5	HepaRG	9	1000	0	12	12
+Final DEGs	full_rodaf	1.5	HepaRG	10	1000	0	9	9
+Final DEGs	full_rodaf	1.5	Liver spheroids	3	1000	0	244	244
+Final DEGs	full_rodaf	1.5	Liver spheroids	4	1000	0	173	173
+Final DEGs	full_rodaf	1.5	Liver spheroids	5	1000	0	122	122
+Final DEGs	full_rodaf	1.5	Liver spheroids	6	1000	0	109	109
+Final DEGs	full_rodaf	1.5	Liver spheroids	7	1000	0	68	68
+Final DEGs	full_rodaf	1.5	Liver spheroids	8	1000	0	62	62
+Final DEGs	full_rodaf	1.5	Liver spheroids	9	1000	0	49	49
+Final DEGs	full_rodaf	1.5	Liver spheroids	10	1000	0	33	33
+P-Value Only	screening	none	TK6	3	1000	116	198	198
+P-Value Only	screening	none	TK6	4	1000	69	137	137
+P-Value Only	screening	none	TK6	5	1000	64	127	127
+P-Value Only	screening	none	TK6	6	1000	45	120	120
+P-Value Only	screening	none	TK6	7	1000	55	146	146
+P-Value Only	screening	none	TK6	8	1000	39	114	114
+P-Value Only	screening	none	TK6	9	1000	52	123	123
+P-Value Only	screening	none	TK6	10	1000	41	109	109
+P-Value Only	screening	none	MCF-7	3	1000	158	237	237
+P-Value Only	screening	none	MCF-7	4	1000	98	159	159
+P-Value Only	screening	none	MCF-7	5	1000	104	154	154
+P-Value Only	screening	none	MCF-7	6	1000	71	127	127
+P-Value Only	screening	none	MCF-7	7	1000	64	115	115
+P-Value Only	screening	none	MCF-7	8	1000	57	100	100
+P-Value Only	screening	none	MCF-7	9	1000	46	86	86
+P-Value Only	screening	none	MCF-7	10	1000	46	109	109
+P-Value Only	screening	none	HepaRG	3	1000	128	232	232
+P-Value Only	screening	none	HepaRG	4	1000	84	183	183
+P-Value Only	screening	none	HepaRG	5	1000	84	153	153
+P-Value Only	screening	none	HepaRG	6	1000	73	142	142
+P-Value Only	screening	none	HepaRG	7	1000	50	146	146
+P-Value Only	screening	none	HepaRG	8	1000	54	126	126
+P-Value Only	screening	none	HepaRG	9	1000	28	127	127
+P-Value Only	screening	none	HepaRG	10	1000	36	100	100
+P-Value Only	screening	none	Liver spheroids	3	1000	128	437	437
+P-Value Only	screening	none	Liver spheroids	4	1000	110	350	350
+P-Value Only	screening	none	Liver spheroids	5	1000	54	246	246
+P-Value Only	screening	none	Liver spheroids	6	1000	57	239	239
+P-Value Only	screening	none	Liver spheroids	7	1000	42	191	191
+P-Value Only	screening	none	Liver spheroids	8	1000	36	170	170
+P-Value Only	screening	none	Liver spheroids	9	1000	36	164	164
+P-Value Only	screening	none	Liver spheroids	10	1000	26	149	149
+P-Value + Fold Change	screening	1.5	TK6	3	1000	73	149	149
+P-Value + Fold Change	screening	1.5	TK6	4	1000	42	97	97
+P-Value + Fold Change	screening	1.5	TK6	5	1000	48	90	88
+P-Value + Fold Change	screening	1.5	TK6	6	1000	29	81	80
+P-Value + Fold Change	screening	1.5	TK6	7	1000	37	88	88
+P-Value + Fold Change	screening	1.5	TK6	8	1000	31	66	65
+P-Value + Fold Change	screening	1.5	TK6	9	1000	42	82	80
+P-Value + Fold Change	screening	1.5	TK6	10	1000	31	75	73
+P-Value + Fold Change	screening	1.5	MCF-7	3	1000	43	154	154
+P-Value + Fold Change	screening	1.5	MCF-7	4	1000	23	78	75
+P-Value + Fold Change	screening	1.5	MCF-7	5	1000	7	61	61
+P-Value + Fold Change	screening	1.5	MCF-7	6	1000	8	40	38
+P-Value + Fold Change	screening	1.5	MCF-7	7	1000	5	25	23
+P-Value + Fold Change	screening	1.5	MCF-7	8	1000	5	17	17
+P-Value + Fold Change	screening	1.5	MCF-7	9	1000	1	13	12
+P-Value + Fold Change	screening	1.5	MCF-7	10	1000	0	9	9
+P-Value + Fold Change	screening	1.5	HepaRG	3	1000	39	94	87
+P-Value + Fold Change	screening	1.5	HepaRG	4	1000	14	50	48
+P-Value + Fold Change	screening	1.5	HepaRG	5	1000	17	37	30
+P-Value + Fold Change	screening	1.5	HepaRG	6	1000	6	29	27
+P-Value + Fold Change	screening	1.5	HepaRG	7	1000	10	25	17
+P-Value + Fold Change	screening	1.5	HepaRG	8	1000	6	21	18
+P-Value + Fold Change	screening	1.5	HepaRG	9	1000	3	15	12
+P-Value + Fold Change	screening	1.5	HepaRG	10	1000	5	13	9
+P-Value + Fold Change	screening	1.5	Liver spheroids	3	1000	48	252	244
+P-Value + Fold Change	screening	1.5	Liver spheroids	4	1000	16	177	174
+P-Value + Fold Change	screening	1.5	Liver spheroids	5	1000	9	127	123
+P-Value + Fold Change	screening	1.5	Liver spheroids	6	1000	8	114	111
+P-Value + Fold Change	screening	1.5	Liver spheroids	7	1000	4	72	69
+P-Value + Fold Change	screening	1.5	Liver spheroids	8	1000	6	66	64
+P-Value + Fold Change	screening	1.5	Liver spheroids	9	1000	4	53	50
+P-Value + Fold Change	screening	1.5	Liver spheroids	10	1000	2	40	39
+R-ODAF + P-Value	screening	none	TK6	3	1000	123	196	198
+R-ODAF + P-Value	screening	none	TK6	4	1000	72	136	137
+R-ODAF + P-Value	screening	none	TK6	5	1000	65	126	127
+R-ODAF + P-Value	screening	none	TK6	6	1000	55	118	120
+R-ODAF + P-Value	screening	none	TK6	7	1000	72	142	146
+R-ODAF + P-Value	screening	none	TK6	8	1000	52	111	114
+R-ODAF + P-Value	screening	none	TK6	9	1000	67	113	123
+R-ODAF + P-Value	screening	none	TK6	10	1000	57	108	109
+R-ODAF + P-Value	screening	none	MCF-7	3	1000	158	237	237
+R-ODAF + P-Value	screening	none	MCF-7	4	1000	98	159	159
+R-ODAF + P-Value	screening	none	MCF-7	5	1000	104	154	154
+R-ODAF + P-Value	screening	none	MCF-7	6	1000	71	127	127
+R-ODAF + P-Value	screening	none	MCF-7	7	1000	64	115	115
+R-ODAF + P-Value	screening	none	MCF-7	8	1000	57	100	100
+R-ODAF + P-Value	screening	none	MCF-7	9	1000	47	85	86
+R-ODAF + P-Value	screening	none	MCF-7	10	1000	46	109	109
+R-ODAF + P-Value	screening	none	HepaRG	3	1000	128	232	232
+R-ODAF + P-Value	screening	none	HepaRG	4	1000	84	183	183
+R-ODAF + P-Value	screening	none	HepaRG	5	1000	84	153	153
+R-ODAF + P-Value	screening	none	HepaRG	6	1000	73	142	142
+R-ODAF + P-Value	screening	none	HepaRG	7	1000	50	146	146
+R-ODAF + P-Value	screening	none	HepaRG	8	1000	54	126	126
+R-ODAF + P-Value	screening	none	HepaRG	9	1000	28	127	127
+R-ODAF + P-Value	screening	none	HepaRG	10	1000	36	100	100
+R-ODAF + P-Value	screening	none	Liver spheroids	3	1000	130	437	437
+R-ODAF + P-Value	screening	none	Liver spheroids	4	1000	114	348	350
+R-ODAF + P-Value	screening	none	Liver spheroids	5	1000	61	244	246
+R-ODAF + P-Value	screening	none	Liver spheroids	6	1000	67	233	239
+R-ODAF + P-Value	screening	none	Liver spheroids	7	1000	47	189	191
+R-ODAF + P-Value	screening	none	Liver spheroids	8	1000	44	164	170
+R-ODAF + P-Value	screening	none	Liver spheroids	9	1000	41	159	164
+R-ODAF + P-Value	screening	none	Liver spheroids	10	1000	37	140	149

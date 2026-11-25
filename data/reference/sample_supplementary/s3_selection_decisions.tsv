@@ -1,0 +1,5 @@
+cell_line	trials_scanned	trial_name	left_panel_score	right_panel_score	pair_score	runner_up_score
+Liver spheroids	8000	Liver spheroids_4_4_712	4	2	6	65
+HepaRG	8000	HepaRG_4_4_582	4	2	6	61
+MCF-7	8000	MCF-7_4_4_59	5	4	9	60
+TK6	8000	TK6_4_4_136	2	2	4	39

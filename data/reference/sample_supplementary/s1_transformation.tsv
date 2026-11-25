@@ -1,0 +1,2 @@
+object	features	samples	serialized_assay_sha256	serialization	producer	fidelity	deseq2_extraction_version
+rldList$all	22460	365	a5966978ee3a7293021796a0020b4921f34a2acfc1713db783a1bac199ac38e7	R saveRDS version=2 compress=FALSE, original row/column order	scripts/DESeq_functions.R regularize_data: VST blind=FALSE, optional batch removal	Exact archived assay distances; not a fresh transform or raw-count proxy	1.38.0

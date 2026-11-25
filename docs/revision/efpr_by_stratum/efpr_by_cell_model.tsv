@@ -1,0 +1,5 @@
+cell_model	trials_per_endpoint	DEG adjusted p only (%)	DEG adjusted p and fold change (%)	Final DEGs (%)	ORA GO BP (%)	ORA Reactome (%)	ORA WikiPathways (%)	GSEA Figure 4A (%)	GSEA Figure 4B (%)	GSEA direct minSize 15 (%)
+TK6	8000	13.43	9.00	8.83	3.55	3.45	3.36	97.04	93.38	97.13
+MCF-7	8000	13.59	4.86	4.85	1.25	1.43	1.85	98.18	95.13	98.14
+HepaRG	8000	15.11	3.10	3.10	0.74	0.45	1.20	98.13	95.44	98.34
+Liver spheroids	8000	24.33	10.93	10.75	2.41	1.64	4.64	95.14	92.05	95.55

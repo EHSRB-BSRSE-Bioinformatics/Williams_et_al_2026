@@ -1,0 +1,4 @@
+publication_label	archive_stage	trials	discrepant_count_trials
+Final DEGs	final	32000	0
+P-Value Only	significant	32000	2151
+P-Value + Fold Change	significant_fc	32000	622

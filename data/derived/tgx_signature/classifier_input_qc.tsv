@@ -1,0 +1,5 @@
+cell	trials	assignment_matches	classifier_genes
+TK6	8000	8000	64
+MCF-7	8000	8000	64
+HepaRG	8000	8000	64
+Liver spheroids	8000	8000	64

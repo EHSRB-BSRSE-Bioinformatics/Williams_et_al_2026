@@ -1,0 +1,21 @@
+run	db	selected_equal	wp_universe_equal	n_selected	selected_missing	selected_added
+TK6_3_3_15	enrich_go_bp	TRUE	NA	2138		
+TK6_3_3_15	enricher_wikipathways	TRUE	TRUE	2138		
+TK6_4_4_863	enrich_go_bp	TRUE	NA	1086		
+TK6_4_4_863	enricher_wikipathways	TRUE	TRUE	1086		
+MCF-7_3_3_1	enrich_go_bp	TRUE	NA	6		
+MCF-7_3_3_1	enricher_wikipathways	TRUE	TRUE	6		
+MCF-7_5_5_159	enrich_go_bp	TRUE	NA	431		
+MCF-7_5_5_159	enricher_wikipathways	TRUE	TRUE	431		
+MCF-7_5_5_421	enrich_go_bp	TRUE	NA	8		
+MCF-7_5_5_421	enricher_wikipathways	TRUE	TRUE	8		
+HepaRG_3_3_1	enrich_go_bp	TRUE	NA	2		
+HepaRG_3_3_1	enricher_wikipathways	TRUE	TRUE	2		
+HepaRG_10_10_78	enrich_go_bp	TRUE	NA	3		
+HepaRG_10_10_78	enricher_wikipathways	TRUE	TRUE	3		
+Liver spheroids_3_3_12	enrich_go_bp	TRUE	NA	22		
+Liver spheroids_3_3_12	enricher_wikipathways	TRUE	TRUE	22		
+Liver spheroids_3_3_334	enrich_go_bp	TRUE	NA	3		
+Liver spheroids_3_3_334	enricher_wikipathways	TRUE	TRUE	3		
+Liver spheroids_4_4_380	enrich_go_bp	TRUE	NA	27		
+Liver spheroids_4_4_380	enricher_wikipathways	TRUE	TRUE	27		
