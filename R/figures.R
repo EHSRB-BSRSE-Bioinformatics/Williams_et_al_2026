@@ -714,7 +714,7 @@ build_tpod_fdr_main_figure <- function(
       linewidth = 0.8,
       inherit.aes = FALSE
     ) +
-    ggplot2::facet_grid(CellLine ~ ., switch = "y") +
+    ggplot2::facet_grid(CellLine ~ ., switch = "y", axes = "all_x") +
     ggplot2::scale_x_continuous(
       breaks = seq_along(tpod_compact_design_labels),
       labels = unname(tpod_compact_design_labels),
